@@ -13,7 +13,7 @@ LIMIT 20
 
 The limit 20 gets all the players with 8 blocks per game
 
-Results
+**Results**
 
 ![Alt text](image.png)
 
