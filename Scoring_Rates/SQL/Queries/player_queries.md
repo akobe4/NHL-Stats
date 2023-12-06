@@ -18,5 +18,20 @@ The limit 20 gets all the players with 8 blocks per game
 ![Alt text](image.png)
 
 
+**Players with the most total blocks on the season (top 10)**
+```SQL
+SELECT player_name
+	  ,team_code
+	  ,sum(blocks) AS total_blocks
+FROM players 
+GROUP BY player_name, team_code
+ORDER BY total_blocks DESC
+LIMIT 10
+```
+
+**Results**
+
+![Alt text](image-1.png)
+
 
 
