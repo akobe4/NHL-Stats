@@ -34,4 +34,25 @@ LIMIT 10
 ![Alt text](image-1.png)
 
 
+**Players with the most multi-goal games (top 10)**
+
+```SQL 
+SELECT player_name
+	  ,team_code
+	  ,COUNT(player_name) AS num_multigoal_games
+FROM players 
+WHERE goals > 1
+GROUP BY player_name
+		 ,team_code
+ORDER BY num_multigoal_games DESC
+LIMIT 12;
+```
+
+included limit 12 to get all players with 9 multi-goal games
+
+**Results**
+![Alt text](image-2.png)
+
+
+
 
