@@ -1,0 +1,1001 @@
+,team_id,team_code,game_num,game_date,location,goals,shots,pim,pp_perc,ppg,pp_opp,fo_win,blocked,takeaways,giveaways,hits,ref_1,ref_2,lines_1,lines_2,goals_p1,goals_p2,goals_p3,goals_p4,shots_p1,shots_p2,shots_p3,shots_p4,home_away
+0,1,NJD,2023020501,2023-12-21,Prudential Center,3,26,4,0.0,0/0,0/0,0.527273,18,8,14,32,Francois St-Laurent,Pierre Lambert,Shandor Alphonso,Jonathan Deschamps,1,2,0,NaN,12,6,8,NaN,home
+1,4,PHI,2023020502,2023-12-21,Wells Fargo Center,2,31,10,0.25,1/4,1/4,0.481481,12,1,5,22,Brian Pochmara,Cody Beach,Mark Shewchyk,Jonny Murray,1,1,0,NaN,13,13,5,NaN,home
+2,5,PIT,2023020503,2023-12-21,PPG Paints Arena,2,25,4,0.0,0/5,0/5,0.491803,27,9,17,26,Francis Charron,Peter MacDougall,Caleb Apperson,Kilian McNamara,1,0,0,0,5,9,8,3,home
+3,14,TBL,2023020504,2023-12-21,Amalie Arena,5,36,18,0.5,2/4,2/4,0.517857,14,7,8,26,Wes McCauley,Jean Hebert,CJ Murray,Ryan Jackson,0,4,1,NaN,11,13,12,NaN,home
+4,25,DAL,2023020505,2023-12-21,American Airlines Center,4,36,6,0.0,0/3,0/3,0.5,14,6,13,20,Mitch Dunning,Kendrick Nicholson,Andrew Smith,Ben O'Quinn,1,1,1,1,16,9,9,2,home
+5,30,MIN,2023020506,2023-12-21,Xcel Energy Center,4,24,25,0.333333,2/6,2/6,0.490909,11,8,12,21,Chris Schlenker,Furman South,Bevan Mills,Mitch Hunt,2,0,1,1,13,4,5,2,home
+6,21,COL,2023020507,2023-12-21,Ball Arena,6,39,12,0.8,4/5,4/5,0.5625,19,6,9,25,Kyle Rehman,Jordan Samuels-Thomas,Trent Knorr,Kiel Murchison,2,1,3,NaN,20,12,7,NaN,home
+7,24,ANA,2023020508,2023-12-21,Honda Center,0,25,19,0.0,0/4,0/4,0.5,15,4,5,16,Corey Syvret,Brandon Schrader,Travis Gawryletz,Travis Toomey,0,0,0,NaN,13,9,3,NaN,home
+8,28,SJS,2023020509,2023-12-21,SAP Center at San Jose,2,31,6,0.0,0/1,0/1,0.489796,18,2,9,11,Trevor Hanson,Graham Skilliter,Ryan Gibbons,Brandon Gawryletz,0,1,1,NaN,12,8,11,NaN,home
+9,17,DET,2023020510,2023-12-22,Little Caesars Arena,7,37,15,0.333333,1/3,1/3,0.507463,12,3,4,16,Garrett Rank,Ghislain Hebert,Tommy Hughes,Caleb Apperson,5,0,1,0,13,9,9,6,home
+10,3,NYR,2023020511,2023-12-22,Madison Square Garden,3,34,4,0.333333,1/3,1/3,0.410714,15,6,7,16,Jake Brenk,Beau Halkidis,Kyle Flemington,Mark Shewchyk,1,0,2,NaN,8,14,12,NaN,home
+11,52,WPG,2023020512,2023-12-22,Canada Life Centre,5,33,4,0.666667,2/3,2/3,0.573529,15,8,14,25,Tom Chmielewski,Chris Lee,Derek Nansen,Ryan Galloway,1,2,2,NaN,10,11,12,NaN,home
+12,16,CHI,2023020513,2023-12-22,United Center,2,21,11,0.0,0/1,0/1,0.431373,22,13,14,26,Mitch Dunning,Kevin Pollock,Brandon Grillo,Jesse Marquis,1,1,0,NaN,9,6,6,NaN,home
+13,13,FLA,2023020514,2023-12-23,Amerant Bank Arena,4,42,41,0.333333,2/6,2/6,0.523077,11,9,11,39,Brian Pochmara,Thomas John Luxmore,CJ Murray,Jonny Murray,0,2,2,NaN,20,14,8,NaN,home
+14,18,NSH,2023020515,2023-12-23,Bridgestone Arena,2,21,4,0.5,1/2,1/2,0.421053,27,8,4,40,Francis Charron,Morgan MacPhee,Andrew Smith,Matt MacPherson,0,2,0,NaN,12,7,2,NaN,home
+15,12,CAR,2023020516,2023-12-23,PNC Arena,4,40,8,0.5,2/4,2/4,0.485294,8,5,7,19,Jean Hebert,Frederick L'Ecuyer,Julien Fournier,Kilian McNamara,1,1,2,NaN,15,10,15,NaN,home
+16,29,CBJ,2023020517,2023-12-23,Nationwide Arena,1,28,8,0.0,0/4,0/4,0.45283,13,3,4,7,Peter MacDougall,Brandon Blandina,James Tobias,Tyson Baker,0,1,0,NaN,14,5,9,NaN,home
+17,30,MIN,2023020518,2023-12-23,Xcel Energy Center,3,35,9,0.2,1/5,1/5,0.553571,11,7,9,26,Garrett Rank,Furman South,Justin Johnson,Jesse Marquis,0,2,1,NaN,5,19,11,NaN,home
+18,1,NJD,2023020519,2023-12-23,Prudential Center,3,36,8,0.0,0/4,0/4,0.509804,10,3,2,18,Kelly Sutherland,Cody Beach,Jonathan Deschamps,Dan Kelly,1,0,2,NaN,10,13,13,NaN,home
+19,9,OTT,2023020520,2023-12-23,Canadian Tire Centre,5,26,14,0.0,0/4,0/4,0.409836,28,8,13,16,Eric Furlatt,Michael Markovic,Michel Cormier,Ryan Daisy,2,2,0,1,10,11,4,1,home
+20,15,WSH,2023020521,2023-12-23,Capital One Arena,1,34,4,0.0,0/1,0/1,0.369565,17,13,10,24,Jon McIsaac,Ghislain Hebert,Mark Shewchyk,David Brisebois,0,1,0,0,13,10,6,5,home
+21,3,NYR,2023020522,2023-12-23,Madison Square Garden,4,33,7,0.25,1/4,1/4,0.533333,13,6,7,13,Jake Brenk,Carter Sandlak,Kyle Flemington,Libor Suchanek,2,1,0,1,13,10,9,1,home
+22,24,ANA,2023020523,2023-12-23,Honda Center,2,34,2,0.333333,1/3,1/3,0.625,18,8,17,24,Kyle Rehman,Jordan Samuels-Thomas,Ryan Gibbons,Brandon Gawryletz,0,1,1,NaN,14,9,11,NaN,home
+23,19,STL,2023020524,2023-12-23,Enterprise Center,7,42,4,0.5,2/4,2/4,0.603448,12,11,9,21,Mitch Dunning,Pierre Lambert,Mitch Hunt,Devin Berg,1,1,5,NaN,11,9,22,NaN,home
+24,21,COL,2023020525,2023-12-23,Ball Arena,4,26,11,0.0,0/2,0/2,0.568182,6,11,3,23,Chris Schlenker,Corey Syvret,Bevan Mills,Kiel Murchison,1,3,0,NaN,8,11,7,NaN,home
+25,26,LAK,2023020526,2023-12-23,Crypto.com Arena,5,34,12,0.0,0/4,0/4,0.507463,25,9,8,23,Trevor Hanson,Brandon Schrader,Travis Gawryletz,Joe Mahon,2,2,1,NaN,13,13,8,NaN,home
+26,23,VAN,2023020527,2023-12-23,Rogers Arena,7,26,6,0.25,1/4,1/4,0.53125,9,6,11,19,Graham Skilliter,Steve Kozari,Trent Knorr,Travis Toomey,2,3,2,NaN,5,11,10,NaN,home
+27,1,NJD,2023020528,2023-12-27,Prudential Center,4,35,6,0.0,0/3,0/3,0.517241,21,9,7,19,Brian Pochmara,Corey Syvret,Libor Suchanek,Kilian McNamara,1,0,2,1,8,10,15,2,home
+28,3,NYR,2023020529,2023-12-27,Madison Square Garden,5,31,4,0.333333,1/3,1/3,0.5,15,8,10,28,Furman South,Frederick L'Ecuyer,Steve Barton,Ryan Daisy,0,3,2,NaN,7,11,13,NaN,home
+29,14,TBL,2023020530,2023-12-27,Amalie Arena,2,29,12,0.0,0/3,0/3,0.461538,18,0,11,27,Jon McIsaac,Kevin Pollock,Tyson Baker,Dan Kelly,0,0,2,NaN,9,10,10,NaN,home
+30,10,TOR,2023020531,2023-12-27,Scotiabank Arena,2,36,7,0.0,0/3,0/3,0.516129,11,6,9,31,Thomas John Luxmore,Carter Sandlak,Ryan Jackson,David Brisebois,2,0,0,NaN,12,8,16,NaN,home
+31,7,BUF,2023020532,2023-12-27,KeyBank Center,1,26,10,0.0,0/6,0/6,0.453125,10,7,3,17,Garrett Rank,Mitch Dunning,James Tobias,Mark Shewchyk,0,0,1,NaN,8,10,8,NaN,home
+32,2,NYI,2023020533,2023-12-27,UBS Arena,0,22,6,0.0,0/2,0/2,0.451613,18,3,11,22,Francis Charron,Beau Halkidis,Derek Nansen,Jonny Murray,0,0,0,NaN,4,7,11,NaN,home
+33,30,MIN,2023020534,2023-12-27,Xcel Energy Center,6,31,4,0.0,0/2,0/2,0.442308,16,11,8,29,Chris Rooney,Tom Chmielewski,Brandon Grillo,Ryan Galloway,1,1,4,NaN,8,13,10,NaN,home
+34,18,NSH,2023020535,2023-12-27,Bridgestone Arena,2,37,12,0.25,1/4,1/4,0.372881,17,1,9,37,Wes McCauley,Brandon Blandina,Kyle Flemington,Jesse Marquis,0,2,0,NaN,11,17,9,NaN,home
+35,19,STL,2023020536,2023-12-27,Enterprise Center,2,30,4,0.0,0/4,0/4,0.548387,19,11,11,19,Francois St-Laurent,Justin Kea,Scott Cherrey,Michel Cormier,1,1,0,NaN,8,17,5,NaN,home
+36,53,ARI,2023020537,2023-12-27,Mullett Arena,5,27,8,0.0,0/1,0/1,0.423077,9,7,6,33,Kyle Rehman,Brandon Schrader,Justin Johnson,Travis Gawryletz,0,1,3,1,9,6,7,5,home
+37,16,CHI,2023020538,2023-12-27,United Center,2,25,8,0.0,0/2,0/2,0.535714,21,12,11,25,Eric Furlatt,Morgan MacPhee,Brandon Gawryletz,Tommy Hughes,1,0,0,1,5,7,12,1,home
+38,20,CGY,2023020539,2023-12-27,Scotiabank Saddledome,1,38,4,0.25,1/4,1/4,0.666667,19,8,19,18,Chris Lee,Cody Beach,Trent Knorr,Caleb Apperson,1,0,0,NaN,7,13,18,NaN,home
+39,24,ANA,2023020540,2023-12-27,Honda Center,5,26,10,0.0,0/1,0/1,0.458333,29,5,12,24,Graham Skilliter,Jake Brenk,Shandor Alphonso,Ben O'Quinn,4,1,0,NaN,11,7,8,NaN,home
+40,26,LAK,2023020541,2023-12-27,Crypto.com Arena,5,43,11,0.0,0/3,0/3,0.592593,20,4,9,20,Dan O'Rourke,Trevor Hanson,Bevan Mills,Mitch Hunt,0,3,2,NaN,6,17,20,NaN,home
+41,12,CAR,2023020542,2023-12-28,PNC Arena,5,31,8,0.333333,1/3,1/3,0.449275,13,5,10,19,Jon McIsaac,Peter MacDougall,Brad Kovachik,Jesse Marquis,2,1,2,NaN,15,7,9,NaN,home
+42,23,VAN,2023020543,2023-12-28,Rogers Arena,1,27,8,0.0,0/3,0/3,0.327273,13,3,10,22,Chris Lee,Pierre Lambert,Caleb Apperson,Kiel Murchison,0,0,1,NaN,7,10,10,NaN,home
+43,54,VGK,2023020544,2023-12-28,T-Mobile Arena,3,32,4,0.0,0/0,0/0,0.442623,34,18,9,24,Steve Kozari,Jordan Samuels-Thomas,Bevan Mills,Ryan Gibbons,1,2,0,NaN,9,13,10,NaN,home
+44,28,SJS,2023020545,2023-12-28,SAP Center at San Jose,0,25,2,0.0,0/3,0/3,0.56,15,11,6,19,Jake Brenk,Brandon Schrader,Shandor Alphonso,Joe Mahon,0,0,0,NaN,7,12,6,NaN,home
+45,29,CBJ,2023020546,2023-12-29,Nationwide Arena,6,21,15,0.5,1/2,1/2,0.428571,12,5,2,14,Francois St-Laurent,Corey Syvret,Brandon Gawryletz,Kilian McNamara,1,3,1,1,4,7,8,2,home
+46,17,DET,2023020547,2023-12-29,Little Caesars Arena,5,23,11,0.0,0/2,0/2,0.492063,18,8,5,25,Eric Furlatt,Carter Sandlak,Steve Barton,Tommy Hughes,2,0,2,1,12,4,6,1,home
+47,13,FLA,2023020548,2023-12-29,Amerant Bank Arena,4,33,4,0.333333,1/3,1/3,0.576271,12,5,7,34,Kevin Pollock,Brandon Blandina,Tyson Baker,Dan Kelly,1,2,1,NaN,11,15,7,NaN,home
+48,9,OTT,2023020549,2023-12-29,Canadian Tire Centre,2,27,8,0.0,0/4,0/4,0.472727,20,11,19,27,Thomas John Luxmore,Ghislain Hebert,Matt MacPherson,Travis Toomey,1,0,1,NaN,6,8,13,NaN,home
+49,2,NYI,2023020550,2023-12-29,UBS Arena,5,32,4,0.0,0/3,0/3,0.586957,8,13,7,25,Furman South,Brian Pochmara,Ryan Daisy,Ryan Galloway,0,2,3,NaN,10,12,10,NaN,home
+50,25,DAL,2023020551,2023-12-29,American Airlines Center,5,35,6,0.333333,1/3,1/3,0.636364,14,7,15,13,Kyle Rehman,Tom Chmielewski,Scott Cherrey,Michel Cormier,1,2,1,1,12,16,4,3,home
+51,19,STL,2023020552,2023-12-29,Enterprise Center,1,29,4,0.0,0/4,0/4,0.522727,9,10,7,16,Chris Rooney,Mitch Dunning,Derek Nansen,Jonny Murray,1,0,0,NaN,10,7,12,NaN,home
+52,24,ANA,2023020553,2023-12-29,Honda Center,0,28,10,0.0,0/3,0/3,0.587302,18,7,10,29,Dan O'Rourke,Steve Kozari,Ryan Gibbons,Ben O'Quinn,0,0,0,NaN,10,7,11,NaN,home
+53,55,SEA,2023020554,2023-12-29,Climate Pledge Arena,2,29,6,0.5,1/2,1/2,0.6,14,10,6,22,Chris Schlenker,Graham Skilliter,Julien Fournier,Travis Gawryletz,0,0,1,1,5,9,11,4,home
+54,52,WPG,2023020555,2023-12-30,Canada Life Centre,4,32,17,0.0,0/4,0/4,0.527273,17,7,10,25,Pierre Lambert,Cody Beach,Jonathan Deschamps,Devin Berg,2,1,1,NaN,12,10,10,NaN,home
+55,7,BUF,2023020556,2023-12-30,KeyBank Center,3,42,2,0.0,0/1,0/1,0.574074,6,11,6,15,Wes McCauley,Francis Charron,Andrew Smith,Ryan Jackson,0,1,1,1,13,15,12,2,home
+56,6,BOS,2023020557,2023-12-30,TD Garden,5,31,4,1.0,2/2,2/2,0.27451,14,8,3,39,Brian Pochmara,Carter Sandlak,Tommy Hughes,Ryan Daisy,0,4,1,NaN,13,11,7,NaN,home
+57,13,FLA,2023020558,2023-12-30,Amerant Bank Arena,4,26,9,0.666667,2/3,2/3,0.408163,13,20,10,19,Kelly Sutherland,Kendrick Nicholson,James Tobias,Brad Kovachik,0,1,3,NaN,4,11,11,NaN,home
+58,5,PIT,2023020559,2023-12-30,PPG Paints Arena,4,30,6,0.333333,1/3,1/3,0.672131,21,7,7,21,Garrett Rank,Francois St-Laurent,Mark Shewchyk,Kilian McNamara,1,1,2,NaN,8,16,6,NaN,home
+59,14,TBL,2023020560,2023-12-30,Amalie Arena,1,35,8,0.333333,1/3,1/3,0.535714,7,4,8,20,Peter MacDougall,Brandon Blandina,Tyson Baker,Dan Kelly,0,1,0,NaN,14,13,8,NaN,home
+60,10,TOR,2023020561,2023-12-30,Scotiabank Arena,2,27,10,0.0,0/3,0/3,0.610169,11,13,9,28,Jean Hebert,Michael Markovic,Matt MacPherson,Travis Toomey,0,0,2,NaN,11,10,6,NaN,home
+61,15,WSH,2023020562,2023-12-30,Capital One Arena,2,29,11,0.0,0/3,0/3,0.392857,21,7,13,21,Eric Furlatt,Beau Halkidis,Libor Suchanek,CJ Murray,1,1,0,0,13,4,10,2,home
+62,26,LAK,2023020563,2023-12-30,Crypto.com Arena,2,28,8,0.25,1/4,1/4,0.509091,12,4,8,29,Jake Brenk,Brandon Schrader,Shandor Alphonso,Ben O'Quinn,2,0,0,0,11,7,7,3,home
+63,30,MIN,2023020564,2023-12-31,Xcel Energy Center,2,26,11,1.0,1/1,1/1,0.622642,16,11,7,36,Kyle Rehman,Ghislain Hebert,Steve Barton,Brandon Gawryletz,1,0,1,NaN,12,6,8,NaN,home
+64,17,DET,2023020565,2023-12-31,Little Caesars Arena,3,30,8,0.166667,1/6,1/6,0.679245,13,0,11,17,Wes McCauley,Francis Charron,Andrew Smith,Brandon Grillo,0,2,1,NaN,6,13,11,NaN,home
+65,9,OTT,2023020566,2023-12-31,Canadian Tire Centre,5,31,20,1.0,1/1,1/1,0.5,17,7,14,24,Jean Hebert,Justin Kea,Travis Toomey,David Brisebois,2,2,1,NaN,18,5,8,NaN,home
+66,5,PIT,2023020567,2023-12-31,PPG Paints Arena,3,38,11,0.0,0/4,0/4,0.609375,18,11,7,14,Garrett Rank,Corey Syvret,CJ Murray,Mark Shewchyk,1,1,1,NaN,11,12,15,NaN,home
+67,14,TBL,2023020568,2023-12-31,Amalie Arena,4,20,19,0.0,0/3,0/3,0.326923,17,7,8,31,Kelly Sutherland,Kendrick Nicholson,James Tobias,Jonny Murray,0,2,2,NaN,4,7,9,NaN,home
+68,24,ANA,2023020569,2023-12-31,Honda Center,2,30,31,0.0,0/4,0/4,0.458333,15,6,6,30,Trevor Hanson,Morgan MacPhee,Travis Gawryletz,Trent Knorr,1,0,1,NaN,14,8,8,NaN,home
+69,20,CGY,2023020570,2023-12-31,Scotiabank Saddledome,4,33,8,0.0,0/2,0/2,0.423729,20,12,18,16,Chris Schlenker,Pierre Lambert,Jonathan Deschamps,Devin Berg,0,1,3,NaN,11,10,12,NaN,home
+70,21,COL,2023020571,2023-12-31,Ball Arena,3,33,8,0.166667,1/6,1/6,0.45,10,8,4,24,Mitch Dunning,Jake Brenk,Julien Fournier,Michel Cormier,1,0,2,NaN,10,11,12,NaN,home
+71,25,DAL,2023020572,2023-12-31,American Airlines Center,8,41,6,0.333333,1/3,1/3,0.545455,16,6,11,5,Chris Rooney,Steve Kozari,Mitch Hunt,Derek Nansen,3,2,3,NaN,17,10,14,NaN,home
+72,55,SEA,2023020573,2024-01-01,T-Mobile Park,3,27,2,0.0,0/2,0/2,0.47541,20,13,3,30,Dan O'Rourke,Graham Skilliter,Ryan Gibbons,Kiel Murchison,1,1,1,NaN,10,11,6,NaN,home
+73,29,CBJ,2023020574,2024-01-02,Nationwide Arena,1,27,8,0.0,0/1,0/1,0.596491,15,5,5,17,Kyle Rehman,Peter MacDougall,Jesse Marquis,Mark Shewchyk,0,1,0,NaN,12,3,12,NaN,home
+74,3,NYR,2023020575,2024-01-02,Madison Square Garden,1,29,8,0.0,0/3,0/3,0.491525,9,7,3,26,Kelly Sutherland,Justin Kea,Scott Cherrey,Ryan Galloway,0,1,0,NaN,12,10,7,NaN,home
+75,5,PIT,2023020576,2024-01-02,PPG Paints Arena,3,35,4,0.333333,1/3,1/3,0.551724,9,11,14,31,Mitch Dunning,Kendrick Nicholson,Andrew Smith,Derek Nansen,1,2,0,NaN,6,16,13,NaN,home
+76,25,DAL,2023020577,2024-01-02,American Airlines Center,3,33,6,0.0,0/1,0/1,0.518519,9,5,4,18,Garrett Rank,Ghislain Hebert,Kyle Flemington,Ben O'Quinn,1,0,2,NaN,5,13,15,NaN,home
+77,30,MIN,2023020578,2024-01-02,Xcel Energy Center,1,29,4,0.0,0/3,0/3,0.415094,11,4,8,26,Wes McCauley,Jean Hebert,Brandon Gawryletz,Michel Cormier,0,1,0,NaN,7,5,17,NaN,home
+78,18,NSH,2023020579,2024-01-02,Bridgestone Arena,3,36,11,0.5,2/4,2/4,0.58,11,5,7,24,Chris Rooney,Frederick L'Ecuyer,James Tobias,Brandon Grillo,1,0,2,NaN,16,9,11,NaN,home
+79,52,WPG,2023020580,2024-01-02,Canada Life Centre,4,28,6,0.0,0/3,0/3,0.466667,23,4,8,27,Chris Schlenker,Francis Charron,Justin Johnson,Steve Barton,0,2,2,NaN,7,8,13,NaN,home
+80,53,ARI,2023020581,2024-01-02,Mullett Arena,1,22,40,0.0,0/2,0/2,0.344828,11,5,9,26,Jake Brenk,Jordan Samuels-Thomas,Travis Gawryletz,Caleb Apperson,0,0,1,NaN,15,3,4,NaN,home
+81,21,COL,2023020582,2024-01-02,Ball Arena,5,39,6,0.4,2/5,2/5,0.528302,16,16,4,18,Jon McIsaac,Michael Markovic,Julien Fournier,Joe Mahon,1,2,1,1,16,10,12,1,home
+82,22,EDM,2023020583,2024-01-02,Rogers Place,5,36,10,0.25,1/4,1/4,0.52381,8,5,16,15,Tom Chmielewski,Cody Beach,Devin Berg,Travis Toomey,1,2,2,NaN,13,11,12,NaN,home
+83,23,VAN,2023020584,2024-01-02,Rogers Arena,6,26,2,1.0,1/1,1/1,0.509434,17,10,9,23,Chris Lee,Pierre Lambert,Bevan Mills,Jonathan Deschamps,5,0,1,NaN,15,6,5,NaN,home
+84,26,LAK,2023020585,2024-01-02,Crypto.com Arena,0,31,13,0.0,0/3,0/3,0.52381,22,1,10,19,Steve Kozari,Morgan MacPhee,CJ Murray,Trent Knorr,0,0,0,NaN,6,13,12,NaN,home
+85,28,SJS,2023020586,2024-01-02,SAP Center at San Jose,3,27,10,0.0,0/2,0/2,0.467742,16,12,2,26,Furman South,Trevor Hanson,Libor Suchanek,Mitch Hunt,1,1,1,NaN,11,8,8,NaN,home
+86,15,WSH,2023020587,2024-01-03,Capital One Arena,3,26,4,0.5,2/4,2/4,0.426471,19,6,18,29,Kelly Sutherland,Brandon Blandina,Scott Cherrey,Matt MacPherson,1,2,0,NaN,9,10,7,NaN,home
+87,24,ANA,2023020588,2024-01-03,Honda Center,1,28,29,0.0,0/2,0/2,0.408451,24,9,13,20,Jon McIsaac,Furman South,Libor Suchanek,CJ Murray,0,1,0,0,9,10,7,2,home
+88,6,BOS,2023020589,2024-01-04,TD Garden,5,29,6,0.0,0/2,0/2,0.35,12,3,8,19,Brian Pochmara,Kevin Pollock,David Brisebois,Dan Kelly,2,2,1,NaN,11,8,10,NaN,home
+89,8,MTL,2023020590,2024-01-04,Centre Bell,1,33,12,0.0,0/3,0/3,0.539683,14,6,14,26,Graham Skilliter,Beau Halkidis,Michel Cormier,Bryan Pancich,0,1,0,NaN,15,6,12,NaN,home
+90,3,NYR,2023020591,2024-01-04,Madison Square Garden,4,32,11,0.5,1/2,1/2,0.644444,16,3,5,19,Corey Syvret,Kendrick Nicholson,Kiel Murchison,Matt MacPherson,1,1,2,NaN,11,7,14,NaN,home
+91,4,PHI,2023020592,2024-01-04,Wells Fargo Center,2,41,10,0.0,0/4,0/4,0.557377,22,5,3,23,Eric Furlatt,Brandon Blandina,Tommy Hughes,Derek Nansen,1,0,1,0,14,13,13,1,home
+92,25,DAL,2023020593,2024-01-04,American Airlines Center,4,32,6,0.333333,1/3,1/3,0.492063,14,4,9,16,Wes McCauley,Brandon Schrader,Kyle Flemington,James Tobias,1,2,1,0,9,13,9,1,home
+93,30,MIN,2023020594,2024-01-04,Xcel Energy Center,1,23,11,0.0,0/1,0/1,0.568627,12,6,7,23,Francis Charron,Michael Markovic,Julien Fournier,Ryan Galloway,0,0,1,NaN,6,9,8,NaN,home
+94,18,NSH,2023020595,2024-01-04,Bridgestone Arena,3,32,13,0.0,0/1,0/1,0.4,16,19,10,26,Jean Hebert,Frederick L'Ecuyer,Ben O'Quinn,Kilian McNamara,2,0,1,NaN,10,6,16,NaN,home
+95,19,STL,2023020596,2024-01-04,Enterprise Center,2,32,2,0.0,0/2,0/2,0.680851,12,13,4,12,Dan O'Rourke,Ghislain Hebert,Shandor Alphonso,Mark Shewchyk,0,1,1,NaN,11,10,11,NaN,home
+96,53,ARI,2023020597,2024-01-04,Mullett Arena,1,27,4,0.5,1/2,1/2,0.333333,9,8,12,18,Kyle Rehman,Peter MacDougall,Trent Knorr,Tyson Baker,0,1,0,NaN,10,13,4,NaN,home
+97,55,SEA,2023020598,2024-01-04,Climate Pledge Arena,4,28,8,0.0,0/2,0/2,0.44898,22,13,3,11,Tom Chmielewski,Steve Kozari,Jonathan Deschamps,Joe Mahon,1,2,1,NaN,7,15,6,NaN,home
+98,54,VGK,2023020599,2024-01-04,T-Mobile Arena,1,27,16,0.0,0/6,0/6,0.457143,15,7,7,20,Garrett Rank,Furman South,Travis Gawryletz,Ryan Daisy,1,0,0,NaN,13,5,9,NaN,home
+99,26,LAK,2023020600,2024-01-04,Crypto.com Arena,3,43,4,0.0,0/2,0/2,0.517857,11,7,9,10,Thomas John Luxmore,Carter Sandlak,Libor Suchanek,CJ Murray,2,0,1,0,17,13,10,3,home
+100,28,SJS,2023020601,2024-01-04,SAP Center at San Jose,1,28,2,0.0,0/2,0/2,0.695652,17,3,6,14,Francois St-Laurent,Chris Lee,Caleb Apperson,Ryan Jackson,0,1,0,NaN,6,10,12,NaN,home
+101,1,NJD,2023020602,2024-01-05,Prudential Center,4,32,26,0.0,0/6,0/6,0.654545,11,2,6,19,Eric Furlatt,Kevin Pollock,Ryan Gibbons,Jesse Marquis,0,1,3,NaN,13,10,9,NaN,home
+102,15,WSH,2023020603,2024-01-05,Capital One Arena,2,17,6,0.333333,1/3,1/3,0.393443,18,4,12,14,Trevor Hanson,Brandon Blandina,Scott Cherrey,Kiel Murchison,2,0,0,NaN,6,4,7,NaN,home
+103,24,ANA,2023020604,2024-01-05,Honda Center,1,38,4,0.0,0/2,0/2,0.611111,20,7,17,22,Jon McIsaac,Thomas John Luxmore,Tyson Baker,Jonny Murray,1,0,0,NaN,13,9,16,NaN,home
+104,4,PHI,2023020605,2024-01-06,Wells Fargo Center,3,42,29,0.166667,1/6,1/6,0.5,21,6,6,22,Francis Charron,Ghislain Hebert,Matt MacPherson,Ben O'Quinn,0,2,1,NaN,9,24,9,NaN,home
+105,21,COL,2023020606,2024-01-06,Ball Arena,4,26,12,0.25,1/4,1/4,0.5,17,7,5,18,Dan O'Rourke,Carter Sandlak,Brandon Gawryletz,CJ Murray,0,3,1,NaN,8,14,4,NaN,home
+106,6,BOS,2023020607,2024-01-06,TD Garden,7,26,8,0.25,1/4,1/4,0.52,15,7,10,33,Chris Rooney,Brandon Schrader,Scott Cherrey,Tommy Hughes,2,2,3,NaN,11,11,4,NaN,home
+107,12,CAR,2023020608,2024-01-06,PNC Arena,1,30,2,1.0,1/1,1/1,0.574074,13,12,8,15,Trevor Hanson,Corey Syvret,Julien Fournier,Kiel Murchison,1,0,0,0,6,13,9,2,home
+108,29,CBJ,2023020609,2024-01-06,Nationwide Arena,3,29,10,0.25,1/4,1/4,0.477612,16,9,5,15,Frederick L'Ecuyer,Mitch Dunning,Shandor Alphonso,Mark Shewchyk,1,1,1,0,8,10,8,3,home
+109,8,MTL,2023020610,2024-01-06,Centre Bell,4,30,6,0.0,0/2,0/2,0.5,25,3,17,18,Graham Skilliter,Pierre Lambert,Bryan Pancich,David Brisebois,1,2,0,0,7,13,8,2,home
+110,1,NJD,2023020611,2024-01-06,Prudential Center,4,25,2,0.0,0/2,0/2,0.566667,19,3,6,18,Eric Furlatt,Cody Beach,Ryan Gibbons,Jesse Marquis,0,2,2,NaN,5,11,9,NaN,home
+111,5,PIT,2023020612,2024-01-06,PPG Paints Arena,1,41,6,0.2,1/5,1/5,0.534483,17,11,12,22,Furman South,Brian Pochmara,Kyle Flemington,Brandon Grillo,0,0,1,NaN,17,12,12,NaN,home
+112,28,SJS,2023020613,2024-01-06,SAP Center at San Jose,1,24,4,0.0,0/0,0/0,0.454545,19,5,8,17,Francois St-Laurent,Chris Lee,Libor Suchanek,Ryan Daisy,0,0,1,NaN,3,9,12,NaN,home
+113,25,DAL,2023020614,2024-01-06,American Airlines Center,3,29,2,0.5,1/2,1/2,0.59322,15,13,7,20,Michael Markovic,Peter MacDougall,James Tobias,Kilian McNamara,0,2,1,NaN,6,15,8,NaN,home
+114,22,EDM,2023020615,2024-01-06,Rogers Place,3,46,6,0.666667,2/3,2/3,0.615385,17,6,10,15,Chris Schlenker,Tom Chmielewski,Bevan Mills,Justin Johnson,0,1,2,NaN,15,18,13,NaN,home
+115,54,VGK,2023020616,2024-01-06,T-Mobile Arena,5,30,4,1.0,1/1,1/1,0.5,18,11,11,22,Garrett Rank,Thomas John Luxmore,Caleb Apperson,Jonny Murray,1,2,2,NaN,10,11,9,NaN,home
+116,16,CHI,2023020617,2024-01-07,United Center,4,20,6,0.333333,1/3,1/3,0.431034,22,10,12,22,Jon McIsaac,Justin Kea,Ryan Galloway,Dan Kelly,1,2,1,NaN,5,12,3,NaN,home
+117,15,WSH,2023020618,2024-01-07,Capital One Arena,4,34,6,0.0,0/1,0/1,0.508772,13,12,19,39,Ghislain Hebert,Kevin Pollock,Steve Barton,Ben O'Quinn,0,2,2,NaN,12,11,11,NaN,home
+118,53,ARI,2023020619,2024-01-07,Mullett Arena,2,17,13,0.0,0/2,0/2,0.484375,19,3,14,25,Dan O'Rourke,Carter Sandlak,Libor Suchanek,CJ Murray,0,1,1,NaN,4,5,8,NaN,home
+119,24,ANA,2023020620,2024-01-07,Honda Center,2,31,10,0.0,0/4,0/4,0.45283,17,8,5,15,Francois St-Laurent,Chris Lee,Ryan Daisy,Tyson Baker,1,0,1,NaN,9,16,6,NaN,home
+120,3,NYR,2023020621,2024-01-08,Madison Square Garden,3,42,0,0.5,1/2,1/2,0.59322,9,6,13,30,Kyle Rehman,Brandon Schrader,Shandor Alphonso,Steve Barton,1,1,1,NaN,13,15,14,NaN,home
+121,4,PHI,2023020622,2024-01-08,Wells Fargo Center,1,37,16,0.5,1/2,1/2,0.545455,10,4,8,32,Trevor Hanson,Graham Skilliter,Kiel Murchison,Jesse Marquis,1,0,0,NaN,13,13,11,NaN,home
+122,30,MIN,2023020623,2024-01-08,Xcel Energy Center,0,23,4,0.0,0/6,0/6,0.353846,14,8,6,30,Brian Pochmara,Peter MacDougall,Ryan Gibbons,Dan Kelly,0,0,0,NaN,12,9,2,NaN,home
+123,21,COL,2023020624,2024-01-08,Ball Arena,4,36,8,0.166667,1/6,1/6,0.45,15,17,4,28,Dan O'Rourke,Thomas John Luxmore,Andrew Smith,Jonny Murray,1,2,0,0,13,10,12,1,home
+124,7,BUF,2023020625,2024-01-09,KeyBank Center,2,38,2,0.0,0/1,0/1,0.625,14,4,4,30,Kelly Sutherland,Michael Markovic,Julien Fournier,James Tobias,1,1,0,NaN,19,8,11,NaN,home
+125,14,TBL,2023020626,2024-01-09,Amalie Arena,3,29,4,0.0,0/2,0/2,0.5,10,10,9,29,Jean Hebert,Pierre Lambert,Derek Nansen,Devin Berg,0,0,2,1,11,7,9,2,home
+126,10,TOR,2023020627,2024-01-09,Scotiabank Arena,7,46,2,1.0,3/3,3/3,0.612903,7,4,4,19,Kevin Pollock,Jordan Samuels-Thomas,Ben O'Quinn,Mark Shewchyk,2,2,3,NaN,16,19,11,NaN,home
+127,2,NYI,2023020628,2024-01-09,UBS Arena,2,20,8,0.5,1/2,1/2,0.58,17,5,14,31,Kyle Rehman,Cody Beach,Michel Cormier,Ryan Jackson,0,1,1,NaN,11,4,5,NaN,home
+128,18,NSH,2023020629,2024-01-09,Bridgestone Arena,3,42,11,0.0,0/3,0/3,0.486111,12,12,16,26,Graham Skilliter,Carter Sandlak,Kiel Murchison,Ryan Galloway,0,0,3,NaN,11,14,17,NaN,home
+129,19,STL,2023020630,2024-01-09,Enterprise Center,1,30,10,0.0,0/4,0/4,0.490196,8,11,16,14,Steve Kozari,Justin Kea,Libor Suchanek,Bryan Pancich,1,0,0,NaN,9,9,12,NaN,home
+130,52,WPG,2023020631,2024-01-09,Canada Life Centre,5,23,8,0.333333,1/3,1/3,0.5,23,3,7,10,Wes McCauley,Beau Halkidis,Trent Knorr,Travis Toomey,1,2,2,NaN,5,9,9,NaN,home
+131,16,CHI,2023020632,2024-01-09,United Center,1,26,2,0.0,0/3,0/3,0.358491,15,9,5,19,Furman South,Brian Pochmara,Ryan Gibbons,Dan Kelly,1,0,0,NaN,5,9,12,NaN,home
+132,53,ARI,2023020633,2024-01-09,Mullett Arena,4,36,19,0.333333,1/3,1/3,0.41791,17,8,9,25,Francois St-Laurent,Kendrick Nicholson,Tyson Baker,Jonny Murray,0,2,1,1,12,11,11,2,home
+133,20,CGY,2023020634,2024-01-09,Scotiabank Saddledome,6,36,6,0.0,0/2,0/2,0.448276,12,10,17,24,Chris Schlenker,Morgan MacPhee,Caleb Apperson,Ryan Daisy,1,1,4,NaN,15,11,10,NaN,home
+134,4,PHI,2023020635,2024-01-10,Wells Fargo Center,3,39,2,0.5,1/2,1/2,0.54386,16,6,4,22,Frederick L'Ecuyer,Brandon Schrader,Jonathan Deschamps,Kilian McNamara,1,1,0,0,10,7,15,7,home
+135,25,DAL,2023020636,2024-01-10,American Airlines Center,7,34,6,0.0,0/2,0/2,0.444444,20,12,15,13,Trevor Hanson,Steve Kozari,Bevan Mills,Travis Gawryletz,1,2,4,NaN,8,16,10,NaN,home
+136,21,COL,2023020637,2024-01-10,Ball Arena,3,35,8,0.5,2/4,2/4,0.44,16,14,7,20,Chris Rooney,Kendrick Nicholson,Andrew Smith,Brad Kovachik,1,1,1,NaN,10,14,11,NaN,home
+137,7,BUF,2023020638,2024-01-11,KeyBank Center,5,32,8,0.333333,1/3,1/3,0.5,27,7,6,28,Francis Charron,Kelly Sutherland,Mitch Hunt,Ben O'Quinn,3,1,1,NaN,10,8,14,NaN,home
+138,12,CAR,2023020639,2024-01-11,PNC Arena,6,34,17,0.333333,1/3,1/3,0.491525,10,10,6,24,Garrett Rank,Cody Beach,Justin Johnson,Jonathan Deschamps,2,3,1,NaN,16,9,9,NaN,home
+139,17,DET,2023020640,2024-01-11,Little Caesars Arena,2,18,6,0.0,0/3,0/3,0.462963,19,6,11,8,Jean Hebert,Justin Kea,Kilian McNamara,Bryan Pancich,0,0,2,0,6,5,7,0,home
+140,13,FLA,2023020641,2024-01-11,Amerant Bank Arena,3,41,8,0.333333,1/3,1/3,0.581081,15,5,7,27,Brian Pochmara,Pierre Lambert,Devin Berg,David Brisebois,0,1,1,1,17,10,10,4,home
+141,8,MTL,2023020642,2024-01-11,Centre Bell,2,35,8,0.0,0/1,0/1,0.45614,14,6,9,22,Ghislain Hebert,Eric Furlatt,Scott Cherrey,Kyle Flemington,1,0,1,NaN,11,9,15,NaN,home
+142,5,PIT,2023020643,2024-01-11,PPG Paints Arena,3,35,4,0.0,0/4,0/4,0.525424,9,12,12,33,Chris Schlenker,Frederick L'Ecuyer,Julien Fournier,Tommy Hughes,1,1,1,0,10,10,14,1,home
+143,14,TBL,2023020644,2024-01-11,Amalie Arena,4,20,6,0.0,0/3,0/3,0.489362,15,12,5,30,Furman South,Tom Chmielewski,Derek Nansen,Ryan Galloway,2,1,0,1,6,9,4,1,home
+144,15,WSH,2023020645,2024-01-11,Capital One Arena,1,26,2,0.0,0/1,0/1,0.528302,16,9,14,11,Jon McIsaac,Brandon Schrader,Matt MacPherson,Ryan Jackson,0,1,0,NaN,11,10,5,NaN,home
+145,2,NYI,2023020646,2024-01-11,UBS Arena,4,30,2,0.666667,2/3,2/3,0.528302,19,14,4,31,Corey Syvret,Jake Brenk,Michel Cormier,Dan Kelly,1,2,0,1,11,15,3,1,home
+146,19,STL,2023020647,2024-01-11,Enterprise Center,5,20,6,0.5,2/4,2/4,0.456522,23,16,5,17,Kyle Rehman,Trevor Hanson,Bevan Mills,Travis Gawryletz,2,1,2,NaN,8,7,5,NaN,home
+147,52,WPG,2023020648,2024-01-11,Canada Life Centre,2,28,4,0.0,0/4,0/4,0.5,20,7,6,33,Wes McCauley,Mitch Dunning,Trent Knorr,Travis Toomey,0,0,2,NaN,10,6,12,NaN,home
+148,53,ARI,2023020649,2024-01-11,Mullett Arena,2,34,8,0.0,0/1,0/1,0.411765,10,7,10,28,Chris Rooney,Francois St-Laurent,Brandon Grillo,Jonny Murray,1,1,0,NaN,12,13,9,NaN,home
+149,54,VGK,2023020650,2024-01-11,T-Mobile Arena,2,25,6,0.2,1/5,1/5,0.469388,19,6,6,28,Chris Lee,Kendrick Nicholson,Andrew Smith,Tyson Baker,0,0,1,1,12,6,6,1,home
+150,25,DAL,2023020651,2024-01-12,American Airlines Center,3,22,10,0.333333,1/3,1/3,0.596774,15,7,21,24,Dan O'Rourke,Michael Markovic,Brandon Gawryletz,Caleb Apperson,0,0,3,NaN,7,7,8,NaN,home
+151,30,MIN,2023020652,2024-01-12,Xcel Energy Center,3,29,11,0.0,0/2,0/2,0.482143,13,13,3,27,Brandon Blandina,Steve Kozari,CJ Murray,Brad Kovachik,0,1,2,0,11,7,11,0,home
+152,15,WSH,2023020653,2024-01-13,Capital One Arena,3,21,10,0.0,0/3,0/3,0.305085,22,5,11,17,Garrett Rank,Jake Brenk,Libor Suchanek,Michel Cormier,1,0,2,NaN,5,10,6,NaN,home
+153,7,BUF,2023020654,2024-01-13,KeyBank Center,0,26,13,0.0,0/3,0/3,0.396226,12,4,6,22,Peter MacDougall,Jordan Samuels-Thomas,Tommy Hughes,Dan Kelly,0,0,0,NaN,9,8,9,NaN,home
+154,9,OTT,2023020655,2024-01-13,Canadian Tire Centre,5,41,4,0.0,0/2,0/2,0.574074,15,9,13,26,Jon McIsaac,Wes McCauley,Kyle Flemington,Steve Barton,2,2,1,NaN,8,22,11,NaN,home
+155,13,FLA,2023020656,2024-01-13,Amerant Bank Arena,1,36,4,0.5,1/2,1/2,0.490566,10,3,10,30,Furman South,Ghislain Hebert,Derek Nansen,Ryan Galloway,0,1,0,NaN,7,13,16,NaN,home
+156,12,CAR,2023020657,2024-01-13,PNC Arena,3,35,10,0.0,0/3,0/3,0.508475,16,9,14,19,Francois St-Laurent,Kevin Pollock,Justin Johnson,Jonathan Deschamps,2,0,0,1,16,8,10,1,home
+157,29,CBJ,2023020658,2024-01-13,Nationwide Arena,4,34,9,0.333333,1/3,1/3,0.508475,7,3,4,18,Chris Schlenker,Justin Kea,Mitch Hunt,Bryan Pancich,2,1,1,NaN,9,13,12,NaN,home
+158,17,DET,2023020659,2024-01-13,Little Caesars Arena,5,30,6,0.333333,1/3,1/3,0.655738,17,5,14,25,Dan O'Rourke,Frederick L'Ecuyer,Julien Fournier,Mark Shewchyk,1,4,0,NaN,8,19,3,NaN,home
+159,8,MTL,2023020660,2024-01-13,Centre Bell,1,24,10,0.25,1/4,1/4,0.53125,24,3,9,17,Francis Charron,Corey Syvret,Ryan Daisy,Matt MacPherson,1,0,0,0,6,9,8,1,home
+160,14,TBL,2023020661,2024-01-13,Amalie Arena,5,41,20,1.0,3/3,3/3,0.5,12,11,7,21,Thomas John Luxmore,Pierre Lambert,Devin Berg,David Brisebois,0,3,2,NaN,11,14,16,NaN,home
+161,10,TOR,2023020662,2024-01-13,Scotiabank Arena,3,29,8,0.0,0/1,0/1,0.490196,17,9,16,29,Kelly Sutherland,Kendrick Nicholson,Shandor Alphonso,Ben O'Quinn,3,0,0,NaN,15,8,6,NaN,home
+162,52,WPG,2023020663,2024-01-13,Canada Life Centre,0,35,4,0.0,0/3,0/3,0.466667,11,3,7,31,Mitch Dunning,Eric Furlatt,Scott Cherrey,Joe Mahon,0,0,0,NaN,11,11,13,NaN,home
+163,16,CHI,2023020664,2024-01-13,United Center,1,35,11,0.0,0/2,0/2,0.306452,17,10,9,27,Jean Hebert,Carter Sandlak,Andrew Smith,Kilian McNamara,0,1,0,NaN,6,19,10,NaN,home
+164,30,MIN,2023020665,2024-01-13,Xcel Energy Center,0,38,18,0.0,0/3,0/3,0.561404,9,7,8,32,Chris Lee,Brandon Blandina,CJ Murray,Brad Kovachik,0,0,0,NaN,8,16,14,NaN,home
+165,18,NSH,2023020666,2024-01-13,Bridgestone Arena,3,28,4,0.333333,1/3,1/3,0.490196,23,12,19,26,Trevor Hanson,Tom Chmielewski,Bevan Mills,Brandon Gawryletz,0,0,3,NaN,7,6,15,NaN,home
+166,19,STL,2023020667,2024-01-13,Enterprise Center,3,23,8,0.666667,2/3,2/3,0.530612,15,7,10,17,Kyle Rehman,Michael Markovic,Travis Gawryletz,Caleb Apperson,1,1,1,0,7,7,9,0,home
+167,54,VGK,2023020668,2024-01-13,T-Mobile Arena,1,32,4,0.0,0/2,0/2,0.451613,17,9,4,41,Chris Rooney,Graham Skilliter,James Tobias,Brandon Grillo,0,0,1,NaN,8,9,15,NaN,home
+168,3,NYR,2023020669,2024-01-14,Madison Square Garden,2,31,6,0.0,0/5,0/5,0.421053,23,8,6,24,Brian Pochmara,Jake Brenk,Ryan Jackson,Jesse Marquis,2,0,0,NaN,10,11,10,NaN,home
+169,10,TOR,2023020670,2024-01-14,Scotiabank Arena,2,30,4,0.0,0/3,0/3,0.607143,14,10,16,28,Francis Charron,Kelly Sutherland,Tommy Hughes,Matt MacPherson,0,2,0,NaN,7,14,9,NaN,home
+170,6,BOS,2023020671,2024-01-15,TD Garden,3,36,4,0.25,1/4,1/4,0.5,15,6,10,32,Corey Syvret,Kevin Pollock,Kyle Flemington,Steve Barton,0,1,2,NaN,16,9,11,NaN,home
+171,7,BUF,2023020672,2024-01-15,KeyBank Center,3,35,6,0.5,1/2,1/2,0.482143,17,4,2,18,Kendrick Nicholson,Peter MacDougall,Shandor Alphonso,Brad Kovachik,0,2,1,NaN,7,12,16,NaN,home
+172,29,CBJ,2023020673,2024-01-15,Nationwide Arena,4,43,8,0.2,1/5,1/5,0.46,15,4,4,19,Chris Schlenker,Chris Rooney,Julien Fournier,CJ Murray,1,1,1,0,7,25,7,4,home
+173,13,FLA,2023020674,2024-01-15,Amerant Bank Arena,4,33,16,0.5,2/4,2/4,0.619048,11,9,8,17,Ghislain Hebert,Pierre Lambert,Jonathan Deschamps,Jonny Murray,2,2,0,0,11,11,10,1,home
+174,12,CAR,2023020675,2024-01-15,PNC Arena,2,32,8,0.0,0/5,0/5,0.508772,9,6,11,15,Garrett Rank,Brian Pochmara,Derek Nansen,David Brisebois,0,1,1,NaN,9,13,10,NaN,home
+175,30,MIN,2023020676,2024-01-15,Xcel Energy Center,5,40,10,0.4,2/5,2/5,0.47541,14,5,3,14,Jean Hebert,Michael Markovic,Scott Cherrey,Joe Mahon,1,2,2,NaN,12,20,8,NaN,home
+176,5,PIT,2023020677,2024-01-15,PPG Paints Arena,3,33,4,0.0,0/2,0/2,0.6,12,6,4,14,Dan O'Rourke,Brandon Blandina,Devin Berg,Bryan Pancich,0,2,1,NaN,12,12,9,NaN,home
+177,8,MTL,2023020678,2024-01-15,Centre Bell,4,34,10,1.0,2/2,2/2,0.614286,25,9,10,10,Jon McIsaac,Wes McCauley,Michel Cormier,Mark Shewchyk,1,1,2,NaN,16,10,8,NaN,home
+178,19,STL,2023020679,2024-01-15,Enterprise Center,2,30,4,0.333333,1/3,1/3,0.403846,19,17,9,17,Frederick L'Ecuyer,Carter Sandlak,Bevan Mills,Brandon Gawryletz,0,1,1,NaN,9,9,12,NaN,home
+179,54,VGK,2023020680,2024-01-15,T-Mobile Arena,4,29,8,0.0,0/2,0/2,0.627451,21,11,3,26,Kyle Rehman,Tom Chmielewski,James Tobias,Travis Gawryletz,1,2,1,NaN,5,16,8,NaN,home
+180,3,NYR,2023020681,2024-01-16,Madison Square Garden,5,23,4,0.5,1/2,1/2,0.674419,15,11,8,24,Chris Schlenker,Wes McCauley,Kyle Flemington,Jesse Marquis,2,2,1,NaN,7,10,6,NaN,home
+181,9,OTT,2023020682,2024-01-16,Canadian Tire Centre,4,40,10,0.333333,1/3,1/3,0.597222,15,15,12,17,Francis Charron,Kevin Pollock,Tommy Hughes,Mark Shewchyk,1,3,0,NaN,15,12,13,NaN,home
+182,15,WSH,2023020683,2024-01-16,Capital One Arena,2,28,11,0.0,0/1,0/1,0.422222,21,8,8,21,Kelly Sutherland,Corey Syvret,Libor Suchanek,Derek Nansen,1,0,1,NaN,9,11,8,NaN,home
+183,25,DAL,2023020684,2024-01-16,American Airlines Center,5,28,8,0.0,0/1,0/1,0.508772,22,4,11,23,Frederick L'Ecuyer,Brandon Schrader,Brandon Gawryletz,Ryan Daisy,2,0,3,NaN,9,8,11,NaN,home
+184,52,WPG,2023020685,2024-01-16,Canada Life Centre,4,44,4,0.2,1/5,1/5,0.539683,12,12,8,17,Graham Skilliter,Justin Kea,Kiel Murchison,Matt MacPherson,1,2,1,NaN,13,18,13,NaN,home
+185,16,CHI,2023020686,2024-01-16,United Center,2,25,16,0.25,1/4,1/4,0.490909,8,13,8,26,Michael Markovic,Peter MacDougall,CJ Murray,Bevan Mills,1,0,0,0,5,9,8,3,home
+186,20,CGY,2023020687,2024-01-16,Scotiabank Saddledome,3,30,8,0.2,1/5,1/5,0.592593,17,6,7,12,Thomas John Luxmore,Cody Beach,Trent Knorr,Caleb Apperson,0,0,2,1,6,8,9,7,home
+187,22,EDM,2023020688,2024-01-16,Rogers Place,4,32,2,0.0,0/1,0/1,0.52,9,13,22,32,Chris Lee,Steve Kozari,Ryan Gibbons,Travis Toomey,0,1,3,NaN,12,12,8,NaN,home
+188,13,FLA,2023020689,2024-01-17,Amerant Bank Arena,2,34,12,0.0,0/2,0/2,0.614035,13,7,14,19,Jean Hebert,Jake Brenk,Shandor Alphonso,Jonathan Deschamps,0,2,0,0,10,13,11,0,home
+189,1,NJD,2023020690,2024-01-17,Prudential Center,2,30,2,0.5,2/4,2/4,0.622222,12,4,2,17,Kelly Sutherland,Carter Sandlak,Andrew Smith,Libor Suchanek,0,0,2,NaN,11,11,8,NaN,home
+190,7,BUF,2023020691,2024-01-18,KeyBank Center,3,31,10,0.166667,1/6,1/6,0.435897,13,5,1,14,Garrett Rank,Brandon Blandina,Steve Barton,Brad Kovachik,0,1,2,NaN,13,7,11,NaN,home
+191,6,BOS,2023020692,2024-01-18,TD Garden,5,31,4,0.333333,1/3,1/3,0.491803,14,14,12,27,Francois St-Laurent,Morgan MacPhee,Andrew Smith,Jesse Marquis,3,0,2,NaN,14,8,9,NaN,home
+192,9,OTT,2023020693,2024-01-18,Canadian Tire Centre,6,37,15,0.0,0/2,0/2,0.47619,15,10,12,23,Furman South,Ghislain Hebert,Mark Shewchyk,Dan Kelly,2,2,2,NaN,17,13,7,NaN,home
+193,4,PHI,2023020694,2024-01-18,Wells Fargo Center,5,43,4,0.25,1/4,1/4,0.5,20,9,4,20,Francis Charron,Carter Sandlak,Libor Suchanek,Ryan Jackson,1,1,3,NaN,14,16,13,NaN,home
+194,14,TBL,2023020695,2024-01-18,Amalie Arena,7,38,8,1.0,3/3,3/3,0.641509,17,10,5,26,Jake Brenk,Eric Furlatt,Shandor Alphonso,Ryan Daisy,1,3,3,NaN,11,14,13,NaN,home
+195,15,WSH,2023020696,2024-01-18,Capital One Arena,5,26,10,0.5,2/4,2/4,0.509804,16,7,8,11,Chris Schlenker,Kendrick Nicholson,Julien Fournier,Mitch Hunt,1,2,2,NaN,8,10,8,NaN,home
+196,20,CGY,2023020697,2024-01-18,Scotiabank Saddledome,3,26,6,0.333333,1/3,1/3,0.460317,13,11,9,19,Thomas John Luxmore,Graham Skilliter,Ryan Gibbons,Kiel Murchison,2,1,0,NaN,11,10,5,NaN,home
+197,22,EDM,2023020698,2024-01-18,Rogers Place,4,36,24,0.4,2/5,2/5,0.68,18,10,13,16,Chris Lee,Steve Kozari,Trent Knorr,Caleb Apperson,0,3,1,NaN,12,13,11,NaN,home
+198,26,LAK,2023020699,2024-01-18,Crypto.com Arena,1,34,6,0.2,1/5,1/5,0.551724,16,4,7,22,Kyle Rehman,Peter MacDougall,Brandon Grillo,Kilian McNamara,0,1,0,NaN,8,13,13,NaN,home
+199,23,VAN,2023020700,2024-01-18,Rogers Arena,2,26,11,0.2,1/5,1/5,0.716981,10,4,9,25,Trevor Hanson,Justin Kea,Travis Toomey,Ben O'Quinn,1,1,0,NaN,14,6,6,NaN,home
+200,54,VGK,2023020701,2024-01-18,T-Mobile Arena,5,26,6,0.333333,1/3,1/3,0.5,20,11,9,24,Tom Chmielewski,Brandon Schrader,Bevan Mills,Ryan Galloway,2,2,1,NaN,10,7,9,NaN,home
+201,12,CAR,2023020702,2024-01-19,PNC Arena,4,30,2,1.0,1/1,1/1,0.557377,10,9,27,11,Chris Schlenker,Kendrick Nicholson,Julien Fournier,Jonny Murray,1,1,2,NaN,8,8,14,NaN,home
+202,29,CBJ,2023020703,2024-01-19,Nationwide Arena,1,30,8,0.0,0/3,0/3,0.358491,19,6,4,24,Jon McIsaac,Cody Beach,Jesse Marquis,Tyson Baker,1,0,0,NaN,5,14,11,NaN,home
+203,13,FLA,2023020704,2024-01-19,Amerant Bank Arena,4,35,26,0.0,0/4,0/4,0.474576,8,5,14,28,Jake Brenk,Eric Furlatt,Shandor Alphonso,Ryan Daisy,0,2,2,NaN,9,7,19,NaN,home
+204,16,CHI,2023020705,2024-01-19,United Center,4,24,6,0.0,0/2,0/2,0.459016,24,7,5,24,Kelly Sutherland,Mitch Dunning,Justin Johnson,Devin Berg,0,2,1,1,12,8,3,1,home
+205,7,BUF,2023020706,2024-01-20,KeyBank Center,1,27,6,0.0,0/2,0/2,0.469388,11,4,7,18,Kevin Pollock,Morgan MacPhee,Scott Cherrey,Mark Shewchyk,0,1,0,NaN,6,6,15,NaN,home
+206,4,PHI,2023020707,2024-01-20,Wells Fargo Center,4,40,4,0.0,0/3,0/3,0.644068,12,5,3,19,Francois St-Laurent,Ghislain Hebert,Mitch Hunt,Brad Kovachik,0,2,2,NaN,12,11,17,NaN,home
+207,53,ARI,2023020708,2024-01-20,Mullett Arena,3,24,12,0.0,0/2,0/2,0.526316,18,7,11,29,Jean Hebert,Brandon Schrader,Michel Cormier,Bryan Pancich,1,2,0,NaN,6,11,7,NaN,home
+208,9,OTT,2023020709,2024-01-20,Canadian Tire Centre,1,35,13,0.0,0/4,0/4,0.5,14,9,12,25,Furman South,Pierre Lambert,James Tobias,Dan Kelly,0,0,1,0,7,16,11,1,home
+209,6,BOS,2023020710,2024-01-20,TD Garden,9,36,11,0.333333,1/3,1/3,0.509091,14,8,9,39,Chris Rooney,Carter Sandlak,Matt MacPherson,Ryan Jackson,3,2,4,NaN,12,14,10,NaN,home
+210,1,NJD,2023020711,2024-01-20,Prudential Center,2,31,22,0.0,0/3,0/3,0.515625,18,2,4,25,Jon McIsaac,Beau Halkidis,Andrew Smith,Libor Suchanek,0,0,2,NaN,14,8,9,NaN,home
+211,23,VAN,2023020712,2024-01-20,Rogers Arena,6,21,18,0.666667,2/3,2/3,0.381818,19,5,2,52,Tom Chmielewski,Graham Skilliter,Trent Knorr,Caleb Apperson,3,1,2,NaN,9,6,6,NaN,home
+212,19,STL,2023020713,2024-01-20,Enterprise Center,3,29,22,0.5,1/2,1/2,0.408163,13,15,10,21,Wes McCauley,Mitch Dunning,Justin Johnson,Devin Berg,1,1,1,NaN,12,6,11,NaN,home
+213,20,CGY,2023020714,2024-01-20,Scotiabank Saddledome,1,27,4,0.0,0/3,0/3,0.535714,8,6,14,32,Trevor Hanson,Brandon Blandina,Kiel Murchison,Ben O'Quinn,0,1,0,NaN,9,10,8,NaN,home
+214,28,SJS,2023020715,2024-01-20,SAP Center at San Jose,5,19,10,0.0,0/2,0/2,0.490566,18,7,5,18,Michael Markovic,Peter MacDougall,Joe Mahon,Travis Toomey,0,3,2,NaN,2,5,12,NaN,home
+215,54,VGK,2023020716,2024-01-20,T-Mobile Arena,3,29,2,0.0,0/4,0/4,0.440678,18,7,3,18,Thomas John Luxmore,Jordan Samuels-Thomas,Ryan Gibbons,Ryan Galloway,0,0,3,NaN,8,10,11,NaN,home
+216,26,LAK,2023020717,2024-01-20,Crypto.com Arena,2,26,6,0.0,0/1,0/1,0.56,13,3,9,21,Kyle Rehman,Corey Syvret,Travis Gawryletz,Kilian McNamara,1,1,0,NaN,12,6,8,NaN,home
+217,4,PHI,2023020718,2024-01-21,Wells Fargo Center,3,25,6,0.5,2/4,2/4,0.375,12,5,1,27,Francois St-Laurent,Kendrick Nicholson,Julien Fournier,CJ Murray,2,1,0,NaN,8,9,8,NaN,home
+218,12,CAR,2023020719,2024-01-21,PNC Arena,2,42,4,0.0,0/4,0/4,0.606557,10,10,5,15,Jon McIsaac,Kelly Sutherland,Kyle Flemington,Jonny Murray,1,0,1,NaN,18,13,11,NaN,home
+219,17,DET,2023020720,2024-01-21,Little Caesars Arena,2,35,6,0.0,0/2,0/2,0.507937,9,5,5,18,Chris Rooney,Kevin Pollock,Brandon Gawryletz,Tyson Baker,1,1,0,NaN,12,19,4,NaN,home
+220,2,NYI,2023020721,2024-01-21,UBS Arena,3,28,6,0.0,0/0,0/0,0.396552,23,11,14,38,Brian Pochmara,Frederick L'Ecuyer,Tommy Hughes,Brad Kovachik,1,0,1,1,13,5,9,1,home
+221,24,ANA,2023020722,2024-01-21,Honda Center,2,18,8,0.0,0/3,0/3,0.52459,24,5,5,23,Michael Markovic,Peter MacDougall,Travis Toomey,Bryan Pancich,2,0,0,NaN,5,5,8,NaN,home
+222,55,SEA,2023020723,2024-01-21,Climate Pledge Arena,1,17,11,0.0,0/2,0/2,0.283019,16,10,0,24,Kyle Rehman,Tom Chmielewski,Travis Gawryletz,Caleb Apperson,0,1,0,NaN,6,7,4,NaN,home
+223,6,BOS,2023020724,2024-01-22,TD Garden,4,21,6,0.0,0/3,0/3,0.5,17,6,7,34,Furman South,Ghislain Hebert,Julien Fournier,James Tobias,2,0,2,NaN,5,10,6,NaN,home
+224,1,NJD,2023020725,2024-01-22,Prudential Center,6,38,2,0.0,0/2,0/2,0.461538,11,4,8,16,Brian Pochmara,Frederick L'Ecuyer,CJ Murray,Dan Kelly,2,2,1,1,15,8,12,3,home
+225,18,NSH,2023020726,2024-01-22,Bridgestone Arena,1,27,13,0.0,0/5,0/5,0.542373,18,20,22,31,Dan O'Rourke,Mitch Dunning,Justin Johnson,Devin Berg,0,1,0,NaN,4,12,11,NaN,home
+226,53,ARI,2023020727,2024-01-22,Mullett Arena,5,26,6,0.333333,1/3,1/3,0.378788,11,4,8,20,Michael Markovic,Peter MacDougall,Michel Cormier,Kilian McNamara,1,2,2,NaN,10,8,8,NaN,home
+227,23,VAN,2023020728,2024-01-22,Rogers Arena,2,29,10,0.0,0/3,0/3,0.447368,9,8,12,28,Francis Charron,Corey Syvret,Kiel Murchison,Ben O'Quinn,2,0,0,NaN,12,7,10,NaN,home
+228,26,LAK,2023020729,2024-01-22,Crypto.com Arena,3,47,2,0.333333,1/3,1/3,0.45283,21,4,5,20,Jean Hebert,Brandon Blandina,Travis Toomey,Bryan Pancich,0,1,2,0,18,10,14,5,home
+229,17,DET,2023020730,2024-01-23,Little Caesars Arena,4,34,4,0.75,3/4,3/4,0.4,18,8,8,23,Garrett Rank,Ghislain Hebert,Andrew Smith,Matt MacPherson,2,0,2,NaN,12,7,15,NaN,home
+230,8,MTL,2023020731,2024-01-23,Centre Bell,1,25,10,0.0,0/5,0/5,0.52,13,6,10,34,Francois St-Laurent,Jake Brenk,Tommy Hughes,Ryan Daisy,0,0,1,NaN,6,9,10,NaN,home
+231,4,PHI,2023020732,2024-01-23,Wells Fargo Center,3,32,8,0.5,1/2,1/2,0.557692,23,12,2,17,Kelly Sutherland,Eric Furlatt,Brandon Gawryletz,CJ Murray,0,2,1,NaN,7,14,11,NaN,home
+232,2,NYI,2023020733,2024-01-23,UBS Arena,2,42,6,0.0,0/3,0/3,0.528302,7,2,14,31,Furman South,Brian Pochmara,Kyle Flemington,Brad Kovachik,0,1,1,NaN,8,18,16,NaN,home
+233,30,MIN,2023020734,2024-01-23,Xcel Energy Center,5,30,8,0.0,0/2,0/2,0.5,11,9,5,16,Chris Rooney,Morgan MacPhee,Brandon Grillo,Ryan Galloway,2,1,2,NaN,8,14,8,NaN,home
+234,20,CGY,2023020735,2024-01-23,Scotiabank Saddledome,3,35,2,0.0,0/3,0/3,0.526316,13,12,21,19,Chris Schlenker,Corey Syvret,Scott Cherrey,Derek Nansen,1,2,0,NaN,17,13,5,NaN,home
+235,22,EDM,2023020736,2024-01-23,Rogers Place,4,24,10,0.5,1/2,1/2,0.510204,16,9,26,28,Francis Charron,Pierre Lambert,Travis Gawryletz,Jonathan Deschamps,1,0,3,NaN,8,5,11,NaN,home
+236,24,ANA,2023020737,2024-01-23,Honda Center,4,36,38,0.25,1/4,1/4,0.509804,16,5,10,26,Trevor Hanson,Chris Lee,Michel Cormier,Jesse Marquis,1,2,1,NaN,8,19,9,NaN,home
+237,28,SJS,2023020738,2024-01-23,SAP Center at San Jose,3,22,6,0.0,0/3,0/3,0.396552,16,5,6,12,Jean Hebert,Tom Chmielewski,Caleb Apperson,Kilian McNamara,0,0,2,1,9,6,6,1,home
+238,13,FLA,2023020739,2024-01-24,Amerant Bank Arena,6,42,36,0.25,1/4,1/4,0.541667,11,7,13,20,Wes McCauley,Carter Sandlak,Bevan Mills,James Tobias,3,2,1,NaN,16,12,14,NaN,home
+239,10,TOR,2023020740,2024-01-24,Scotiabank Arena,1,30,4,0.0,0/5,0/5,0.648148,19,8,17,23,Jon McIsaac,Brandon Schrader,Shandor Alphonso,Steve Barton,0,0,0,1,4,11,13,2,home
+240,6,BOS,2023020741,2024-01-24,TD Garden,2,28,6,0.0,0/4,0/4,0.52,13,5,18,31,Eric Furlatt,Beau Halkidis,Brandon Gawryletz,Brad Kovachik,0,0,2,NaN,8,7,13,NaN,home
+241,21,COL,2023020742,2024-01-24,Ball Arena,6,31,10,0.5,2/4,2/4,0.546875,24,5,5,16,Kevin Pollock,Peter MacDougall,Trent Knorr,Bryan Pancich,1,3,2,NaN,9,12,10,NaN,home
+242,55,SEA,2023020743,2024-01-24,Climate Pledge Arena,6,28,6,0.0,0/3,0/3,0.507463,17,6,4,7,Trevor Hanson,Brandon Blandina,Mitch Hunt,Ben O'Quinn,2,2,2,NaN,8,11,9,NaN,home
+243,23,VAN,2023020744,2024-01-24,Rogers Arena,3,32,6,0.333333,1/3,1/3,0.520833,15,7,9,20,Francis Charron,Steve Kozari,Derek Nansen,Travis Toomey,0,0,3,0,7,10,14,1,home
+244,26,LAK,2023020745,2024-01-24,Crypto.com Arena,3,40,8,0.333333,1/3,1/3,0.54386,23,5,9,26,Chris Lee,Michael Markovic,Jesse Marquis,Mark Shewchyk,3,0,0,NaN,13,13,14,NaN,home
+245,12,CAR,2023020746,2024-01-25,PNC Arena,3,23,6,0.25,1/4,1/4,0.568627,14,14,14,20,Carter Sandlak,Kendrick Nicholson,David Brisebois,Dan Kelly,1,2,0,NaN,9,10,4,NaN,home
+246,17,DET,2023020747,2024-01-25,Little Caesars Arena,3,17,17,0.0,0/4,0/4,0.618182,22,6,3,12,Chris Rooney,Dan O'Rourke,Libor Suchanek,Joe Mahon,0,3,0,NaN,4,8,5,NaN,home
+247,8,MTL,2023020748,2024-01-25,Centre Bell,4,26,15,0.4,2/5,2/5,0.48,18,4,10,23,Jon McIsaac,Francois St-Laurent,Steve Barton,Tommy Hughes,3,0,1,NaN,13,7,6,NaN,home
+248,9,OTT,2023020749,2024-01-25,Canadian Tire Centre,2,37,8,0.333333,2/6,2/6,0.509091,12,11,16,32,Jake Brenk,Brandon Schrader,Shandor Alphonso,Devin Berg,0,1,1,0,9,13,13,2,home
+249,14,TBL,2023020750,2024-01-25,Amalie Arena,6,37,12,0.333333,1/3,1/3,0.44186,15,9,8,25,Wes McCauley,Thomas John Luxmore,Bevan Mills,James Tobias,2,3,1,NaN,13,14,10,NaN,home
+250,25,DAL,2023020751,2024-01-25,American Airlines Center,4,44,2,0.0,0/2,0/2,0.591837,6,10,12,9,Jean Hebert,Jordan Samuels-Thomas,Trent Knorr,Ryan Galloway,1,1,1,1,11,14,18,1,home
+251,30,MIN,2023020752,2024-01-25,Xcel Energy Center,2,24,26,0.5,2/4,2/4,0.516667,20,9,8,19,Garrett Rank,Ghislain Hebert,Michel Cormier,Matt MacPherson,0,1,1,NaN,6,11,7,NaN,home
+252,20,CGY,2023020753,2024-01-25,Scotiabank Saddledome,2,30,19,0.0,0/2,0/2,0.566667,19,5,10,15,Corey Syvret,Steve Kozari,Travis Gawryletz,Jonathan Deschamps,2,0,0,NaN,18,4,8,NaN,home
+253,22,EDM,2023020754,2024-01-25,Rogers Place,3,34,2,1.0,1/1,1/1,0.584906,9,12,12,20,Graham Skilliter,Pierre Lambert,Scott Cherrey,Derek Nansen,0,1,2,NaN,7,12,15,NaN,home
+254,3,NYR,2023020755,2024-01-26,Madison Square Garden,2,38,4,0.0,0/2,0/2,0.491803,10,9,12,29,Kelly Sutherland,Eric Furlatt,Ryan Daisy,Jonny Murray,1,0,1,NaN,15,7,16,NaN,home
+255,5,PIT,2023020756,2024-01-26,PPG Paints Arena,2,37,6,0.125,1/8,1/8,0.555556,20,13,16,27,Chris Rooney,Morgan MacPhee,Brandon Gawryletz,CJ Murray,1,0,1,0,10,15,11,1,home
+256,21,COL,2023020757,2024-01-26,Ball Arena,5,31,14,0.25,1/4,1/4,0.480769,15,8,3,18,Chris Lee,Brandon Blandina,Ryan Galloway,Jesse Marquis,3,1,1,NaN,12,11,8,NaN,home
+257,55,SEA,2023020758,2024-01-26,Climate Pledge Arena,3,36,4,0.5,1/2,1/2,0.46,7,14,1,14,Michael Markovic,Kevin Pollock,Kiel Murchison,Mark Shewchyk,1,2,0,0,11,10,14,1,home
+258,4,PHI,2023020759,2024-01-27,Wells Fargo Center,2,37,6,0.0,0/3,0/3,0.584906,10,2,8,21,Jon McIsaac,Jake Brenk,Tommy Hughes,David Brisebois,0,1,1,NaN,12,15,10,NaN,home
+259,25,DAL,2023020760,2024-01-27,American Airlines Center,5,35,4,0.5,1/2,1/2,0.622951,14,5,5,15,Dan O'Rourke,Thomas John Luxmore,Trent Knorr,Ben O'Quinn,2,1,1,1,11,15,8,1,home
+260,22,EDM,2023020761,2024-01-27,Rogers Place,4,21,6,0.666667,2/3,2/3,0.423077,17,13,6,30,Chris Schlenker,Graham Skilliter,Scott Cherrey,Derek Nansen,1,1,2,NaN,9,6,6,NaN,home
+261,28,SJS,2023020762,2024-01-27,SAP Center at San Jose,2,26,10,0.0,0/2,0/2,0.550725,12,12,5,14,Kyle Rehman,Trevor Hanson,Ryan Gibbons,Mitch Hunt,2,0,0,NaN,12,7,7,NaN,home
+262,12,CAR,2023020763,2024-01-27,PNC Arena,3,39,4,0.5,1/2,1/2,0.636364,14,15,6,24,Frederick L'Ecuyer,Carter Sandlak,Julien Fournier,Dan Kelly,0,1,2,NaN,7,14,18,NaN,home
+263,17,DET,2023020764,2024-01-27,Little Caesars Arena,5,29,4,0.5,1/2,1/2,0.4375,10,5,13,19,Ghislain Hebert,Justin Kea,Kyle Flemington,Devin Berg,3,0,2,NaN,8,15,6,NaN,home
+264,9,OTT,2023020765,2024-01-27,Canadian Tire Centre,2,31,28,1.0,1/1,1/1,0.465517,17,8,11,26,Mitch Dunning,Peter MacDougall,Andrew Smith,Steve Barton,1,1,0,NaN,7,9,15,NaN,home
+265,5,PIT,2023020766,2024-01-27,PPG Paints Arena,3,33,2,0.0,0/2,0/2,0.610169,4,16,7,23,Chris Rooney,Furman South,Brandon Gawryletz,Joe Mahon,0,1,1,1,13,14,5,1,home
+266,14,TBL,2023020767,2024-01-27,Amalie Arena,6,42,2,0.0,0/3,0/3,0.508772,8,4,5,38,Wes McCauley,Kendrick Nicholson,Bevan Mills,James Tobias,0,2,4,NaN,9,19,14,NaN,home
+267,52,WPG,2023020768,2024-01-27,Canada Life Centre,2,26,12,0.0,0/4,0/4,0.377778,9,7,10,13,Pierre Lambert,Cody Beach,Michel Cormier,Jonathan Deschamps,1,0,1,NaN,7,12,7,NaN,home
+268,2,NYI,2023020769,2024-01-27,UBS Arena,2,23,8,0.0,0/1,0/1,0.462687,24,3,10,21,Eric Furlatt,Beau Halkidis,Ryan Daisy,Jonny Murray,0,1,1,0,7,8,7,1,home
+269,30,MIN,2023020770,2024-01-27,Xcel Energy Center,2,37,4,0.0,0/4,0/4,0.491228,12,4,9,12,Garrett Rank,Chris Lee,Libor Suchanek,Matt MacPherson,2,0,0,NaN,12,17,8,NaN,home
+270,20,CGY,2023020771,2024-01-27,Scotiabank Saddledome,1,31,4,0.5,1/2,1/2,0.472727,11,5,16,25,Brandon Schrader,Steve Kozari,Caleb Apperson,Travis Toomey,0,1,0,NaN,11,12,8,NaN,home
+271,23,VAN,2023020772,2024-01-27,Rogers Arena,5,34,19,0.75,3/4,3/4,0.642857,14,10,8,27,Corey Syvret,Michael Markovic,Kiel Murchison,Mark Shewchyk,0,1,3,1,12,8,12,2,home
+272,19,STL,2023020773,2024-01-28,Enterprise Center,4,32,2,0.166667,1/6,1/6,0.509434,9,10,4,26,Dan O'Rourke,Thomas John Luxmore,Ryan Galloway,Bryan Pancich,1,2,0,1,10,13,7,2,home
+273,55,SEA,2023020774,2024-01-28,Climate Pledge Arena,4,26,4,0.666667,2/3,2/3,0.590164,10,5,0,16,Kyle Rehman,Kevin Pollock,Ryan Gibbons,Mark Shewchyk,3,0,1,NaN,10,8,8,NaN,home
+274,9,OTT,2023020775,2024-01-29,Canadian Tire Centre,4,35,8,0.0,0/3,0/3,0.5,25,12,13,23,Ghislain Hebert,Pierre Lambert,Andrew Smith,Jonny Murray,0,3,0,1,7,13,14,1,home
+275,19,STL,2023020776,2024-01-30,Enterprise Center,0,21,9,0.0,0/3,0/3,0.510638,16,7,10,19,Graham Skilliter,Peter MacDougall,Julien Fournier,Devin Berg,0,0,0,NaN,4,5,12,NaN,home
+276,28,SJS,2023020777,2024-01-30,SAP Center at San Jose,2,22,7,0.0,0/1,0/1,0.490909,17,12,5,21,Chris Schlenker,Tom Chmielewski,Travis Gawryletz,Kiel Murchison,0,0,2,NaN,3,5,14,NaN,home
+277,17,DET,2023020778,2024-01-31,Little Caesars Arena,2,25,6,0.0,0/1,0/1,0.519231,16,3,6,22,Mitch Dunning,Graham Skilliter,CJ Murray,Ryan Jackson,1,0,1,0,3,11,11,0,home
+278,18,NSH,2023020779,2024-01-31,Bridgestone Arena,2,42,4,0.0,0/4,0/4,0.604167,14,8,6,23,Furman South,Peter MacDougall,Julien Fournier,Devin Berg,0,0,2,NaN,14,10,18,NaN,home
+279,24,ANA,2023020780,2024-01-31,Honda Center,3,34,18,0.0,0/4,0/4,0.545455,14,5,6,25,Chris Schlenker,Tom Chmielewski,Travis Gawryletz,Kiel Murchison,1,0,1,1,8,8,15,3,home
+280,3,NYR,2023020781,2024-02-05,Madison Square Garden,2,29,8,0.0,0/1,0/1,0.555556,10,10,7,18,Chris Rooney,Brian Pochmara,Shandor Alphonso,Kilian McNamara,0,0,1,1,11,6,11,1,home
+281,10,TOR,2023020782,2024-02-05,Scotiabank Arena,2,36,11,0.5,1/2,1/2,0.5,18,9,11,28,Garrett Rank,Brandon Blandina,Tyson Baker,Mark Shewchyk,0,1,1,NaN,11,10,15,NaN,home
+282,6,BOS,2023020783,2024-02-06,TD Garden,1,22,24,0.25,1/4,1/4,0.553191,18,5,11,31,Wes McCauley,Brian Pochmara,Kyle Flemington,Matt MacPherson,0,0,1,NaN,10,5,7,NaN,home
+283,7,BUF,2023020784,2024-02-06,KeyBank Center,1,48,10,0.25,1/4,1/4,0.402439,13,5,8,13,Eric Furlatt,Brandon Blandina,Brad Kovachik,Tyson Baker,0,1,0,NaN,16,16,16,NaN,home
+284,12,CAR,2023020785,2024-02-06,PNC Arena,2,24,6,0.5,1/2,1/2,0.490566,9,5,15,19,Ghislain Hebert,Michael Markovic,James Tobias,Ryan Daisy,1,1,0,NaN,4,8,12,NaN,home
+285,13,FLA,2023020786,2024-02-06,Amerant Bank Arena,1,21,4,0.5,1/2,1/2,0.422222,10,5,15,31,Jon McIsaac,Thomas John Luxmore,Scott Cherrey,Michel Cormier,1,0,0,NaN,10,8,3,NaN,home
+286,1,NJD,2023020787,2024-02-06,Prudential Center,5,31,8,0.0,0/3,0/3,0.629032,17,8,10,12,Trevor Hanson,Steve Kozari,Steve Barton,Tommy Hughes,1,2,2,NaN,13,14,4,NaN,home
+287,5,PIT,2023020788,2024-02-06,PPG Paints Arena,3,27,4,0.666667,2/3,2/3,0.617021,17,12,11,17,Francis Charron,Jake Brenk,Jesse Marquis,David Brisebois,1,2,0,NaN,12,9,6,NaN,home
+288,15,WSH,2023020789,2024-02-06,Capital One Arena,2,39,6,0.0,0/3,0/3,0.491525,6,9,11,21,Chris Rooney,Jean Hebert,Shandor Alphonso,Kilian McNamara,0,1,1,NaN,5,16,18,NaN,home
+289,54,VGK,2023020790,2024-02-06,T-Mobile Arena,3,26,2,0.0,0/2,0/2,0.471698,26,12,6,20,Kyle Rehman,Kelly Sutherland,Ryan Gibbons,Kiel Murchison,1,0,2,NaN,13,8,5,NaN,home
+290,3,NYR,2023020791,2024-02-07,Madison Square Garden,3,24,2,0.0,0/2,0/2,0.5,22,5,10,21,Trevor Hanson,Steve Kozari,Ryan Galloway,Dan Kelly,0,2,1,NaN,5,10,9,NaN,home
+291,10,TOR,2023020792,2024-02-07,Scotiabank Arena,5,31,8,1.0,3/3,3/3,0.453125,22,7,15,41,Mitch Dunning,Eric Furlatt,Jonathan Deschamps,Devin Berg,1,2,2,NaN,4,12,15,NaN,home
+292,16,CHI,2023020793,2024-02-07,United Center,1,21,9,0.0,0/2,0/2,0.561404,14,15,13,20,Francois St-Laurent,Frederick L'Ecuyer,Derek Nansen,Bryan Pancich,0,1,0,NaN,1,9,11,NaN,home
+293,6,BOS,2023020794,2024-02-08,TD Garden,4,24,10,0.0,0/3,0/3,0.425926,16,11,5,28,Ghislain Hebert,Kendrick Nicholson,Kilian McNamara,Dan Kelly,2,2,0,NaN,11,9,4,NaN,home
+294,13,FLA,2023020795,2024-02-08,Amerant Bank Arena,4,41,8,0.2,1/5,1/5,0.481481,20,5,6,23,Francis Charron,Michael Markovic,Scott Cherrey,Michel Cormier,0,2,2,NaN,13,12,16,NaN,home
+295,1,NJD,2023020796,2024-02-08,Prudential Center,3,40,6,0.0,0/2,0/2,0.52459,17,11,5,14,Jean Hebert,Brandon Schrader,Ryan Galloway,Mark Shewchyk,1,0,2,NaN,12,11,17,NaN,home
+296,4,PHI,2023020797,2024-02-08,Wells Fargo Center,4,21,11,0.0,0/4,0/4,0.576923,22,4,9,21,Wes McCauley,Trevor Hanson,Steve Barton,Jesse Marquis,3,1,0,NaN,13,3,5,NaN,home
+297,2,NYI,2023020798,2024-02-08,UBS Arena,6,24,4,0.25,1/4,1/4,0.416667,21,8,9,33,Jake Brenk,Steve Kozari,Kyle Flemington,David Brisebois,3,3,0,NaN,14,7,3,NaN,home
+298,12,CAR,2023020799,2024-02-08,PNC Arena,5,27,34,0.2,1/5,1/5,0.555556,10,8,5,19,Jon McIsaac,Furman South,James Tobias,Ryan Daisy,3,1,1,NaN,5,10,12,NaN,home
+299,53,ARI,2023020800,2024-02-08,Mullett Arena,2,22,2,0.0,0/1,0/1,0.604167,15,2,8,28,Corey Syvret,Kevin Pollock,Libor Suchanek,Kiel Murchison,1,0,1,NaN,5,11,6,NaN,home
+300,30,MIN,2023020801,2024-02-09,Xcel Energy Center,3,30,14,0.166667,1/6,1/6,0.459016,21,5,5,19,Francois St-Laurent,Tom Chmielewski,Derek Nansen,Bryan Pancich,1,1,1,NaN,8,15,7,NaN,home
+301,16,CHI,2023020802,2024-02-09,United Center,3,31,8,0.0,0/2,0/2,0.607143,12,6,10,17,Frederick L'Ecuyer,Morgan MacPhee,Trent Knorr,Jonathan Deschamps,1,0,2,0,8,11,12,0,home
+302,24,ANA,2023020803,2024-02-09,Honda Center,3,27,4,1.0,2/2,2/2,0.470588,13,5,6,25,Thomas John Luxmore,Corey Syvret,Libor Suchanek,Brandon Gawryletz,1,1,1,NaN,13,2,12,NaN,home
+303,7,BUF,2023020804,2024-02-10,KeyBank Center,1,34,6,0.0,0/3,0/3,0.559322,11,3,2,14,Kelly Sutherland,Jake Brenk,Shandor Alphonso,James Tobias,0,1,0,NaN,9,14,11,NaN,home
+304,17,DET,2023020805,2024-02-10,Little Caesars Arena,4,28,19,0.25,1/4,1/4,0.407407,20,2,5,17,Carter Sandlak,Brandon Blandina,Kyle Flemington,Tommy Hughes,1,0,2,1,10,8,8,2,home
+305,8,MTL,2023020806,2024-02-10,Centre Bell,2,20,12,0.0,0/4,0/4,0.431373,17,2,14,28,Kyle Rehman,Pierre Lambert,Travis Gawryletz,Tyson Baker,0,2,0,NaN,6,7,7,NaN,home
+306,2,NYI,2023020807,2024-02-10,UBS Arena,2,36,6,0.0,0/1,0/1,0.5,16,6,13,25,Wes McCauley,Kendrick Nicholson,Matt MacPherson,Mark Shewchyk,0,0,2,NaN,6,13,17,NaN,home
+307,6,BOS,2023020808,2024-02-10,TD Garden,0,18,17,0.0,0/4,0/4,0.44186,11,8,9,36,Trevor Hanson,Steve Kozari,Julien Fournier,David Brisebois,0,0,0,NaN,4,4,10,NaN,home
+308,13,FLA,2023020809,2024-02-10,Amerant Bank Arena,4,41,2,1.0,2/2,2/2,0.618182,10,10,9,35,Furman South,Brian Pochmara,Ben O'Quinn,Jonny Murray,2,1,1,NaN,11,22,8,NaN,home
+309,12,CAR,2023020810,2024-02-10,PNC Arena,1,32,10,0.0,0/2,0/2,0.545455,15,12,31,30,Dan O'Rourke,Michael Markovic,Michel Cormier,Devin Berg,0,0,0,1,10,11,9,2,home
+310,29,CBJ,2023020811,2024-02-10,Nationwide Arena,2,35,15,0.333333,1/3,1/3,0.45283,14,6,4,18,Mitch Dunning,Peter MacDougall,CJ Murray,Jesse Marquis,0,0,2,NaN,9,14,12,NaN,home
+311,9,OTT,2023020812,2024-02-10,Canadian Tire Centre,5,32,0,0.0,0/3,0/3,0.543478,13,11,15,23,Eric Furlatt,Beau Halkidis,Bevan Mills,Steve Barton,1,3,1,NaN,10,10,12,NaN,home
+312,4,PHI,2023020813,2024-02-10,Wells Fargo Center,3,38,6,0.25,1/4,1/4,0.491803,23,6,5,28,Jean Hebert,Brandon Schrader,Ryan Galloway,Dan Kelly,2,0,1,NaN,13,11,14,NaN,home
+313,52,WPG,2023020814,2024-02-10,Canada Life Centre,2,31,6,0.0,0/1,0/1,0.395349,11,18,9,26,Chris Schlenker,Chris Lee,Justin Johnson,Caleb Apperson,2,0,0,NaN,13,7,11,NaN,home
+314,18,NSH,2023020815,2024-02-10,Bridgestone Arena,5,37,10,0.333333,2/6,2/6,0.533333,12,6,13,26,Francis Charron,Frederick L'Ecuyer,Scott Cherrey,Trent Knorr,1,1,2,1,10,9,17,1,home
+315,26,LAK,2023020816,2024-02-10,Crypto.com Arena,4,26,12,0.5,1/2,1/2,0.483333,25,7,8,31,Thomas John Luxmore,Kevin Pollock,Libor Suchanek,Brandon Gawryletz,0,2,2,NaN,10,8,8,NaN,home
+316,8,MTL,2023020817,2024-02-11,Centre Bell,2,32,29,0.0,0/3,0/3,0.54,9,9,11,22,Garrett Rank,Kyle Rehman,Travis Gawryletz,Tyson Baker,1,0,1,NaN,8,13,11,NaN,home
+317,15,WSH,2023020818,2024-02-11,Capital One Arena,2,33,6,0.0,0/2,0/2,0.411765,23,5,8,21,Tom Chmielewski,Kendrick Nicholson,Julien Fournier,Brad Kovachik,1,1,0,0,7,15,8,3,home
+318,1,NJD,2023020819,2024-02-12,Prudential Center,3,37,6,0.2,1/5,1/5,0.6,18,10,16,17,Kelly Sutherland,Steve Kozari,Brad Kovachik,Ryan Galloway,1,2,0,NaN,12,17,8,NaN,home
+319,3,NYR,2023020820,2024-02-12,Madison Square Garden,2,31,10,0.0,0/3,0/3,0.590909,15,11,11,30,Trevor Hanson,Tom Chmielewski,Bevan Mills,Devin Berg,0,1,1,NaN,11,10,10,NaN,home
+320,4,PHI,2023020821,2024-02-12,Wells Fargo Center,5,34,8,0.0,0/7,0/7,0.585714,13,7,3,20,Pierre Lambert,Peter MacDougall,Ben O'Quinn,Mark Shewchyk,0,2,3,NaN,7,14,13,NaN,home
+321,54,VGK,2023020822,2024-02-12,T-Mobile Arena,3,30,6,0.2,1/5,1/5,0.423729,19,5,4,19,Thomas John Luxmore,Kevin Pollock,Libor Suchanek,Trent Knorr,2,0,1,NaN,6,14,10,NaN,home
+322,6,BOS,2023020823,2024-02-13,TD Garden,2,38,6,0.0,0/6,0/6,0.509091,10,6,8,32,Kelly Sutherland,Tom Chmielewski,Devin Berg,Dan Kelly,0,2,0,0,11,11,10,6,home
+323,7,BUF,2023020824,2024-02-13,KeyBank Center,7,24,6,0.5,1/2,1/2,0.387755,25,10,6,14,Francois St-Laurent,Graham Skilliter,Andrew Smith,Brad Kovachik,3,2,2,NaN,9,8,7,NaN,home
+324,8,MTL,2023020825,2024-02-13,Centre Bell,5,38,33,0.333333,2/6,2/6,0.509804,12,6,5,21,Dan O'Rourke,Kendrick Nicholson,Michel Cormier,Jonathan Deschamps,0,3,2,NaN,12,17,9,NaN,home
+325,9,OTT,2023020826,2024-02-13,Canadian Tire Centre,6,30,12,0.4,2/5,2/5,0.442623,18,10,11,24,Kyle Rehman,Carter Sandlak,Steve Barton,Derek Nansen,3,2,1,NaN,10,9,11,NaN,home
+326,10,TOR,2023020827,2024-02-13,Scotiabank Arena,4,32,4,0.0,0/2,0/2,0.591837,16,14,8,43,Ghislain Hebert,Michael Markovic,Scott Cherrey,Travis Gawryletz,2,0,2,NaN,10,9,13,NaN,home
+327,15,WSH,2023020828,2024-02-13,Capital One Arena,3,27,16,0.333333,1/3,1/3,0.514706,17,13,8,26,Garrett Rank,Pierre Lambert,Tommy Hughes,Mark Shewchyk,2,0,1,NaN,12,6,9,NaN,home
+328,2,NYI,2023020829,2024-02-13,UBS Arena,1,27,4,0.333333,1/3,1/3,0.666667,26,7,23,29,Trevor Hanson,Peter MacDougall,Bevan Mills,Ben O'Quinn,0,1,0,0,10,10,5,2,home
+329,25,DAL,2023020830,2024-02-13,American Airlines Center,4,23,2,0.0,0/1,0/1,0.473684,30,8,13,34,Chris Rooney,Chris Lee,CJ Murray,Kilian McNamara,1,1,2,NaN,8,8,7,NaN,home
+330,18,NSH,2023020831,2024-02-13,Bridgestone Arena,2,32,6,0.5,1/2,1/2,0.490566,27,17,15,38,Wes McCauley,Corey Syvret,Julien Fournier,Ryan Daisy,1,1,0,NaN,12,10,10,NaN,home
+331,16,CHI,2023020832,2024-02-13,United Center,2,24,13,0.25,1/4,1/4,0.5,10,10,7,18,Mitch Dunning,Steve Kozari,Ryan Gibbons,Matt MacPherson,0,1,1,NaN,2,12,10,NaN,home
+332,22,EDM,2023020833,2024-02-13,Rogers Place,8,36,6,0.0,0/0,0/0,0.606557,13,11,10,27,Chris Schlenker,Eric Furlatt,Caleb Apperson,Kiel Murchison,2,1,5,NaN,11,11,14,NaN,home
+333,5,PIT,2023020834,2024-02-14,PPG Paints Arena,2,27,6,0.0,0/4,0/4,0.519231,16,1,6,20,Frederick L'Ecuyer,Graham Skilliter,Kyle Flemington,David Brisebois,0,1,1,NaN,3,11,13,NaN,home
+334,52,WPG,2023020835,2024-02-14,Canada Life Centre,1,39,2,0.0,0/2,0/2,0.615385,14,4,8,16,Jon McIsaac,Brian Pochmara,Shandor Alphonso,Brandon Gawryletz,1,0,0,NaN,15,16,8,NaN,home
+335,53,ARI,2023020836,2024-02-14,Mullett Arena,1,26,10,0.0,0/3,0/3,0.5,13,3,3,26,Kevin Pollock,Brandon Blandina,CJ Murray,Trent Knorr,0,0,1,NaN,7,10,9,NaN,home
+336,6,BOS,2023020837,2024-02-15,TD Garden,1,37,4,0.0,0/2,0/2,0.478261,10,6,5,30,Francois St-Laurent,Mitch Dunning,Michel Cormier,Jonathan Deschamps,1,0,0,NaN,17,11,9,NaN,home
+337,7,BUF,2023020838,2024-02-15,KeyBank Center,0,45,6,0.0,0/2,0/2,0.561404,15,6,7,21,Frederick L'Ecuyer,Graham Skilliter,Kyle Flemington,David Brisebois,0,0,0,NaN,10,17,18,NaN,home
+338,1,NJD,2023020839,2024-02-15,Prudential Center,1,27,10,0.2,1/5,1/5,0.431818,21,5,6,20,Garrett Rank,Peter MacDougall,Libor Suchanek,Dan Kelly,0,1,0,NaN,5,7,15,NaN,home
+339,3,NYR,2023020840,2024-02-15,Madison Square Garden,7,31,10,0.25,1/4,1/4,0.617647,17,4,10,29,Tom Chmielewski,Jake Brenk,Bevan Mills,Ben O'Quinn,0,4,3,NaN,10,15,6,NaN,home
+340,9,OTT,2023020841,2024-02-15,Canadian Tire Centre,1,34,8,0.0,0/4,0/4,0.457627,11,6,12,30,Dan O'Rourke,Carter Sandlak,Derek Nansen,Devin Berg,0,0,1,NaN,8,7,19,NaN,home
+341,14,TBL,2023020842,2024-02-15,Amalie Arena,6,39,6,0.0,0/2,0/2,0.569444,17,8,3,27,Jean Hebert,Thomas John Luxmore,Steve Barton,Jonny Murray,2,0,4,NaN,15,8,16,NaN,home
+342,10,TOR,2023020843,2024-02-15,Scotiabank Arena,4,28,15,0.333333,1/3,1/3,0.561404,19,8,10,53,Kyle Rehman,Kendrick Nicholson,Andrew Smith,Travis Gawryletz,0,3,0,1,8,11,8,1,home
+343,19,STL,2023020844,2024-02-15,Enterprise Center,6,30,11,0.25,2/8,2/8,0.580645,15,12,6,13,Chris Rooney,Jordan Samuels-Thomas,Tyson Baker,Kilian McNamara,1,4,1,NaN,8,15,7,NaN,home
+344,16,CHI,2023020845,2024-02-15,United Center,1,28,2,0.0,0/2,0/2,0.361702,12,10,14,17,Ghislain Hebert,Pierre Lambert,Ryan Gibbons,Matt MacPherson,0,1,0,NaN,10,9,9,NaN,home
+345,20,CGY,2023020846,2024-02-15,Scotiabank Saddledome,3,34,10,0.0,0/5,0/5,0.532258,17,9,15,21,Jon McIsaac,Brian Pochmara,Shandor Alphonso,Brandon Gawryletz,1,1,1,NaN,13,9,12,NaN,home
+346,18,NSH,2023020847,2024-02-15,Bridgestone Arena,2,29,16,0.0,0/2,0/2,0.557377,12,3,12,32,Corey Syvret,Chris Lee,James Tobias,Ryan Daisy,0,2,0,NaN,1,21,7,NaN,home
+347,23,VAN,2023020848,2024-02-15,Rogers Arena,4,21,12,0.0,0/2,0/2,0.555556,14,1,7,18,Eric Furlatt,Brandon Schrader,Caleb Apperson,Bryan Pancich,2,1,1,NaN,6,10,5,NaN,home
+348,53,ARI,2023020849,2024-02-16,Mullett Arena,1,31,4,0.0,0/4,0/4,0.254237,14,3,12,30,Chris Schlenker,Brandon Blandina,CJ Murray,Jesse Marquis,1,0,0,NaN,16,5,10,NaN,home
+349,25,DAL,2023020850,2024-02-17,American Airlines Center,3,27,8,0.666667,2/3,2/3,0.492537,14,11,11,25,Wes McCauley,Garrett Rank,James Tobias,Ryan Daisy,0,3,0,0,6,16,5,0,home
+350,16,CHI,2023020851,2024-02-17,United Center,3,22,4,0.0,0/1,0/1,0.533333,17,9,5,27,Furman South,Michael Markovic,Travis Gawryletz,Kiel Murchison,1,1,1,NaN,8,6,8,NaN,home
+351,20,CGY,2023020852,2024-02-17,Scotiabank Saddledome,0,38,16,0.0,0/5,0/5,0.402778,21,10,22,29,Jon McIsaac,Beau Halkidis,Shandor Alphonso,Caleb Apperson,0,0,0,NaN,12,16,10,NaN,home
+352,6,BOS,2023020853,2024-02-17,TD Garden,4,32,11,0.25,1/4,1/4,0.642857,19,7,11,48,Dan O'Rourke,Mitch Dunning,Michel Cormier,Matt MacPherson,2,1,1,0,8,9,11,4,home
+353,30,MIN,2023020854,2024-02-17,Xcel Energy Center,2,32,6,0.25,1/4,1/4,0.5,8,10,5,21,Frederick L'Ecuyer,Ghislain Hebert,Tyson Baker,Jonny Murray,0,0,2,0,12,10,10,0,home
+354,19,STL,2023020855,2024-02-17,Enterprise Center,2,37,8,0.25,1/4,1/4,0.396226,14,11,6,23,Chris Lee,Pierre Lambert,Ryan Gibbons,Kilian McNamara,1,0,1,NaN,12,16,9,NaN,home
+355,14,TBL,2023020856,2024-02-17,Amalie Arena,2,30,90,0.25,1/4,1/4,0.482143,10,5,5,35,Chris Rooney,Corey Syvret,Steve Barton,Ben O'Quinn,1,0,1,NaN,9,16,5,NaN,home
+356,8,MTL,2023020857,2024-02-17,Centre Bell,3,31,2,0.333333,1/3,1/3,0.576271,26,8,20,18,Francis Charron,Carter Sandlak,Bevan Mills,Derek Nansen,1,1,1,NaN,11,7,13,NaN,home
+357,10,TOR,2023020858,2024-02-17,Scotiabank Arena,9,32,15,0.8,4/5,4/5,0.555556,11,8,9,39,Graham Skilliter,Peter MacDougall,Andrew Smith,Kyle Flemington,4,4,1,NaN,18,9,5,NaN,home
+358,1,NJD,2023020859,2024-02-17,MetLife Stadium,6,40,8,0.0,0/5,0/5,0.6,15,7,13,23,Kelly Sutherland,Jake Brenk,Scott Cherrey,Libor Suchanek,2,2,2,NaN,13,14,13,NaN,home
+359,23,VAN,2023020860,2024-02-17,Rogers Arena,2,37,25,0.0,0/4,0/4,0.482143,10,4,6,38,Brian Pochmara,Eric Furlatt,Ryan Galloway,Bryan Pancich,0,2,0,NaN,12,14,11,NaN,home
+360,28,SJS,2023020861,2024-02-17,SAP Center at San Jose,3,31,6,0.25,1/4,1/4,0.52381,15,5,5,24,Brandon Schrader,Steve Kozari,Julien Fournier,CJ Murray,1,2,0,NaN,8,14,9,NaN,home
+361,54,VGK,2023020862,2024-02-17,T-Mobile Arena,1,30,0,0.0,0/2,0/2,0.525424,18,11,6,29,Chris Schlenker,Trevor Hanson,Jesse Marquis,Joe Mahon,1,0,0,NaN,13,7,10,NaN,home
+362,2,NYI,2023020863,2024-02-18,MetLife Stadium,5,41,17,1.0,2/2,2/2,0.681818,20,6,5,24,Kelly Sutherland,Jake Brenk,Scott Cherrey,Libor Suchanek,3,1,1,0,18,17,6,0,home
+363,21,COL,2023020864,2024-02-18,Ball Arena,4,37,14,0.0,0/4,0/4,0.569231,9,6,4,17,Wes McCauley,Tom Chmielewski,Brandon Gawryletz,Mark Shewchyk,1,2,1,NaN,7,21,9,NaN,home
+364,5,PIT,2023020865,2024-02-18,PPG Paints Arena,1,30,6,0.2,1/5,1/5,0.610169,16,13,6,34,Jean Hebert,Michael Markovic,Brad Kovachik,Ryan Jackson,1,0,0,NaN,12,7,11,NaN,home
+365,7,BUF,2023020866,2024-02-19,KeyBank Center,3,37,4,0.5,1/2,1/2,0.413043,8,7,8,14,Kevin Pollock,Brandon Blandina,Andrew Smith,Dan Kelly,1,2,0,NaN,15,12,10,NaN,home
+366,6,BOS,2023020867,2024-02-19,TD Garden,4,30,9,0.0,0/2,0/2,0.477612,18,7,17,27,Francis Charron,Carter Sandlak,Derek Nansen,David Brisebois,1,1,1,0,7,12,10,1,home
+367,19,STL,2023020868,2024-02-19,Enterprise Center,2,21,4,0.5,1/2,1/2,0.47541,7,8,9,19,Frederick L'Ecuyer,Thomas John Luxmore,James Tobias,Kiel Murchison,0,1,1,NaN,6,7,8,NaN,home
+368,30,MIN,2023020869,2024-02-19,Xcel Energy Center,10,27,8,0.666667,4/6,4/6,0.481481,23,7,5,21,Jon McIsaac,Pierre Lambert,Tyson Baker,Jonny Murray,1,2,7,NaN,8,9,10,NaN,home
+369,55,SEA,2023020870,2024-02-19,Climate Pledge Arena,3,41,2,0.5,1/2,1/2,0.446429,15,7,2,17,Brian Pochmara,Steve Kozari,CJ Murray,Trent Knorr,1,1,1,0,15,13,12,1,home
+370,53,ARI,2023020871,2024-02-19,Mullett Arena,3,25,6,0.5,1/2,1/2,0.42,11,9,5,27,Kyle Rehman,Furman South,Jesse Marquis,Mark Shewchyk,1,2,0,NaN,7,9,9,NaN,home
+371,20,CGY,2023020872,2024-02-19,Scotiabank Saddledome,6,34,6,0.5,1/2,1/2,0.403846,11,15,15,29,Graham Skilliter,Eric Furlatt,Ryan Galloway,Bryan Pancich,2,2,2,NaN,13,12,9,NaN,home
+372,28,SJS,2023020873,2024-02-19,SAP Center at San Jose,0,29,30,0.0,0/1,0/1,0.466667,22,8,9,33,Trevor Hanson,Brandon Schrader,Julien Fournier,Mitch Hunt,0,0,0,NaN,9,14,6,NaN,home
+373,12,CAR,2023020874,2024-02-19,PNC Arena,6,42,8,0.25,1/4,1/4,0.54717,11,7,16,12,Chris Rooney,Francois St-Laurent,Steve Barton,Jonathan Deschamps,1,3,2,NaN,14,17,11,NaN,home
+374,14,TBL,2023020875,2024-02-19,Amalie Arena,2,25,9,0.0,0/0,0/0,0.515152,21,6,8,37,Corey Syvret,Chris Lee,Ryan Gibbons,Ben O'Quinn,0,1,1,NaN,7,8,10,NaN,home
+375,13,FLA,2023020876,2024-02-20,Amerant Bank Arena,3,34,4,0.0,0/3,0/3,0.442623,9,5,11,33,Corey Syvret,Chris Lee,Ryan Gibbons,Caleb Apperson,1,1,0,1,11,9,12,2,home
+376,3,NYR,2023020877,2024-02-20,Madison Square Garden,3,26,8,0.0,0/4,0/4,0.55,22,11,10,32,Francis Charron,Michael Markovic,Steve Barton,David Brisebois,1,1,1,NaN,6,14,6,NaN,home
+377,5,PIT,2023020878,2024-02-20,PPG Paints Arena,4,41,4,0.0,0/3,0/3,0.578125,14,9,14,17,Jean Hebert,Carter Sandlak,Brad Kovachik,Dan Kelly,1,1,2,0,12,13,16,0,home
+378,15,WSH,2023020879,2024-02-20,Capital One Arena,6,26,4,1.0,1/1,1/1,0.37931,15,10,7,17,Chris Rooney,Francois St-Laurent,Libor Suchanek,Jonathan Deschamps,1,1,4,NaN,8,7,11,NaN,home
+379,52,WPG,2023020880,2024-02-20,Canada Life Centre,6,30,18,0.5,2/4,2/4,0.467742,14,9,2,26,Graham Skilliter,Pierre Lambert,Devin Berg,Tyson Baker,2,1,3,NaN,8,6,16,NaN,home
+380,21,COL,2023020881,2024-02-20,Ball Arena,3,27,4,0.0,0/3,0/3,0.375,18,7,6,26,Kyle Rehman,Brandon Schrader,James Tobias,Jesse Marquis,0,1,2,NaN,7,11,9,NaN,home
+381,54,VGK,2023020882,2024-02-20,T-Mobile Arena,3,26,8,0.25,1/4,1/4,0.448276,19,9,6,30,Kendrick Nicholson,Steve Kozari,Brandon Gawryletz,Travis Gawryletz,1,0,2,NaN,8,10,8,NaN,home
+382,26,LAK,2023020883,2024-02-20,Crypto.com Arena,5,35,6,1.0,2/2,2/2,0.526316,19,3,6,15,Wes McCauley,Furman South,Trent Knorr,Matt MacPherson,1,2,2,NaN,10,13,12,NaN,home
+383,8,MTL,2023020884,2024-02-21,Centre Bell,2,31,10,0.0,0/4,0/4,0.653061,19,9,12,16,Kelly Sutherland,Ghislain Hebert,Michel Cormier,Kilian McNamara,1,1,0,NaN,9,11,11,NaN,home
+384,16,CHI,2023020885,2024-02-21,United Center,1,22,5,0.0,0/2,0/2,0.5,20,7,9,24,Jean Hebert,Thomas John Luxmore,Kyle Flemington,Kiel Murchison,1,0,0,NaN,7,8,7,NaN,home
+385,24,ANA,2023020886,2024-02-21,Honda Center,4,31,13,0.0,0/4,0/4,0.531915,10,9,10,28,Wes McCauley,Kendrick Nicholson,Julien Fournier,Mark Shewchyk,0,4,0,NaN,10,7,14,NaN,home
+386,53,ARI,2023020887,2024-02-21,Mullett Arena,3,26,14,0.333333,1/3,1/3,0.483333,13,4,8,35,Jake Brenk,Brandon Schrader,Brandon Gawryletz,Matt MacPherson,0,3,0,NaN,6,14,6,NaN,home
+387,22,EDM,2023020888,2024-02-21,Rogers Place,5,42,9,0.0,0/3,0/3,0.478873,9,10,16,23,Tom Chmielewski,Eric Furlatt,Bevan Mills,Ryan Galloway,1,1,3,0,12,10,18,2,home
+388,12,CAR,2023020889,2024-02-22,PNC Arena,1,29,6,0.0,0/1,0/1,0.391304,9,13,9,28,Jon McIsaac,Mitch Dunning,Libor Suchanek,Jonathan Deschamps,0,0,1,NaN,8,12,9,NaN,home
+389,17,DET,2023020890,2024-02-22,Little Caesars Arena,2,30,6,0.25,1/4,1/4,0.530612,20,3,7,16,Chris Schlenker,Francis Charron,Brad Kovachik,Dan Kelly,0,0,1,1,5,11,12,2,home
+390,1,NJD,2023020891,2024-02-22,Prudential Center,1,40,17,0.0,0/5,0/5,0.576271,7,13,24,19,Francois St-Laurent,Michael Markovic,Ryan Jackson,David Brisebois,0,0,1,NaN,16,11,13,NaN,home
+391,9,OTT,2023020892,2024-02-22,Canadian Tire Centre,4,30,4,0.25,1/4,1/4,0.611111,25,7,12,32,Kelly Sutherland,Justin Kea,Michel Cormier,Kilian McNamara,1,3,0,NaN,8,13,9,NaN,home
+392,5,PIT,2023020893,2024-02-22,PPG Paints Arena,4,27,8,0.5,1/2,1/2,0.518519,20,14,5,22,Thomas John Luxmore,Carter Sandlak,Shandor Alphonso,CJ Murray,1,2,1,NaN,12,10,5,NaN,home
+393,14,TBL,2023020894,2024-02-22,Amalie Arena,3,32,8,0.0,0/3,0/3,0.438596,13,3,9,19,Brian Pochmara,Peter MacDougall,Caleb Apperson,Jonny Murray,0,1,2,NaN,10,7,15,NaN,home
+394,19,STL,2023020895,2024-02-22,Enterprise Center,4,25,12,0.2,1/5,1/5,0.423077,9,15,11,11,Garrett Rank,Brandon Blandina,Ryan Daisy,Bryan Pancich,0,3,1,NaN,8,9,8,NaN,home
+395,20,CGY,2023020896,2024-02-22,Scotiabank Saddledome,3,30,6,0.0,0/1,0/1,0.472727,17,8,19,30,Dan O'Rourke,Tom Chmielewski,Bevan Mills,Devin Berg,2,0,0,1,16,5,6,3,home
+396,55,SEA,2023020897,2024-02-22,Climate Pledge Arena,5,31,13,0.333333,1/3,1/3,0.483333,16,7,2,9,Kendrick Nicholson,Beau Halkidis,Travis Gawryletz,Trent Knorr,1,3,1,NaN,9,12,10,NaN,home
+397,54,VGK,2023020898,2024-02-22,T-Mobile Arena,3,26,4,0.0,0/1,0/1,0.54902,21,11,7,32,Wes McCauley,Furman South,Julien Fournier,Matt MacPherson,0,1,2,NaN,14,5,7,NaN,home
+398,26,LAK,2023020899,2024-02-22,Crypto.com Arena,1,28,8,0.333333,1/3,1/3,0.563636,12,5,7,23,Trevor Hanson,Jake Brenk,Brandon Gawryletz,Mark Shewchyk,1,0,0,NaN,6,8,14,NaN,home
+399,29,CBJ,2023020900,2024-02-23,Nationwide Arena,1,26,10,0.333333,1/3,1/3,0.469388,12,5,2,12,Chris Schlenker,Francis Charron,Shandor Alphonso,Jesse Marquis,1,0,0,NaN,11,8,7,NaN,home
+400,16,CHI,2023020901,2024-02-23,United Center,2,35,6,0.0,0/2,0/2,0.5,9,5,13,19,Garrett Rank,Carter Sandlak,Ryan Daisy,Ryan Jackson,0,1,1,0,11,10,14,0,home
+401,22,EDM,2023020902,2024-02-23,Rogers Place,2,43,8,1.0,2/2,2/2,0.678571,19,14,9,26,Dan O'Rourke,Ghislain Hebert,Bevan Mills,Devin Berg,0,1,1,NaN,6,13,24,NaN,home
+402,1,NJD,2023020903,2024-02-24,Prudential Center,4,24,0,0.5,1/2,1/2,0.603774,10,13,18,11,Thomas John Luxmore,Morgan MacPhee,James Tobias,David Brisebois,0,2,2,NaN,5,8,11,NaN,home
+403,2,NYI,2023020904,2024-02-24,UBS Arena,2,34,6,0.2,1/5,1/5,0.490566,20,5,7,16,Jon McIsaac,Justin Kea,Jonathan Deschamps,Dan Kelly,0,0,2,NaN,6,9,19,NaN,home
+404,4,PHI,2023020905,2024-02-24,Wells Fargo Center,1,40,15,0.0,0/4,0/4,0.633333,20,3,8,23,Chris Rooney,Francois St-Laurent,CJ Murray,Brad Kovachik,0,0,1,NaN,18,5,17,NaN,home
+405,13,FLA,2023020906,2024-02-24,Amerant Bank Arena,3,29,15,0.333333,1/3,1/3,0.578947,9,7,14,41,Jean Hebert,Brian Pochmara,Caleb Apperson,Jonny Murray,0,1,1,1,4,11,11,3,home
+406,12,CAR,2023020907,2024-02-24,PNC Arena,1,21,8,0.0,0/2,0/2,0.388889,13,8,15,19,Mitch Dunning,Peter MacDougall,Andrew Smith,Libor Suchanek,0,1,0,NaN,7,10,4,NaN,home
+407,21,COL,2023020908,2024-02-24,Ball Arena,3,29,4,1.0,1/1,1/1,0.478261,15,11,12,21,Corey Syvret,Steve Kozari,Julien Fournier,Brandon Gawryletz,2,0,1,NaN,11,9,9,NaN,home
+408,17,DET,2023020909,2024-02-24,Little Caesars Arena,6,34,4,0.333333,1/3,1/3,0.509434,6,4,7,23,Kelly Sutherland,Chris Lee,Tyson Baker,Bryan Pancich,4,2,0,NaN,14,9,11,NaN,home
+409,9,OTT,2023020910,2024-02-24,Canadian Tire Centre,4,33,6,0.333333,1/3,1/3,0.612245,22,9,19,34,Eric Furlatt,Pierre Lambert,Scott Cherrey,Kilian McNamara,0,2,1,0,8,12,7,6,home
+410,23,VAN,2023020911,2024-02-24,Rogers Arena,3,39,8,0.5,1/2,1/2,0.594203,11,2,3,45,Frederick L'Ecuyer,Graham Skilliter,Trent Knorr,Kiel Murchison,0,0,2,1,9,12,17,1,home
+411,22,EDM,2023020912,2024-02-24,Rogers Place,3,35,46,0.333333,1/3,1/3,0.5,12,7,15,32,Dan O'Rourke,Kendrick Nicholson,Steve Barton,Derek Nansen,1,1,1,NaN,8,13,14,NaN,home
+412,55,SEA,2023020913,2024-02-24,Climate Pledge Arena,2,32,21,0.0,0/5,0/5,0.484375,11,5,3,27,Jake Brenk,Brandon Blandina,Travis Gawryletz,Matt MacPherson,1,0,1,NaN,9,12,11,NaN,home
+413,28,SJS,2023020914,2024-02-24,SAP Center at San Jose,2,25,6,0.0,0/2,0/2,0.465517,17,8,9,18,Furman South,Tom Chmielewski,Tommy Hughes,Ben O'Quinn,0,0,2,NaN,8,5,12,NaN,home
+414,26,LAK,2023020915,2024-02-24,Crypto.com Arena,3,50,6,0.5,2/4,2/4,0.678571,15,3,9,19,Wes McCauley,Beau Halkidis,Ryan Gibbons,Mark Shewchyk,1,1,0,0,19,16,13,2,home
+415,1,NJD,2023020916,2024-02-25,Prudential Center,1,19,6,0.25,1/4,1/4,0.571429,8,9,11,9,Jon McIsaac,Francis Charron,James Tobias,Brad Kovachik,0,1,0,NaN,6,10,3,NaN,home
+416,5,PIT,2023020917,2024-02-25,PPG Paints Arena,7,32,10,0.5,2/4,2/4,0.47619,18,9,8,23,Garrett Rank,Kelly Sutherland,Shandor Alphonso,Bryan Pancich,2,2,3,NaN,11,10,11,NaN,home
+417,7,BUF,2023020918,2024-02-25,KeyBank Center,3,32,4,0.5,1/2,1/2,0.37037,23,5,4,23,Kyle Rehman,Jordan Samuels-Thomas,Jonathan Deschamps,David Brisebois,0,1,1,0,8,12,11,1,home
+418,29,CBJ,2023020919,2024-02-25,Nationwide Arena,4,41,9,0.333333,1/3,1/3,0.441176,26,5,5,10,Chris Schlenker,Chris Lee,Ryan Daisy,Tyson Baker,1,3,0,NaN,16,14,11,NaN,home
+419,16,CHI,2023020920,2024-02-25,United Center,2,36,0,1.0,1/1,1/1,0.428571,22,13,13,20,Chris Rooney,Thomas John Luxmore,CJ Murray,Jesse Marquis,0,2,0,0,14,11,8,3,home
+420,52,WPG,2023020921,2024-02-25,Canada Life Centre,4,32,9,0.666667,2/3,2/3,0.537037,14,3,8,28,Ghislain Hebert,Cody Beach,Bevan Mills,Devin Berg,3,0,0,1,14,11,6,1,home
+421,24,ANA,2023020922,2024-02-25,Honda Center,2,31,13,0.0,0/3,0/3,0.462963,22,5,6,33,Trevor Hanson,Steve Kozari,Tommy Hughes,Ben O'Quinn,0,1,1,NaN,8,12,11,NaN,home
+422,15,WSH,2023020923,2024-02-26,Capital One Arena,6,20,2,0.666667,2/3,2/3,0.490566,28,7,4,27,Jon McIsaac,Mitch Dunning,Andrew Smith,James Tobias,4,2,0,NaN,10,6,4,NaN,home
+423,25,DAL,2023020924,2024-02-26,American Airlines Center,2,32,6,1.0,1/1,1/1,0.517241,19,5,11,28,Brian Pochmara,Brandon Schrader,Ryan Galloway,Joe Mahon,0,2,0,0,13,9,9,1,home
+424,22,EDM,2023020925,2024-02-26,Rogers Place,4,31,4,0.333333,1/3,1/3,0.517241,10,10,14,34,Graham Skilliter,Kendrick Nicholson,Steve Barton,Derek Nansen,1,1,2,NaN,8,11,12,NaN,home
+425,55,SEA,2023020926,2024-02-26,Climate Pledge Arena,4,27,2,0.2,1/5,1/5,0.396552,16,18,6,19,Frederick L'Ecuyer,Brandon Blandina,Ryan Gibbons,Ben O'Quinn,0,1,2,0,7,5,14,1,home
+426,17,DET,2023020927,2024-02-27,Little Caesars Arena,8,31,4,0.333333,1/3,1/3,0.645833,23,10,11,12,Kyle Rehman,Jordan Samuels-Thomas,Shandor Alphonso,Tyson Baker,2,3,3,NaN,12,11,8,NaN,home
+427,13,FLA,2023020928,2024-02-27,Amerant Bank Arena,3,37,12,0.4,2/5,2/5,0.605634,11,5,10,41,Thomas John Luxmore,Michael Markovic,Brandon Gawryletz,Kilian McNamara,2,0,1,NaN,11,18,8,NaN,home
+428,8,MTL,2023020929,2024-02-27,Centre Bell,4,21,6,0.0,0/0,0/0,0.574468,24,5,19,22,Eric Furlatt,Pierre Lambert,Jonathan Deschamps,Dan Kelly,1,1,2,NaN,5,9,7,NaN,home
+429,4,PHI,2023020930,2024-02-27,Wells Fargo Center,6,31,4,0.0,0/3,0/3,0.462687,24,6,7,29,Francis Charron,Mitch Dunning,Trent Knorr,Bryan Pancich,1,0,5,NaN,8,8,15,NaN,home
+430,10,TOR,2023020931,2024-02-27,Scotiabank Arena,2,30,8,0.0,0/1,0/1,0.535714,17,10,13,32,Garrett Rank,Peter MacDougall,Brad Kovachik,Mark Shewchyk,0,1,1,NaN,9,11,10,NaN,home
+431,30,MIN,2023020932,2024-02-27,Xcel Energy Center,2,30,6,0.0,0/3,0/3,0.355932,21,4,5,15,Corey Syvret,Chris Lee,Libor Suchanek,Ryan Daisy,2,0,0,NaN,7,12,11,NaN,home
+432,18,NSH,2023020933,2024-02-27,Bridgestone Arena,4,36,9,0.333333,1/3,1/3,0.5625,15,18,10,18,Chris Rooney,Brandon Schrader,Ryan Galloway,Jonny Murray,2,1,1,NaN,8,9,19,NaN,home
+433,52,WPG,2023020934,2024-02-27,Canada Life Centre,4,32,13,0.0,0/2,0/2,0.366667,17,7,7,25,Jean Hebert,Ghislain Hebert,Scott Cherrey,Michel Cormier,3,0,1,NaN,13,12,7,NaN,home
+434,20,CGY,2023020935,2024-02-27,Scotiabank Saddledome,4,37,6,0.0,0/3,0/3,0.509434,14,14,14,30,Trevor Hanson,Carter Sandlak,Derek Nansen,Caleb Apperson,0,2,2,NaN,10,13,14,NaN,home
+435,21,COL,2023020936,2024-02-27,Ball Arena,5,27,4,0.5,1/2,1/2,0.490196,12,6,6,29,Chris Schlenker,Tom Chmielewski,Travis Gawryletz,Jesse Marquis,2,3,0,NaN,15,6,6,NaN,home
+436,23,VAN,2023020937,2024-02-27,Rogers Arena,3,35,10,0.25,1/4,1/4,0.5,10,9,7,24,Kendrick Nicholson,Cody Beach,Bevan Mills,Tommy Hughes,2,1,0,0,14,12,8,1,home
+437,28,SJS,2023020938,2024-02-27,SAP Center at San Jose,2,31,4,0.0,0/1,0/1,0.45283,14,9,8,17,Frederick L'Ecuyer,Brandon Blandina,Ryan Gibbons,Kiel Murchison,1,0,1,NaN,12,13,6,NaN,home
+438,3,NYR,2023020939,2024-02-28,Madison Square Garden,4,30,9,0.333333,1/3,1/3,0.545455,22,13,8,26,Francis Charron,Furman South,Trent Knorr,Bryan Pancich,0,2,2,NaN,17,9,4,NaN,home
+439,22,EDM,2023020940,2024-02-28,Rogers Place,3,36,6,0.5,1/2,1/2,0.525424,8,13,12,35,Trevor Hanson,Carter Sandlak,Tommy Hughes,Caleb Apperson,1,1,0,1,11,11,11,3,home
+440,6,BOS,2023020941,2024-02-29,TD Garden,5,32,4,0.5,1/2,1/2,0.454545,14,3,10,34,Chris Rooney,Jake Brenk,Brad Kovachik,Bryan Pancich,3,1,1,NaN,16,7,9,NaN,home
+441,29,CBJ,2023020942,2024-02-29,Nationwide Arena,2,22,4,0.5,1/2,1/2,0.392857,22,2,2,12,Pierre Lambert,Brandon Blandina,James Tobias,Ryan Galloway,0,1,1,NaN,4,10,8,NaN,home
+442,17,DET,2023020943,2024-02-29,Little Caesars Arena,3,25,6,0.0,0/2,0/2,0.444444,11,10,11,15,Kyle Rehman,Corey Syvret,Devin Berg,David Brisebois,0,1,2,NaN,6,9,10,NaN,home
+443,13,FLA,2023020944,2024-02-29,Amerant Bank Arena,4,35,10,0.2,1/5,1/5,0.5625,10,6,8,29,Tom Chmielewski,Michael Markovic,Brandon Gawryletz,Kilian McNamara,1,1,1,0,11,14,8,2,home
+444,14,TBL,2023020945,2024-02-29,Amalie Arena,2,23,6,0.333333,1/3,1/3,0.574468,20,5,4,28,Francois St-Laurent,Thomas John Luxmore,Julien Fournier,Matt MacPherson,1,1,0,0,8,8,7,0,home
+445,10,TOR,2023020946,2024-02-29,Scotiabank Arena,4,26,5,0.0,0/1,0/1,0.5,23,9,18,30,Kendrick Nicholson,Morgan MacPhee,Steve Barton,Dan Kelly,1,2,1,NaN,8,14,4,NaN,home
+446,25,DAL,2023020947,2024-02-29,American Airlines Center,4,36,2,0.0,0/2,0/2,0.587302,9,5,3,29,Dan O'Rourke,Brandon Schrader,Jesse Marquis,Jonny Murray,3,0,1,NaN,10,10,16,NaN,home
+447,18,NSH,2023020948,2024-02-29,Bridgestone Arena,6,31,15,0.5,1/2,1/2,0.473684,10,9,10,20,Kelly Sutherland,Furman South,Andrew Smith,Travis Gawryletz,2,1,3,NaN,13,6,12,NaN,home
+448,16,CHI,2023020949,2024-02-29,United Center,0,24,7,0.0,0/1,0/1,0.574468,17,5,12,18,Eric Furlatt,Chris Lee,Libor Suchanek,CJ Murray,0,0,0,NaN,13,5,6,NaN,home
+449,55,SEA,2023020950,2024-02-29,Climate Pledge Arena,2,28,6,0.25,1/4,1/4,0.509434,22,8,8,14,Chris Schlenker,Graham Skilliter,Bevan Mills,Tyson Baker,1,0,1,NaN,8,8,12,NaN,home
+450,23,VAN,2023020951,2024-02-29,Rogers Arena,1,24,6,0.333333,1/3,1/3,0.471698,6,3,8,33,Jean Hebert,Carter Sandlak,Scott Cherrey,Michel Cormier,0,0,1,NaN,3,11,10,NaN,home
+451,28,SJS,2023020952,2024-02-29,SAP Center at San Jose,4,28,12,0.5,3/6,3/6,0.535211,17,10,8,8,Frederick L'Ecuyer,Steve Kozari,Ryan Gibbons,Kiel Murchison,1,2,1,NaN,11,9,8,NaN,home
+452,9,OTT,2023020953,2024-03-01,Canadian Tire Centre,3,37,12,0.333333,1/3,1/3,0.523077,14,10,12,33,Mitch Dunning,Ghislain Hebert,Steve Barton,Derek Nansen,1,2,0,NaN,11,19,7,NaN,home
+453,15,WSH,2023020954,2024-03-01,Capital One Arena,5,21,10,0.333333,1/3,1/3,0.47541,19,13,13,27,Jon McIsaac,Pierre Lambert,Trent Knorr,Mark Shewchyk,0,3,2,NaN,5,9,7,NaN,home
+454,24,ANA,2023020955,2024-03-01,Honda Center,4,23,13,0.0,0/2,0/2,0.464789,21,6,6,28,Frederick L'Ecuyer,Graham Skilliter,Caleb Apperson,Kiel Murchison,2,2,0,NaN,7,7,9,NaN,home
+455,12,CAR,2023020956,2024-03-02,PNC Arena,3,35,10,0.25,1/4,1/4,0.590909,11,15,12,8,Tom Chmielewski,Jake Brenk,Brandon Gawryletz,Travis Gawryletz,0,3,0,NaN,12,13,10,NaN,home
+456,2,NYI,2023020957,2024-03-02,UBS Arena,5,26,6,0.333333,1/3,1/3,0.615385,12,6,8,12,Francois St-Laurent,Pierre Lambert,Mark Shewchyk,Dan Kelly,3,2,0,NaN,15,10,1,NaN,home
+457,55,SEA,2023020958,2024-03-02,Climate Pledge Arena,1,25,4,0.333333,1/3,1/3,0.56,13,14,6,20,Jean Hebert,Carter Sandlak,Tyson Baker,David Brisebois,0,0,1,NaN,9,7,9,NaN,home
+458,18,NSH,2023020959,2024-03-02,Bridgestone Arena,5,35,4,0.666667,2/3,2/3,0.531915,13,9,8,20,Jon McIsaac,Brandon Schrader,CJ Murray,Kilian McNamara,1,1,3,NaN,10,9,16,NaN,home
+459,7,BUF,2023020960,2024-03-02,KeyBank Center,7,35,9,1.0,1/1,1/1,0.459016,10,3,5,29,Chris Lee,Brandon Blandina,Ryan Daisy,Devin Berg,1,2,4,NaN,9,13,13,NaN,home
+460,17,DET,2023020961,2024-03-02,Little Caesars Arena,0,21,40,0.0,0/5,0/5,0.480769,22,2,6,25,Garrett Rank,Kendrick Nicholson,Ryan Galloway,Ben O'Quinn,0,0,0,NaN,5,10,6,NaN,home
+461,4,PHI,2023020962,2024-03-02,Wells Fargo Center,4,40,12,0.0,0/4,0/4,0.425926,28,3,4,27,Brian Pochmara,Peter MacDougall,Tommy Hughes,Brad Kovachik,1,2,1,NaN,19,17,4,NaN,home
+462,14,TBL,2023020963,2024-03-02,Amalie Arena,4,29,9,0.0,0/2,0/2,0.508772,16,12,7,25,Dan O'Rourke,Michael Markovic,Julien Fournier,Matt MacPherson,0,2,1,0,4,13,11,1,home
+463,10,TOR,2023020964,2024-03-02,Scotiabank Arena,4,34,11,0.0,0/3,0/3,0.581081,11,10,9,35,Mitch Dunning,Ghislain Hebert,Shandor Alphonso,James Tobias,0,2,1,0,12,10,12,0,home
+464,16,CHI,2023020965,2024-03-02,United Center,2,28,4,0.0,0/3,0/3,0.530612,21,5,4,21,Kelly Sutherland,Corey Syvret,Andrew Smith,Jonathan Deschamps,1,0,1,NaN,9,6,13,NaN,home
+465,25,DAL,2023020966,2024-03-02,American Airlines Center,3,38,6,0.25,1/4,1/4,0.671875,17,9,10,21,Wes McCauley,Furman South,Jesse Marquis,Jonny Murray,0,1,1,0,12,17,7,2,home
+466,19,STL,2023020967,2024-03-02,Enterprise Center,3,27,4,0.142857,1/7,1/7,0.428571,22,11,7,21,Kyle Rehman,Eric Furlatt,Libor Suchanek,Bryan Pancich,1,1,1,NaN,7,9,11,NaN,home
+467,20,CGY,2023020968,2024-03-02,Scotiabank Saddledome,4,20,10,0.2,1/5,1/5,0.385965,12,11,14,35,Francis Charron,Steve Kozari,Scott Cherrey,Michel Cormier,0,1,3,NaN,3,7,10,NaN,home
+468,15,WSH,2023020969,2024-03-03,Capital One Arena,2,26,22,0.285714,2/7,2/7,0.457627,24,8,10,23,Tom Chmielewski,Jake Brenk,Travis Gawryletz,Derek Nansen,0,1,1,NaN,7,10,9,NaN,home
+469,26,LAK,2023020970,2024-03-03,Crypto.com Arena,5,23,4,0.333333,1/3,1/3,0.52381,20,5,5,15,Trevor Hanson,Graham Skilliter,Ryan Gibbons,Caleb Apperson,2,2,1,NaN,7,9,7,NaN,home
+470,7,BUF,2023020971,2024-03-03,KeyBank Center,2,19,4,0.5,1/2,1/2,0.491803,22,2,5,22,Mitch Dunning,Chris Lee,James Tobias,Ryan Daisy,1,1,0,NaN,6,6,7,NaN,home
+471,30,MIN,2023020972,2024-03-03,Xcel Energy Center,4,32,4,0.25,1/4,1/4,0.557692,12,7,7,17,Garrett Rank,Kelly Sutherland,Andrew Smith,Jonathan Deschamps,0,2,2,NaN,11,14,7,NaN,home
+472,24,ANA,2023020973,2024-03-03,Honda Center,1,18,4,0.0,0/1,0/1,0.372093,20,7,8,27,Chris Rooney,Jean Hebert,Tyson Baker,David Brisebois,1,0,0,NaN,3,8,7,NaN,home
+473,22,EDM,2023020974,2024-03-03,Rogers Place,6,37,4,0.0,0/3,0/3,0.574074,10,13,13,29,Francis Charron,Steve Kozari,Scott Cherrey,Michel Cormier,1,4,1,NaN,11,11,15,NaN,home
+474,29,CBJ,2023020975,2024-03-04,Nationwide Arena,6,33,2,0.0,0/2,0/2,0.451613,16,8,2,25,Francois St-Laurent,Furman South,Ben O'Quinn,Kilian McNamara,2,1,3,NaN,11,13,9,NaN,home
+475,3,NYR,2023020976,2024-03-04,Madison Square Garden,2,28,6,0.5,2/4,2/4,0.457627,16,5,6,30,Wes McCauley,Peter MacDougall,Derek Nansen,Mark Shewchyk,1,1,0,NaN,10,12,6,NaN,home
+476,4,PHI,2023020977,2024-03-04,Wells Fargo Center,1,42,6,0.0,0/2,0/2,0.509091,29,9,7,14,Brian Pochmara,Pierre Lambert,Brandon Gawryletz,Matt MacPherson,1,0,0,0,12,10,14,6,home
+477,10,TOR,2023020978,2024-03-04,Scotiabank Arena,1,33,4,0.0,0/4,0/4,0.530612,13,15,7,46,Jon McIsaac,Eric Furlatt,Ryan Daisy,Devin Berg,0,0,1,NaN,10,13,10,NaN,home
+478,21,COL,2023020979,2024-03-04,Ball Arena,5,37,8,0.5,1/2,1/2,0.522388,16,6,5,20,Graham Skilliter,Carter Sandlak,Bevan Mills,Libor Suchanek,2,2,1,NaN,12,14,11,NaN,home
+479,20,CGY,2023020980,2024-03-04,Scotiabank Saddledome,2,37,32,0.25,1/4,1/4,0.527778,21,14,7,20,Chris Schlenker,Steve Kozari,Scott Cherrey,Michel Cormier,0,1,1,NaN,2,18,17,NaN,home
+480,6,BOS,2023020981,2024-03-05,TD Garden,1,25,4,0.0,0/2,0/2,0.425532,27,6,12,27,Kelly Sutherland,Brandon Blandina,Brandon Gawryletz,Matt MacPherson,0,0,1,0,9,11,5,0,home
+481,1,NJD,2023020982,2024-03-05,Prudential Center,3,24,4,0.333333,1/3,1/3,0.521739,13,6,5,21,Tom Chmielewski,Pierre Lambert,Julien Fournier,Dan Kelly,1,1,1,NaN,3,14,7,NaN,home
+482,5,PIT,2023020983,2024-03-05,PPG Paints Arena,5,31,2,0.666667,2/3,2/3,0.567164,20,14,9,18,Mitch Dunning,Ghislain Hebert,Steve Barton,Ben O'Quinn,2,1,2,NaN,12,6,13,NaN,home
+483,2,NYI,2023020984,2024-03-05,UBS Arena,4,33,2,0.0,0/0,0/0,0.682927,13,8,15,20,Wes McCauley,Peter MacDougall,Tommy Hughes,Derek Nansen,0,2,2,NaN,10,17,6,NaN,home
+484,18,NSH,2023020985,2024-03-05,Bridgestone Arena,3,28,9,0.0,0/2,0/2,0.538462,18,11,3,16,Trevor Hanson,Brian Pochmara,Ryan Gibbons,James Tobias,1,1,1,0,14,7,7,0,home
+485,52,WPG,2023020986,2024-03-05,Canada Life Centre,3,33,2,0.0,0/2,0/2,0.553191,12,7,13,21,Francis Charron,Garrett Rank,Andrew Smith,Jonathan Deschamps,0,2,1,NaN,14,10,9,NaN,home
+486,53,ARI,2023020987,2024-03-05,Mullett Arena,2,39,10,0.0,0/2,0/2,0.491803,18,5,11,30,Graham Skilliter,Brandon Schrader,Shandor Alphonso,Caleb Apperson,0,2,0,NaN,17,14,8,NaN,home
+487,26,LAK,2023020988,2024-03-05,Crypto.com Arena,1,24,4,0.0,0/1,0/1,0.355932,19,4,6,27,Chris Rooney,Dan O'Rourke,Bevan Mills,David Brisebois,1,0,0,0,9,9,6,0,home
+488,28,SJS,2023020989,2024-03-05,SAP Center at San Jose,6,20,6,0.5,2/4,2/4,0.486486,18,8,5,23,Jean Hebert,Thomas John Luxmore,Kyle Flemington,Tyson Baker,2,3,1,0,6,9,5,0,home
+489,10,TOR,2023020990,2024-03-06,Scotiabank Arena,2,27,4,0.0,0/1,0/1,0.607843,17,10,15,38,Jon McIsaac,Michael Markovic,Scott Cherrey,Mark Shewchyk,0,1,0,1,6,9,10,2,home
+490,21,COL,2023020991,2024-03-06,Ball Arena,7,54,10,0.333333,2/6,2/6,0.528571,11,4,5,11,Dan O'Rourke,Steve Kozari,Ryan Galloway,David Brisebois,2,3,2,NaN,16,24,14,NaN,home
+491,24,ANA,2023020992,2024-03-06,Honda Center,2,16,8,0.0,0/3,0/3,0.4,19,4,9,36,Chris Schlenker,Chris Rooney,Shandor Alphonso,Kyle Flemington,0,1,1,NaN,3,8,5,NaN,home
+492,6,BOS,2023020993,2024-03-07,TD Garden,4,25,24,0.4,2/5,2/5,0.396552,15,7,9,45,Francis Charron,Jake Brenk,Derek Nansen,Brad Kovachik,1,3,0,NaN,9,12,4,NaN,home
+493,12,CAR,2023020994,2024-03-07,PNC Arena,4,39,12,0.0,0/4,0/4,0.6,10,12,10,13,Francois St-Laurent,Frederick L'Ecuyer,Ryan Jackson,Jonny Murray,1,1,2,NaN,8,13,18,NaN,home
+494,29,CBJ,2023020995,2024-03-07,Nationwide Arena,4,34,13,0.0,0/1,0/1,0.45283,11,9,1,22,Tom Chmielewski,Mitch Dunning,Ryan Gibbons,Tommy Hughes,3,0,1,NaN,10,13,11,NaN,home
+495,13,FLA,2023020996,2024-03-07,Amerant Bank Arena,1,30,4,0.0,0/1,0/1,0.54717,18,4,14,39,Ghislain Hebert,Brandon Schrader,James Tobias,Dan Kelly,0,1,0,NaN,13,10,7,NaN,home
+496,1,NJD,2023020997,2024-03-07,Prudential Center,4,33,6,0.5,1/2,1/2,0.47541,17,15,7,12,Kendrick Nicholson,Brandon Blandina,Ryan Daisy,Joe Mahon,2,1,1,NaN,16,10,7,NaN,home
+497,5,PIT,2023020998,2024-03-07,PPG Paints Arena,0,39,15,0.0,0/4,0/4,0.483871,13,8,13,23,Trevor Hanson,Peter MacDougall,Julien Fournier,Steve Barton,0,0,0,NaN,14,15,10,NaN,home
+498,14,TBL,2023020999,2024-03-07,Amalie Arena,3,22,10,0.0,0/3,0/3,0.698113,9,4,11,32,Wes McCauley,Jordan Samuels-Thomas,Jesse Marquis,Devin Berg,1,1,1,NaN,6,6,10,NaN,home
+499,18,NSH,2023021000,2024-03-07,Bridgestone Arena,4,24,6,0.666667,2/3,2/3,0.542373,15,14,24,17,Brian Pochmara,Justin Kea,CJ Murray,Ben O'Quinn,2,0,2,NaN,9,8,7,NaN,home
+0,22,EDM,2023020501,2023-12-21,Prudential Center,6,38,0,0.0,0/2,0/2,0.472727,15,12,4,17,Francois St-Laurent,Pierre Lambert,Shandor Alphonso,Jonathan Deschamps,2,0,4,NaN,9,18,11,NaN,away
+1,18,NSH,2023020502,2023-12-21,Wells Fargo Center,4,31,21,0.0,0/5,0/5,0.518519,10,4,5,24,Brian Pochmara,Cody Beach,Mark Shewchyk,Jonny Murray,0,2,2,NaN,9,9,13,NaN,away
+2,12,CAR,2023020503,2023-12-21,PPG Paints Arena,1,24,10,0.0,0/2,0/2,0.508197,19,14,5,16,Francis Charron,Peter MacDougall,Caleb Apperson,Kilian McNamara,0,1,0,0,4,14,6,0,away
+3,54,VGK,2023020504,2023-12-21,Amalie Arena,4,34,18,0.25,1/4,1/4,0.482143,23,4,12,24,Wes McCauley,Jean Hebert,CJ Murray,Ryan Jackson,2,0,2,NaN,9,12,13,NaN,away
+4,23,VAN,2023020505,2023-12-21,American Airlines Center,3,20,6,0.0,0/3,0/3,0.5,10,10,9,21,Mitch Dunning,Kendrick Nicholson,Andrew Smith,Ben O'Quinn,1,1,1,0,6,5,8,1,away
+5,8,MTL,2023020506,2023-12-21,Xcel Energy Center,3,25,19,0.2,1/5,1/5,0.509091,14,2,6,17,Chris Schlenker,Furman South,Bevan Mills,Mitch Hunt,0,1,2,0,3,12,8,2,away
+6,9,OTT,2023020507,2023-12-21,Ball Arena,4,45,10,0.166667,1/6,1/6,0.4375,7,8,1,17,Kyle Rehman,Jordan Samuels-Thomas,Trent Knorr,Kiel Murchison,2,2,0,NaN,9,21,15,NaN,away
+7,20,CGY,2023020508,2023-12-21,Honda Center,3,44,13,0.142857,1/7,1/7,0.5,20,4,4,14,Corey Syvret,Brandon Schrader,Travis Gawryletz,Travis Toomey,1,1,1,NaN,12,25,7,NaN,away
+8,53,ARI,2023020509,2023-12-21,SAP Center at San Jose,5,30,2,0.333333,1/3,1/3,0.510204,18,5,10,13,Trevor Hanson,Graham Skilliter,Ryan Gibbons,Brandon Gawryletz,0,3,2,NaN,7,8,15,NaN,away
+9,4,PHI,2023020510,2023-12-22,Little Caesars Arena,6,43,47,0.0,0/2,0/2,0.492537,18,0,4,18,Garrett Rank,Ghislain Hebert,Tommy Hughes,Caleb Apperson,1,2,3,0,11,14,14,4,away
+10,22,EDM,2023020511,2023-12-22,Madison Square Garden,4,28,6,0.0,0/2,0/2,0.589286,24,2,3,14,Jake Brenk,Beau Halkidis,Kyle Flemington,Mark Shewchyk,0,0,4,NaN,7,11,10,NaN,away
+11,6,BOS,2023020512,2023-12-22,Canada Life Centre,1,25,6,0.0,0/2,0/2,0.426471,17,2,7,27,Tom Chmielewski,Chris Lee,Derek Nansen,Ryan Galloway,0,0,1,NaN,6,7,12,NaN,away
+12,8,MTL,2023020513,2023-12-22,United Center,5,28,7,0.0,0/3,0/3,0.568627,17,5,2,12,Mitch Dunning,Kevin Pollock,Brandon Grillo,Jesse Marquis,0,3,2,NaN,7,11,10,NaN,away
+13,54,VGK,2023020514,2023-12-23,Amerant Bank Arena,2,25,39,0.0,0/2,0/2,0.476923,21,4,6,25,Brian Pochmara,Thomas John Luxmore,CJ Murray,Jonny Murray,0,2,0,NaN,3,13,9,NaN,away
+14,25,DAL,2023020515,2023-12-23,Bridgestone Arena,3,34,4,0.0,0/2,0/2,0.578947,12,2,10,23,Francis Charron,Morgan MacPhee,Andrew Smith,Matt MacPherson,0,0,3,NaN,8,16,10,NaN,away
+15,2,NYI,2023020516,2023-12-23,PNC Arena,5,28,10,0.0,0/3,0/3,0.514706,24,8,1,14,Jean Hebert,Frederick L'Ecuyer,Julien Fournier,Kilian McNamara,3,1,1,NaN,12,6,10,NaN,away
+16,10,TOR,2023020517,2023-12-23,Nationwide Arena,4,30,12,0.5,1/2,1/2,0.54717,19,5,2,9,Peter MacDougall,Brandon Blandina,James Tobias,Tyson Baker,1,2,1,NaN,14,5,11,NaN,away
+17,6,BOS,2023020518,2023-12-23,Xcel Energy Center,2,21,15,0.5,1/2,1/2,0.446429,12,4,5,21,Garrett Rank,Furman South,Justin Johnson,Jesse Marquis,1,0,1,NaN,6,6,9,NaN,away
+18,17,DET,2023020519,2023-12-23,Prudential Center,2,24,10,0.0,0/3,0/3,0.490196,13,5,3,13,Kelly Sutherland,Cody Beach,Jonathan Deschamps,Dan Kelly,1,1,0,NaN,6,9,9,NaN,away
+19,5,PIT,2023020520,2023-12-23,Canadian Tire Centre,4,34,8,0.142857,1/7,1/7,0.590164,11,3,10,16,Eric Furlatt,Michael Markovic,Michel Cormier,Ryan Daisy,1,1,2,0,7,4,23,0,away
+20,14,TBL,2023020521,2023-12-23,Capital One Arena,2,20,2,0.0,0/2,0/2,0.630435,21,12,6,19,Jon McIsaac,Ghislain Hebert,Mark Shewchyk,David Brisebois,1,0,0,0,11,5,2,2,away
+21,7,BUF,2023020522,2023-12-23,Madison Square Garden,3,30,33,0.0,0/1,0/1,0.466667,26,7,5,18,Jake Brenk,Carter Sandlak,Kyle Flemington,Libor Suchanek,1,1,1,0,9,11,7,3,away
+22,55,SEA,2023020523,2023-12-23,Honda Center,3,22,6,1.0,1/1,1/1,0.375,12,11,18,18,Kyle Rehman,Jordan Samuels-Thomas,Ryan Gibbons,Brandon Gawryletz,2,0,1,NaN,10,3,9,NaN,away
+23,16,CHI,2023020524,2023-12-23,Enterprise Center,5,20,8,0.5,1/2,1/2,0.396552,13,12,7,36,Mitch Dunning,Pierre Lambert,Mitch Hunt,Devin Berg,2,2,1,NaN,8,10,2,NaN,away
+24,53,ARI,2023020525,2023-12-23,Ball Arena,1,25,9,0.333333,1/3,1/3,0.431818,9,11,3,23,Chris Schlenker,Corey Syvret,Bevan Mills,Kiel Murchison,0,0,1,NaN,12,5,8,NaN,away
+25,20,CGY,2023020526,2023-12-23,Crypto.com Arena,3,32,8,0.166667,1/6,1/6,0.492537,26,5,6,14,Trevor Hanson,Brandon Schrader,Travis Gawryletz,Joe Mahon,1,1,1,NaN,7,12,13,NaN,away
+26,28,SJS,2023020527,2023-12-23,Rogers Arena,4,25,8,0.0,0/3,0/3,0.46875,22,1,5,19,Graham Skilliter,Steve Kozari,Trent Knorr,Travis Toomey,2,1,1,NaN,5,9,11,NaN,away
+27,29,CBJ,2023020528,2023-12-27,Prudential Center,3,29,6,0.0,0/3,0/3,0.482759,23,7,3,25,Brian Pochmara,Corey Syvret,Libor Suchanek,Kilian McNamara,1,1,1,0,9,8,11,1,away
+28,15,WSH,2023020529,2023-12-27,Madison Square Garden,1,27,6,0.0,0/2,0/2,0.5,6,4,4,17,Furman South,Frederick L'Ecuyer,Steve Barton,Ryan Daisy,0,1,0,NaN,10,10,7,NaN,away
+29,13,FLA,2023020530,2023-12-27,Amalie Arena,3,31,12,0.0,0/3,0/3,0.538462,11,4,3,36,Jon McIsaac,Kevin Pollock,Tyson Baker,Dan Kelly,1,1,1,NaN,10,9,12,NaN,away
+30,9,OTT,2023020531,2023-12-27,Scotiabank Arena,4,30,11,0.0,0/1,0/1,0.483871,24,10,14,31,Thomas John Luxmore,Carter Sandlak,Ryan Jackson,David Brisebois,0,2,2,NaN,6,14,10,NaN,away
+31,6,BOS,2023020532,2023-12-27,KeyBank Center,4,25,12,0.75,3/4,3/4,0.546875,20,5,5,13,Garrett Rank,Mitch Dunning,James Tobias,Mark Shewchyk,2,2,0,NaN,7,13,5,NaN,away
+32,5,PIT,2023020533,2023-12-27,UBS Arena,7,32,4,0.0,0/3,0/3,0.548387,13,2,10,16,Francis Charron,Beau Halkidis,Derek Nansen,Jonny Murray,0,6,1,NaN,5,20,7,NaN,away
+33,17,DET,2023020534,2023-12-27,Xcel Energy Center,3,28,4,0.5,1/2,1/2,0.557692,8,3,1,19,Chris Rooney,Tom Chmielewski,Brandon Grillo,Ryan Galloway,1,0,2,NaN,9,9,10,NaN,away
+34,12,CAR,2023020535,2023-12-27,Bridgestone Arena,5,25,8,0.5,3/6,3/6,0.627119,10,2,9,23,Wes McCauley,Brandon Blandina,Kyle Flemington,Jesse Marquis,2,3,0,NaN,9,10,6,NaN,away
+35,25,DAL,2023020536,2023-12-27,Enterprise Center,1,40,8,0.0,0/2,0/2,0.451613,13,18,10,12,Francois St-Laurent,Justin Kea,Scott Cherrey,Michel Cormier,0,1,0,NaN,14,11,15,NaN,away
+36,21,COL,2023020537,2023-12-27,Mullett Arena,4,24,4,0.666667,2/3,2/3,0.576923,15,6,4,36,Kyle Rehman,Brandon Schrader,Justin Johnson,Travis Gawryletz,1,3,0,0,6,12,4,2,away
+37,52,WPG,2023020538,2023-12-27,United Center,1,38,4,0.0,0/4,0/4,0.464286,12,14,3,25,Eric Furlatt,Morgan MacPhee,Brandon Gawryletz,Tommy Hughes,0,1,0,0,13,14,9,2,away
+38,55,SEA,2023020539,2023-12-27,Scotiabank Saddledome,2,21,8,0.0,0/2,0/2,0.333333,20,4,13,20,Chris Lee,Cody Beach,Trent Knorr,Caleb Apperson,1,0,1,NaN,8,5,8,NaN,away
+39,54,VGK,2023020540,2023-12-27,Honda Center,2,32,2,0.2,1/5,1/5,0.541667,9,4,9,19,Graham Skilliter,Jake Brenk,Shandor Alphonso,Ben O'Quinn,0,2,0,NaN,10,13,9,NaN,away
+40,28,SJS,2023020541,2023-12-27,Crypto.com Arena,1,25,11,0.0,0/3,0/3,0.407407,16,4,6,26,Dan O'Rourke,Trevor Hanson,Bevan Mills,Mitch Hunt,1,0,0,NaN,8,11,6,NaN,away
+41,8,MTL,2023020542,2023-12-28,PNC Arena,3,21,6,0.25,1/4,1/4,0.550725,26,6,6,17,Jon McIsaac,Peter MacDougall,Brad Kovachik,Jesse Marquis,2,0,1,NaN,7,12,2,NaN,away
+42,4,PHI,2023020543,2023-12-28,Rogers Arena,4,25,8,0.333333,1/3,1/3,0.672727,18,5,2,17,Chris Lee,Pierre Lambert,Caleb Apperson,Kiel Murchison,0,3,1,NaN,13,7,5,NaN,away
+43,26,LAK,2023020544,2023-12-28,T-Mobile Arena,2,34,0,0.0,0/2,0/2,0.557377,9,9,4,26,Steve Kozari,Jordan Samuels-Thomas,Bevan Mills,Ryan Gibbons,0,1,1,NaN,7,13,14,NaN,away
+44,22,EDM,2023020545,2023-12-28,SAP Center at San Jose,5,30,6,0.0,0/1,0/1,0.44,12,7,7,11,Jake Brenk,Brandon Schrader,Shandor Alphonso,Joe Mahon,4,1,0,NaN,12,10,8,NaN,away
+45,10,TOR,2023020546,2023-12-29,Nationwide Arena,5,33,11,0.5,2/4,2/4,0.571429,17,6,2,13,Francois St-Laurent,Corey Syvret,Brandon Gawryletz,Kilian McNamara,2,3,0,0,14,12,7,0,away
+46,18,NSH,2023020547,2023-12-29,Little Caesars Arena,4,37,11,0.0,0/2,0/2,0.507937,15,3,7,22,Eric Furlatt,Carter Sandlak,Steve Barton,Tommy Hughes,1,2,1,0,14,12,9,2,away
+47,3,NYR,2023020548,2023-12-29,Amerant Bank Arena,3,34,6,0.0,0/2,0/2,0.423729,23,8,7,24,Kevin Pollock,Brandon Blandina,Tyson Baker,Dan Kelly,0,2,1,NaN,10,14,10,NaN,away
+48,1,NJD,2023020549,2023-12-29,Canadian Tire Centre,6,30,8,0.5,2/4,2/4,0.527273,14,4,11,14,Thomas John Luxmore,Ghislain Hebert,Matt MacPherson,Travis Toomey,2,2,2,NaN,9,11,10,NaN,away
+49,15,WSH,2023020550,2023-12-29,UBS Arena,1,27,6,0.0,0/2,0/2,0.413043,16,4,11,15,Furman South,Brian Pochmara,Ryan Daisy,Ryan Galloway,0,0,1,NaN,8,9,10,NaN,away
+50,16,CHI,2023020551,2023-12-29,American Airlines Center,4,29,6,0.333333,1/3,1/3,0.363636,23,9,10,31,Kyle Rehman,Tom Chmielewski,Scott Cherrey,Michel Cormier,2,0,2,0,8,7,14,0,away
+51,21,COL,2023020552,2023-12-29,Enterprise Center,2,23,8,0.0,0/2,0/2,0.477273,9,10,8,13,Chris Rooney,Mitch Dunning,Derek Nansen,Jonny Murray,1,0,1,NaN,4,7,12,NaN,away
+52,53,ARI,2023020553,2023-12-29,Honda Center,2,32,10,0.333333,1/3,1/3,0.412698,13,8,6,15,Dan O'Rourke,Steve Kozari,Ryan Gibbons,Ben O'Quinn,1,1,0,NaN,11,14,7,NaN,away
+53,4,PHI,2023020554,2023-12-29,Climate Pledge Arena,1,28,4,0.0,0/3,0/3,0.4,21,12,3,16,Chris Schlenker,Graham Skilliter,Julien Fournier,Travis Gawryletz,1,0,0,0,11,4,12,1,away
+54,30,MIN,2023020555,2023-12-30,Canada Life Centre,2,36,15,0.2,1/5,1/5,0.472727,17,2,6,20,Pierre Lambert,Cody Beach,Jonathan Deschamps,Devin Berg,0,1,1,NaN,9,14,13,NaN,away
+55,29,CBJ,2023020556,2023-12-30,KeyBank Center,2,20,2,0.0,0/1,0/1,0.425926,21,5,2,18,Wes McCauley,Francis Charron,Andrew Smith,Ryan Jackson,1,1,0,0,7,6,7,0,away
+56,1,NJD,2023020557,2023-12-30,TD Garden,2,33,4,0.5,1/2,1/2,0.72549,13,3,5,33,Brian Pochmara,Carter Sandlak,Tommy Hughes,Ryan Daisy,1,1,0,NaN,9,6,18,NaN,away
+57,8,MTL,2023020558,2023-12-30,Amerant Bank Arena,1,19,11,0.5,1/2,1/2,0.591837,17,9,6,19,Kelly Sutherland,Kendrick Nicholson,James Tobias,Brad Kovachik,0,1,0,NaN,5,3,11,NaN,away
+58,19,STL,2023020559,2023-12-30,PPG Paints Arena,2,27,6,0.333333,1/3,1/3,0.327869,18,7,5,16,Garrett Rank,Francois St-Laurent,Mark Shewchyk,Kilian McNamara,0,1,1,NaN,8,9,10,NaN,away
+59,3,NYR,2023020560,2023-12-30,Amalie Arena,5,21,10,0.5,1/2,1/2,0.464286,23,7,6,27,Peter MacDougall,Brandon Blandina,Tyson Baker,Dan Kelly,2,1,2,NaN,9,5,7,NaN,away
+60,12,CAR,2023020561,2023-12-30,Scotiabank Arena,3,28,8,0.5,2/4,2/4,0.389831,12,8,6,27,Jean Hebert,Michael Markovic,Matt MacPherson,Travis Toomey,1,1,1,NaN,9,11,8,NaN,away
+61,18,NSH,2023020562,2023-12-30,Capital One Arena,3,36,13,0.5,1/2,1/2,0.607143,17,6,9,25,Eric Furlatt,Beau Halkidis,Libor Suchanek,CJ Murray,2,0,0,0,11,13,10,2,away
+62,22,EDM,2023020563,2023-12-30,Crypto.com Arena,3,26,8,0.25,1/4,1/4,0.490909,16,5,6,22,Jake Brenk,Brandon Schrader,Shandor Alphonso,Ben O'Quinn,0,2,0,0,2,13,10,1,away
+63,52,WPG,2023020564,2023-12-31,Xcel Energy Center,3,29,7,0.333333,1/3,1/3,0.377358,28,5,3,17,Kyle Rehman,Ghislain Hebert,Steve Barton,Brandon Gawryletz,0,1,2,NaN,8,8,13,NaN,away
+64,6,BOS,2023020565,2023-12-31,Little Caesars Arena,5,24,16,0.0,0/2,0/2,0.320755,17,4,7,21,Wes McCauley,Francis Charron,Andrew Smith,Brandon Grillo,1,1,3,NaN,8,9,7,NaN,away
+65,7,BUF,2023020566,2023-12-31,Canadian Tire Centre,1,46,16,0.0,0/3,0/3,0.5,13,6,13,33,Jean Hebert,Justin Kea,Travis Toomey,David Brisebois,1,0,0,NaN,12,18,16,NaN,away
+66,2,NYI,2023020567,2023-12-31,PPG Paints Arena,1,38,25,0.0,0/2,0/2,0.390625,25,6,0,27,Garrett Rank,Corey Syvret,CJ Murray,Mark Shewchyk,0,0,1,NaN,14,12,12,NaN,away
+67,8,MTL,2023020568,2023-12-31,Amalie Arena,3,29,13,0.0,0/1,0/1,0.673077,17,8,5,30,Kelly Sutherland,Kendrick Nicholson,James Tobias,Jonny Murray,0,2,1,NaN,9,13,7,NaN,away
+68,22,EDM,2023020569,2023-12-31,Honda Center,7,39,41,0.0,0/4,0/4,0.541667,10,5,7,14,Trevor Hanson,Morgan MacPhee,Travis Gawryletz,Trent Knorr,2,3,2,NaN,10,18,11,NaN,away
+69,4,PHI,2023020570,2023-12-31,Scotiabank Saddledome,3,31,4,0.0,0/4,0/4,0.576271,15,9,5,22,Chris Schlenker,Pierre Lambert,Jonathan Deschamps,Devin Berg,1,0,2,NaN,8,11,12,NaN,away
+70,28,SJS,2023020571,2023-12-31,Ball Arena,1,11,24,0.333333,1/3,1/3,0.55,28,3,0,21,Mitch Dunning,Jake Brenk,Julien Fournier,Michel Cormier,0,1,0,NaN,3,6,2,NaN,away
+71,16,CHI,2023020572,2023-12-31,American Airlines Center,1,24,6,0.333333,1/3,1/3,0.454545,13,8,9,29,Chris Rooney,Steve Kozari,Mitch Hunt,Derek Nansen,0,0,1,NaN,6,9,9,NaN,away
+72,54,VGK,2023020573,2024-01-01,T-Mobile Park,0,35,4,0.0,0/1,0/1,0.52459,20,14,4,23,Dan O'Rourke,Graham Skilliter,Ryan Gibbons,Kiel Murchison,0,0,0,NaN,10,10,15,NaN,away
+73,6,BOS,2023020574,2024-01-02,Nationwide Arena,4,27,4,0.333333,1/3,1/3,0.403509,13,5,2,16,Kyle Rehman,Peter MacDougall,Jesse Marquis,Mark Shewchyk,0,2,2,NaN,5,13,9,NaN,away
+74,12,CAR,2023020575,2024-01-02,Madison Square Garden,6,27,6,0.5,2/4,2/4,0.508475,10,3,1,18,Kelly Sutherland,Justin Kea,Scott Cherrey,Ryan Galloway,2,1,3,NaN,9,5,13,NaN,away
+75,15,WSH,2023020576,2024-01-02,PPG Paints Arena,4,22,6,0.5,1/2,1/2,0.448276,23,7,6,17,Mitch Dunning,Kendrick Nicholson,Andrew Smith,Derek Nansen,4,0,0,NaN,11,8,3,NaN,away
+76,8,MTL,2023020577,2024-01-02,American Airlines Center,4,18,2,0.333333,1/3,1/3,0.481481,25,7,8,27,Garrett Rank,Ghislain Hebert,Kyle Flemington,Ben O'Quinn,2,1,1,NaN,6,5,7,NaN,away
+77,20,CGY,2023020578,2024-01-02,Xcel Energy Center,3,33,8,0.0,0/1,0/1,0.584906,24,3,7,20,Wes McCauley,Jean Hebert,Brandon Gawryletz,Michel Cormier,2,0,1,NaN,13,10,10,NaN,away
+78,16,CHI,2023020579,2024-01-02,Bridgestone Arena,0,21,13,0.0,0/3,0/3,0.42,25,9,10,30,Chris Rooney,Frederick L'Ecuyer,James Tobias,Brandon Grillo,0,0,0,NaN,5,8,8,NaN,away
+79,14,TBL,2023020580,2024-01-02,Canada Life Centre,2,34,6,0.666667,2/3,2/3,0.533333,11,8,13,19,Chris Schlenker,Francis Charron,Justin Johnson,Steve Barton,1,0,1,NaN,11,14,9,NaN,away
+80,13,FLA,2023020581,2024-01-02,Mullett Arena,4,38,23,0.2,1/5,1/5,0.655172,8,2,5,31,Jake Brenk,Jordan Samuels-Thomas,Travis Gawryletz,Caleb Apperson,1,0,3,NaN,14,9,15,NaN,away
+81,2,NYI,2023020582,2024-01-02,Ball Arena,4,22,10,0.333333,1/3,1/3,0.471698,31,9,4,23,Jon McIsaac,Michael Markovic,Julien Fournier,Joe Mahon,2,2,0,0,8,9,5,0,away
+82,4,PHI,2023020583,2024-01-02,Rogers Place,2,37,8,0.0,0/4,0/4,0.47619,8,2,7,28,Tom Chmielewski,Cody Beach,Devin Berg,Travis Toomey,0,2,0,NaN,11,14,12,NaN,away
+83,9,OTT,2023020584,2024-01-02,Rogers Arena,3,38,12,0.0,0/1,0/1,0.490566,20,5,6,29,Chris Lee,Pierre Lambert,Bevan Mills,Jonathan Deschamps,0,1,2,NaN,9,12,17,NaN,away
+84,10,TOR,2023020585,2024-01-02,Crypto.com Arena,3,29,11,0.0,0/4,0/4,0.47619,26,3,5,27,Steve Kozari,Morgan MacPhee,CJ Murray,Trent Knorr,0,2,1,NaN,11,11,7,NaN,away
+85,17,DET,2023020586,2024-01-02,SAP Center at San Jose,5,31,6,0.5,2/4,2/4,0.532258,29,7,4,19,Furman South,Trevor Hanson,Libor Suchanek,Mitch Hunt,1,1,3,NaN,8,14,9,NaN,away
+86,1,NJD,2023020587,2024-01-03,Capital One Arena,6,28,8,0.5,1/2,1/2,0.573529,8,10,11,17,Kelly Sutherland,Brandon Blandina,Scott Cherrey,Matt MacPherson,2,2,2,NaN,8,12,8,NaN,away
+87,10,TOR,2023020588,2024-01-03,Honda Center,2,57,24,0.2,1/5,1/5,0.591549,12,2,12,16,Jon McIsaac,Furman South,Libor Suchanek,CJ Murray,0,0,1,1,18,15,22,2,away
+88,5,PIT,2023020589,2024-01-04,TD Garden,6,35,4,0.333333,1/3,1/3,0.65,20,13,5,29,Brian Pochmara,Kevin Pollock,David Brisebois,Dan Kelly,4,1,1,NaN,16,11,8,NaN,away
+89,7,BUF,2023020590,2024-01-04,Centre Bell,6,38,10,0.5,2/4,2/4,0.460317,17,3,11,31,Graham Skilliter,Beau Halkidis,Michel Cormier,Bryan Pancich,0,2,4,NaN,13,14,11,NaN,away
+90,16,CHI,2023020591,2024-01-04,Madison Square Garden,1,23,9,0.0,0/3,0/3,0.355556,14,2,1,23,Corey Syvret,Kendrick Nicholson,Kiel Murchison,Matt MacPherson,0,1,0,NaN,9,6,8,NaN,away
+91,29,CBJ,2023020592,2024-01-04,Wells Fargo Center,3,28,8,0.0,0/5,0/5,0.442623,15,4,10,18,Eric Furlatt,Brandon Blandina,Tommy Hughes,Derek Nansen,0,0,2,0,6,8,12,2,away
+92,21,COL,2023020593,2024-01-04,American Airlines Center,5,34,6,0.333333,1/3,1/3,0.507937,22,4,7,23,Wes McCauley,Brandon Schrader,Kyle Flemington,James Tobias,1,1,2,1,12,7,12,3,away
+93,14,TBL,2023020594,2024-01-04,Xcel Energy Center,4,30,7,0.333333,1/3,1/3,0.431373,15,7,10,17,Francis Charron,Michael Markovic,Julien Fournier,Ryan Galloway,0,2,2,NaN,7,13,10,NaN,away
+94,20,CGY,2023020595,2024-01-04,Bridgestone Arena,6,39,4,0.25,1/4,1/4,0.6,19,16,11,22,Jean Hebert,Frederick L'Ecuyer,Ben O'Quinn,Kilian McNamara,4,1,1,NaN,11,14,14,NaN,away
+95,23,VAN,2023020596,2024-01-04,Enterprise Center,1,26,4,0.0,0/1,0/1,0.319149,16,13,2,19,Dan O'Rourke,Ghislain Hebert,Shandor Alphonso,Mark Shewchyk,1,0,0,NaN,9,7,10,NaN,away
+96,2,NYI,2023020597,2024-01-04,Mullett Arena,5,31,4,0.5,1/2,1/2,0.666667,15,3,8,25,Kyle Rehman,Peter MacDougall,Trent Knorr,Tyson Baker,2,0,3,NaN,11,6,14,NaN,away
+97,9,OTT,2023020598,2024-01-04,Climate Pledge Arena,1,33,4,0.0,0/4,0/4,0.55102,20,6,2,19,Tom Chmielewski,Steve Kozari,Jonathan Deschamps,Joe Mahon,0,0,1,NaN,13,13,7,NaN,away
+98,13,FLA,2023020599,2024-01-04,T-Mobile Arena,4,36,16,0.5,3/6,3/6,0.542857,12,4,7,34,Garrett Rank,Furman South,Travis Gawryletz,Ryan Daisy,1,2,1,NaN,12,14,10,NaN,away
+99,17,DET,2023020600,2024-01-04,Crypto.com Arena,4,27,4,0.0,0/2,0/2,0.482143,22,5,3,20,Thomas John Luxmore,Carter Sandlak,Libor Suchanek,CJ Murray,0,2,1,0,8,11,6,2,away
+100,52,WPG,2023020601,2024-01-04,SAP Center at San Jose,2,30,4,1.0,1/1,1/1,0.304348,16,6,8,21,Francois St-Laurent,Chris Lee,Caleb Apperson,Ryan Jackson,0,1,1,NaN,10,7,13,NaN,away
+101,16,CHI,2023020602,2024-01-05,Prudential Center,2,25,38,0.2,1/5,1/5,0.345455,23,7,8,17,Eric Furlatt,Kevin Pollock,Ryan Gibbons,Jesse Marquis,1,1,0,NaN,10,8,7,NaN,away
+102,12,CAR,2023020603,2024-01-05,Capital One Arena,6,34,6,0.666667,2/3,2/3,0.606557,10,6,5,11,Trevor Hanson,Brandon Blandina,Scott Cherrey,Kiel Murchison,0,1,5,NaN,10,8,16,NaN,away
+103,52,WPG,2023020604,2024-01-05,Honda Center,3,27,6,1.0,1/1,1/1,0.388889,20,6,10,19,Jon McIsaac,Thomas John Luxmore,Tyson Baker,Jonny Murray,0,1,2,NaN,10,10,7,NaN,away
+104,20,CGY,2023020605,2024-01-06,Wells Fargo Center,2,24,25,0.0,0/3,0/3,0.5,23,4,6,10,Francis Charron,Ghislain Hebert,Matt MacPherson,Ben O'Quinn,0,2,0,NaN,8,10,6,NaN,away
+105,13,FLA,2023020606,2024-01-06,Ball Arena,8,29,10,0.2,1/5,1/5,0.5,6,4,1,14,Dan O'Rourke,Carter Sandlak,Brandon Gawryletz,CJ Murray,3,1,4,NaN,10,7,12,NaN,away
+106,14,TBL,2023020607,2024-01-06,TD Garden,3,26,8,0.0,0/4,0/4,0.48,12,9,4,25,Chris Rooney,Brandon Schrader,Scott Cherrey,Tommy Hughes,1,2,0,NaN,13,5,8,NaN,away
+107,19,STL,2023020608,2024-01-06,PNC Arena,2,22,2,0.0,0/1,0/1,0.425926,25,4,3,10,Trevor Hanson,Corey Syvret,Julien Fournier,Kiel Murchison,1,0,0,0,5,7,7,3,away
+108,30,MIN,2023020609,2024-01-06,Nationwide Arena,4,36,10,0.5,2/4,2/4,0.522388,26,3,1,7,Frederick L'Ecuyer,Mitch Dunning,Shandor Alphonso,Mark Shewchyk,1,1,1,1,11,10,13,2,away
+109,3,NYR,2023020610,2024-01-06,Centre Bell,3,48,4,0.0,0/3,0/3,0.5,14,6,17,24,Graham Skilliter,Pierre Lambert,Bryan Pancich,David Brisebois,0,2,1,0,14,20,10,4,away
+110,23,VAN,2023020611,2024-01-06,Prudential Center,6,43,4,0.0,0/1,0/1,0.433333,13,3,2,18,Eric Furlatt,Cody Beach,Ryan Gibbons,Jesse Marquis,0,4,2,NaN,18,15,10,NaN,away
+111,7,BUF,2023020612,2024-01-06,PPG Paints Arena,3,32,10,0.0,0/3,0/3,0.465517,16,9,6,32,Furman South,Brian Pochmara,Kyle Flemington,Brandon Grillo,1,0,2,NaN,8,15,9,NaN,away
+112,10,TOR,2023020613,2024-01-06,SAP Center at San Jose,4,32,0,0.5,1/2,1/2,0.545455,11,4,6,10,Francois St-Laurent,Chris Lee,Libor Suchanek,Ryan Daisy,1,1,2,NaN,16,8,8,NaN,away
+113,18,NSH,2023020614,2024-01-06,American Airlines Center,4,22,4,0.0,0/1,0/1,0.40678,23,5,9,33,Michael Markovic,Peter MacDougall,James Tobias,Kilian McNamara,1,1,2,NaN,9,8,5,NaN,away
+114,9,OTT,2023020615,2024-01-06,Rogers Place,1,30,6,0.0,0/3,0/3,0.384615,15,10,8,31,Chris Schlenker,Tom Chmielewski,Bevan Mills,Justin Johnson,0,0,1,NaN,8,11,11,NaN,away
+115,2,NYI,2023020616,2024-01-06,T-Mobile Arena,2,29,2,0.0,0/2,0/2,0.5,17,3,3,34,Garrett Rank,Thomas John Luxmore,Caleb Apperson,Jonny Murray,1,0,1,NaN,14,6,9,NaN,away
+116,20,CGY,2023020617,2024-01-07,United Center,3,30,6,0.333333,1/3,1/3,0.568966,15,4,6,18,Jon McIsaac,Justin Kea,Ryan Galloway,Dan Kelly,1,1,1,NaN,6,14,10,NaN,away
+117,26,LAK,2023020618,2024-01-07,Capital One Arena,3,41,2,0.666667,2/3,2/3,0.491228,17,6,7,27,Ghislain Hebert,Kevin Pollock,Steve Barton,Ben O'Quinn,0,2,1,NaN,11,18,12,NaN,away
+118,52,WPG,2023020619,2024-01-07,Mullett Arena,6,36,9,0.0,0/4,0/4,0.515625,14,3,3,22,Dan O'Rourke,Carter Sandlak,Libor Suchanek,CJ Murray,1,2,3,NaN,14,12,10,NaN,away
+119,17,DET,2023020620,2024-01-07,Honda Center,3,28,8,0.2,1/5,1/5,0.54717,14,4,6,21,Francois St-Laurent,Chris Lee,Ryan Daisy,Tyson Baker,1,1,1,NaN,8,9,11,NaN,away
+120,23,VAN,2023020621,2024-01-08,Madison Square Garden,6,26,4,0.0,0/0,0/0,0.40678,13,3,1,19,Kyle Rehman,Brandon Schrader,Shandor Alphonso,Steve Barton,3,2,1,NaN,7,14,5,NaN,away
+121,5,PIT,2023020622,2024-01-08,Wells Fargo Center,4,39,8,0.166667,1/6,1/6,0.454545,16,7,6,12,Trevor Hanson,Graham Skilliter,Kiel Murchison,Jesse Marquis,2,1,1,NaN,17,14,8,NaN,away
+122,25,DAL,2023020623,2024-01-08,Xcel Energy Center,4,20,12,0.5,1/2,1/2,0.646154,16,6,5,17,Brian Pochmara,Peter MacDougall,Ryan Gibbons,Dan Kelly,1,0,3,NaN,4,8,8,NaN,away
+123,6,BOS,2023020624,2024-01-08,Ball Arena,3,26,14,0.333333,1/3,1/3,0.55,23,12,4,13,Dan O'Rourke,Thomas John Luxmore,Andrew Smith,Jonny Murray,1,1,1,0,5,9,8,4,away
+124,55,SEA,2023020625,2024-01-09,KeyBank Center,5,26,2,1.0,1/1,1/1,0.375,23,9,3,21,Kelly Sutherland,Michael Markovic,Julien Fournier,James Tobias,2,3,0,NaN,15,5,6,NaN,away
+125,26,LAK,2023020626,2024-01-09,Amalie Arena,2,22,6,0.0,0/1,0/1,0.5,24,18,6,41,Jean Hebert,Pierre Lambert,Derek Nansen,Devin Berg,0,2,0,0,6,8,8,0,away
+126,28,SJS,2023020627,2024-01-09,Scotiabank Arena,1,23,6,1.0,1/1,1/1,0.387097,22,5,3,49,Kevin Pollock,Jordan Samuels-Thomas,Ben O'Quinn,Mark Shewchyk,0,1,0,NaN,5,8,10,NaN,away
+127,23,VAN,2023020628,2024-01-09,UBS Arena,5,34,4,0.0,0/4,0/4,0.42,10,5,11,20,Kyle Rehman,Cody Beach,Michel Cormier,Ryan Jackson,2,2,1,NaN,11,17,6,NaN,away
+128,24,ANA,2023020629,2024-01-09,Bridgestone Arena,5,33,11,0.333333,1/3,1/3,0.513889,17,10,17,15,Graham Skilliter,Carter Sandlak,Kiel Murchison,Ryan Galloway,3,1,1,NaN,14,7,12,NaN,away
+129,13,FLA,2023020630,2024-01-09,Enterprise Center,5,31,12,0.333333,1/3,1/3,0.509804,10,11,4,29,Steve Kozari,Justin Kea,Libor Suchanek,Bryan Pancich,1,1,3,NaN,11,8,12,NaN,away
+130,29,CBJ,2023020631,2024-01-09,Canada Life Centre,0,29,8,0.0,0/3,0/3,0.5,21,1,14,15,Wes McCauley,Beau Halkidis,Trent Knorr,Travis Toomey,0,0,0,NaN,8,9,12,NaN,away
+131,22,EDM,2023020632,2024-01-09,United Center,2,15,6,0.0,0/1,0/1,0.641509,16,13,5,9,Furman South,Brian Pochmara,Ryan Gibbons,Dan Kelly,1,1,0,NaN,8,4,3,NaN,away
+132,6,BOS,2023020633,2024-01-09,Mullett Arena,3,33,17,0.5,2/4,2/4,0.58209,13,8,3,23,Francois St-Laurent,Kendrick Nicholson,Tyson Baker,Jonny Murray,1,1,1,0,6,11,14,2,away
+133,9,OTT,2023020634,2024-01-09,Scotiabank Saddledome,3,33,4,0.333333,1/3,1/3,0.551724,16,7,7,13,Chris Schlenker,Morgan MacPhee,Caleb Apperson,Ryan Daisy,2,1,0,NaN,13,7,13,NaN,away
+134,8,MTL,2023020635,2024-01-10,Wells Fargo Center,2,19,4,0.0,0/1,0/1,0.45614,27,5,4,24,Frederick L'Ecuyer,Brandon Schrader,Jonathan Deschamps,Kilian McNamara,2,0,0,0,2,6,10,1,away
+135,30,MIN,2023020636,2024-01-10,American Airlines Center,2,23,6,0.5,1/2,1/2,0.555556,13,11,1,34,Trevor Hanson,Steve Kozari,Bevan Mills,Travis Gawryletz,0,0,2,NaN,6,3,14,NaN,away
+136,54,VGK,2023020637,2024-01-10,Ball Arena,0,25,8,0.0,0/4,0/4,0.56,22,8,6,16,Chris Rooney,Kendrick Nicholson,Andrew Smith,Brad Kovachik,0,0,0,NaN,11,5,9,NaN,away
+137,9,OTT,2023020638,2024-01-11,KeyBank Center,3,28,6,0.0,0/4,0/4,0.5,14,4,4,27,Francis Charron,Kelly Sutherland,Mitch Hunt,Ben O'Quinn,1,0,2,NaN,9,8,11,NaN,away
+138,24,ANA,2023020639,2024-01-11,PNC Arena,3,16,13,0.2,1/5,1/5,0.508475,15,4,2,22,Garrett Rank,Cody Beach,Justin Johnson,Jonathan Deschamps,0,3,0,NaN,1,12,3,NaN,away
+139,22,EDM,2023020640,2024-01-11,Little Caesars Arena,3,47,8,0.0,0/2,0/2,0.537037,24,1,4,9,Jean Hebert,Justin Kea,Kilian McNamara,Bryan Pancich,0,0,2,1,16,11,19,1,away
+140,26,LAK,2023020641,2024-01-11,Amerant Bank Arena,2,33,8,0.333333,1/3,1/3,0.418919,17,5,4,21,Brian Pochmara,Pierre Lambert,Devin Berg,David Brisebois,1,1,0,0,12,11,9,1,away
+141,28,SJS,2023020642,2024-01-11,Centre Bell,3,35,4,0.0,0/3,0/3,0.54386,19,3,12,39,Ghislain Hebert,Eric Furlatt,Scott Cherrey,Kyle Flemington,2,1,0,NaN,7,17,11,NaN,away
+142,23,VAN,2023020643,2024-01-11,PPG Paints Arena,4,29,8,0.5,1/2,1/2,0.474576,21,12,5,16,Chris Schlenker,Frederick L'Ecuyer,Julien Fournier,Tommy Hughes,3,0,0,1,9,12,5,3,away
+143,1,NJD,2023020644,2024-01-11,Amalie Arena,3,30,10,0.0,0/1,0/1,0.510638,7,3,1,24,Furman South,Tom Chmielewski,Derek Nansen,Ryan Galloway,1,1,1,0,10,10,8,2,away
+144,55,SEA,2023020645,2024-01-11,Capital One Arena,4,23,2,0.0,0/1,0/1,0.471698,12,8,6,11,Jon McIsaac,Brandon Schrader,Matt MacPherson,Ryan Jackson,2,1,1,NaN,6,9,8,NaN,away
+145,10,TOR,2023020646,2024-01-11,UBS Arena,3,35,6,0.0,0/1,0/1,0.471698,19,8,13,18,Corey Syvret,Jake Brenk,Michel Cormier,Dan Kelly,1,2,0,0,12,14,9,0,away
+146,3,NYR,2023020647,2024-01-11,Enterprise Center,2,43,8,0.333333,1/3,1/3,0.543478,12,9,4,20,Kyle Rehman,Trevor Hanson,Bevan Mills,Travis Gawryletz,1,0,1,NaN,14,14,15,NaN,away
+147,16,CHI,2023020648,2024-01-11,Canada Life Centre,1,21,8,0.0,0/2,0/2,0.5,27,4,6,17,Wes McCauley,Mitch Dunning,Trent Knorr,Travis Toomey,0,1,0,NaN,6,10,5,NaN,away
+148,20,CGY,2023020649,2024-01-11,Mullett Arena,6,30,4,0.333333,1/3,1/3,0.588235,27,5,9,19,Chris Rooney,Francois St-Laurent,Brandon Grillo,Jonny Murray,4,0,2,NaN,14,10,6,NaN,away
+149,6,BOS,2023020650,2024-01-11,T-Mobile Arena,1,33,10,0.0,0/3,0/3,0.530612,22,12,5,26,Chris Lee,Kendrick Nicholson,Andrew Smith,Tyson Baker,0,0,1,0,8,10,15,0,away
+150,18,NSH,2023020651,2024-01-12,American Airlines Center,6,38,6,0.2,1/5,1/5,0.403226,18,4,3,35,Dan O'Rourke,Michael Markovic,Brandon Gawryletz,Caleb Apperson,0,2,4,NaN,6,15,17,NaN,away
+151,4,PHI,2023020652,2024-01-12,Xcel Energy Center,4,35,9,0.333333,1/3,1/3,0.517857,17,3,3,28,Brandon Blandina,Steve Kozari,CJ Murray,Brad Kovachik,0,1,2,1,10,12,9,4,away
+152,3,NYR,2023020653,2024-01-13,Capital One Arena,2,27,10,0.0,0/3,0/3,0.694915,14,9,7,31,Garrett Rank,Jake Brenk,Libor Suchanek,Michel Cormier,1,1,0,NaN,8,9,10,NaN,away
+153,23,VAN,2023020654,2024-01-13,KeyBank Center,1,23,15,0.0,0/2,0/2,0.603774,17,5,1,27,Peter MacDougall,Jordan Samuels-Thomas,Tommy Hughes,Dan Kelly,0,1,0,NaN,7,7,9,NaN,away
+154,28,SJS,2023020655,2024-01-13,Canadian Tire Centre,4,18,4,0.0,0/2,0/2,0.425926,26,7,6,38,Jon McIsaac,Wes McCauley,Kyle Flemington,Steve Barton,1,2,1,NaN,9,4,5,NaN,away
+155,1,NJD,2023020656,2024-01-13,Amerant Bank Arena,4,22,4,0.0,0/2,0/2,0.509434,21,2,6,22,Furman South,Ghislain Hebert,Derek Nansen,Ryan Galloway,2,1,1,NaN,12,5,5,NaN,away
+156,5,PIT,2023020657,2024-01-13,PNC Arena,2,40,8,0.0,0/4,0/4,0.491525,9,6,7,19,Francois St-Laurent,Kevin Pollock,Justin Johnson,Jonathan Deschamps,0,0,2,0,10,16,14,0,away
+157,55,SEA,2023020658,2024-01-13,Nationwide Arena,7,36,11,0.5,1/2,1/2,0.491525,26,5,1,25,Chris Schlenker,Justin Kea,Mitch Hunt,Bryan Pancich,2,2,3,NaN,14,15,7,NaN,away
+158,26,LAK,2023020659,2024-01-13,Little Caesars Arena,3,36,6,1.0,3/3,3/3,0.344262,13,5,1,16,Dan O'Rourke,Frederick L'Ecuyer,Julien Fournier,Mark Shewchyk,1,0,2,NaN,9,10,17,NaN,away
+159,22,EDM,2023020660,2024-01-13,Centre Bell,2,41,8,0.2,1/5,1/5,0.46875,10,6,15,12,Francis Charron,Corey Syvret,Ryan Daisy,Matt MacPherson,0,0,1,1,9,12,19,1,away
+160,24,ANA,2023020661,2024-01-13,Amalie Arena,1,20,10,0.333333,1/3,1/3,0.5,11,5,7,37,Thomas John Luxmore,Pierre Lambert,Devin Berg,David Brisebois,0,1,0,NaN,11,5,4,NaN,away
+161,21,COL,2023020662,2024-01-13,Scotiabank Arena,5,33,2,0.25,1/4,1/4,0.509804,15,7,8,33,Kelly Sutherland,Kendrick Nicholson,Shandor Alphonso,Ben O'Quinn,0,2,3,NaN,7,13,13,NaN,away
+162,4,PHI,2023020663,2024-01-13,Canada Life Centre,2,36,6,0.5,1/2,1/2,0.533333,22,4,10,17,Mitch Dunning,Eric Furlatt,Scott Cherrey,Joe Mahon,1,1,0,NaN,15,16,5,NaN,away
+163,25,DAL,2023020664,2024-01-13,United Center,3,30,9,0.333333,1/3,1/3,0.693548,12,5,6,23,Jean Hebert,Carter Sandlak,Andrew Smith,Kilian McNamara,0,0,3,NaN,8,9,13,NaN,away
+164,53,ARI,2023020665,2024-01-13,Xcel Energy Center,6,33,18,0.666667,2/3,2/3,0.438596,18,6,8,17,Chris Lee,Brandon Blandina,CJ Murray,Brad Kovachik,3,2,1,NaN,11,9,13,NaN,away
+165,2,NYI,2023020666,2024-01-13,Bridgestone Arena,1,25,6,0.0,0/2,0/2,0.509804,25,13,18,33,Trevor Hanson,Tom Chmielewski,Bevan Mills,Brandon Gawryletz,0,0,1,NaN,9,10,6,NaN,away
+166,6,BOS,2023020667,2024-01-13,Enterprise Center,4,35,6,0.25,1/4,1/4,0.469388,6,17,2,18,Kyle Rehman,Michael Markovic,Travis Gawryletz,Caleb Apperson,1,1,1,1,8,14,12,1,away
+167,20,CGY,2023020668,2024-01-13,T-Mobile Arena,3,26,4,0.5,1/2,1/2,0.548387,23,9,6,20,Chris Rooney,Graham Skilliter,James Tobias,Brandon Grillo,2,1,0,NaN,12,7,7,NaN,away
+168,15,WSH,2023020669,2024-01-14,Madison Square Garden,1,25,12,0.0,0/2,0/2,0.578947,11,4,7,20,Brian Pochmara,Jake Brenk,Ryan Jackson,Jesse Marquis,0,1,0,NaN,6,12,7,NaN,away
+169,17,DET,2023020670,2024-01-14,Scotiabank Arena,4,24,6,0.0,0/2,0/2,0.392857,20,7,16,43,Francis Charron,Kelly Sutherland,Tommy Hughes,Matt MacPherson,0,1,3,NaN,10,7,7,NaN,away
+170,1,NJD,2023020671,2024-01-15,TD Garden,0,31,10,0.0,0/1,0/1,0.5,13,7,5,29,Corey Syvret,Kevin Pollock,Kyle Flemington,Steve Barton,0,0,0,NaN,9,10,12,NaN,away
+171,28,SJS,2023020672,2024-01-15,KeyBank Center,0,28,6,0.0,0/2,0/2,0.517857,14,7,1,33,Kendrick Nicholson,Peter MacDougall,Shandor Alphonso,Brad Kovachik,0,0,0,NaN,8,12,8,NaN,away
+172,23,VAN,2023020673,2024-01-15,Nationwide Arena,3,30,10,0.25,1/4,1/4,0.54,11,2,6,19,Chris Schlenker,Chris Rooney,Julien Fournier,CJ Murray,2,1,0,0,14,10,5,1,away
+173,24,ANA,2023020674,2024-01-15,Amerant Bank Arena,5,26,14,0.0,0/5,0/5,0.380952,19,4,4,22,Ghislain Hebert,Pierre Lambert,Jonathan Deschamps,Jonny Murray,1,2,1,1,5,10,9,2,away
+174,26,LAK,2023020675,2024-01-15,PNC Arena,5,26,10,0.0,0/4,0/4,0.491228,18,6,15,17,Garrett Rank,Brian Pochmara,Derek Nansen,David Brisebois,1,0,4,NaN,9,10,7,NaN,away
+175,2,NYI,2023020676,2024-01-15,Xcel Energy Center,0,21,12,0.0,0/5,0/5,0.52459,12,4,2,28,Jean Hebert,Michael Markovic,Scott Cherrey,Joe Mahon,0,0,0,NaN,10,3,8,NaN,away
+176,55,SEA,2023020677,2024-01-15,PPG Paints Arena,0,22,4,0.0,0/2,0/2,0.4,16,9,7,22,Dan O'Rourke,Brandon Blandina,Devin Berg,Bryan Pancich,0,0,0,NaN,6,9,7,NaN,away
+177,21,COL,2023020678,2024-01-15,Centre Bell,3,35,6,0.25,1/4,1/4,0.385714,8,6,9,11,Jon McIsaac,Wes McCauley,Michel Cormier,Mark Shewchyk,1,1,1,NaN,13,13,9,NaN,away
+178,4,PHI,2023020679,2024-01-15,Enterprise Center,4,42,6,0.0,0/2,0/2,0.596154,16,10,3,16,Frederick L'Ecuyer,Carter Sandlak,Bevan Mills,Brandon Gawryletz,0,2,2,NaN,13,20,9,NaN,away
+179,18,NSH,2023020680,2024-01-15,T-Mobile Arena,1,35,4,0.0,0/4,0/4,0.372549,25,10,5,48,Kyle Rehman,Tom Chmielewski,James Tobias,Travis Gawryletz,0,1,0,NaN,8,14,13,NaN,away
+180,55,SEA,2023020681,2024-01-16,Madison Square Garden,2,31,4,1.0,2/2,2/2,0.325581,12,6,6,18,Chris Schlenker,Wes McCauley,Kyle Flemington,Jesse Marquis,1,0,1,NaN,8,16,7,NaN,away
+181,21,COL,2023020682,2024-01-16,Canadian Tire Centre,7,34,10,0.333333,1/3,1/3,0.402778,23,6,9,25,Francis Charron,Kevin Pollock,Tommy Hughes,Mark Shewchyk,1,2,4,NaN,11,10,13,NaN,away
+182,24,ANA,2023020683,2024-01-16,Capital One Arena,0,24,9,0.0,0/2,0/2,0.577778,11,8,10,23,Kelly Sutherland,Corey Syvret,Libor Suchanek,Derek Nansen,0,0,0,NaN,3,9,12,NaN,away
+183,26,LAK,2023020684,2024-01-16,American Airlines Center,1,32,2,0.25,1/4,1/4,0.491228,15,4,6,18,Frederick L'Ecuyer,Brandon Schrader,Brandon Gawryletz,Ryan Daisy,0,1,0,NaN,3,16,13,NaN,away
+184,2,NYI,2023020685,2024-01-16,Canada Life Centre,2,37,10,0.0,0/2,0/2,0.460317,11,4,9,31,Graham Skilliter,Justin Kea,Kiel Murchison,Matt MacPherson,1,0,1,NaN,11,15,11,NaN,away
+185,28,SJS,2023020686,2024-01-16,United Center,1,38,20,0.0,0/2,0/2,0.509091,21,3,3,35,Michael Markovic,Peter MacDougall,CJ Murray,Bevan Mills,0,0,1,0,9,15,12,2,away
+186,53,ARI,2023020687,2024-01-16,Scotiabank Saddledome,2,25,12,0.0,0/3,0/3,0.407407,12,15,4,17,Thomas John Luxmore,Cody Beach,Trent Knorr,Caleb Apperson,0,1,1,0,3,11,10,1,away
+187,10,TOR,2023020688,2024-01-16,Rogers Place,2,27,2,0.0,0/1,0/1,0.48,22,9,9,27,Chris Lee,Steve Kozari,Ryan Gibbons,Travis Toomey,1,1,0,NaN,7,14,6,NaN,away
+188,17,DET,2023020689,2024-01-17,Amerant Bank Arena,3,29,10,0.333333,1/3,1/3,0.385965,26,5,15,27,Jean Hebert,Jake Brenk,Shandor Alphonso,Jonathan Deschamps,0,1,1,1,9,10,9,1,away
+189,8,MTL,2023020690,2024-01-17,Prudential Center,3,25,8,0.0,0/1,0/1,0.377778,17,3,5,12,Kelly Sutherland,Carter Sandlak,Andrew Smith,Libor Suchanek,1,1,1,NaN,10,7,8,NaN,away
+190,16,CHI,2023020691,2024-01-18,KeyBank Center,0,19,15,0.0,0/4,0/4,0.564103,19,6,1,25,Garrett Rank,Brandon Blandina,Steve Barton,Brad Kovachik,0,0,0,NaN,4,8,7,NaN,away
+191,21,COL,2023020692,2024-01-18,TD Garden,2,32,6,0.0,0/2,0/2,0.508197,17,5,5,32,Francois St-Laurent,Morgan MacPhee,Andrew Smith,Jesse Marquis,1,1,0,NaN,12,16,4,NaN,away
+192,8,MTL,2023020693,2024-01-18,Canadian Tire Centre,2,23,11,0.0,0/4,0/4,0.52381,12,11,10,18,Furman South,Ghislain Hebert,Mark Shewchyk,Dan Kelly,1,0,1,NaN,6,11,6,NaN,away
+193,25,DAL,2023020694,2024-01-18,Wells Fargo Center,1,15,8,0.0,0/2,0/2,0.5,20,3,7,23,Francis Charron,Carter Sandlak,Libor Suchanek,Ryan Jackson,0,1,0,NaN,1,8,6,NaN,away
+194,30,MIN,2023020695,2024-01-18,Amalie Arena,3,33,10,0.0,0/2,0/2,0.358491,13,5,5,23,Jake Brenk,Eric Furlatt,Shandor Alphonso,Ryan Daisy,1,2,0,NaN,11,10,12,NaN,away
+195,19,STL,2023020696,2024-01-18,Capital One Arena,2,20,8,0.0,0/5,0/5,0.490196,15,5,4,8,Chris Schlenker,Kendrick Nicholson,Julien Fournier,Mitch Hunt,1,0,1,NaN,8,7,5,NaN,away
+196,10,TOR,2023020697,2024-01-18,Scotiabank Saddledome,4,32,8,0.5,1/2,1/2,0.539683,13,11,6,27,Thomas John Luxmore,Graham Skilliter,Ryan Gibbons,Kiel Murchison,1,3,0,NaN,7,16,9,NaN,away
+197,55,SEA,2023020698,2024-01-18,Rogers Place,2,27,23,0.0,0/5,0/5,0.32,9,7,8,38,Chris Lee,Steve Kozari,Trent Knorr,Caleb Apperson,2,0,0,NaN,10,10,7,NaN,away
+198,18,NSH,2023020699,2024-01-18,Crypto.com Arena,2,33,10,0.333333,1/3,1/3,0.448276,23,6,6,29,Kyle Rehman,Peter MacDougall,Brandon Grillo,Kilian McNamara,0,2,0,NaN,11,11,11,NaN,away
+199,53,ARI,2023020700,2024-01-18,Rogers Arena,1,21,17,0.0,0/2,0/2,0.283019,11,3,4,25,Trevor Hanson,Justin Kea,Travis Toomey,Ben O'Quinn,1,0,0,NaN,4,10,7,NaN,away
+200,3,NYR,2023020701,2024-01-18,T-Mobile Arena,1,30,6,0.333333,1/3,1/3,0.5,16,6,3,25,Tom Chmielewski,Brandon Schrader,Bevan Mills,Ryan Galloway,0,0,1,NaN,11,8,11,NaN,away
+201,17,DET,2023020702,2024-01-19,PNC Arena,2,12,2,1.0,1/1,1/1,0.442623,17,7,10,13,Chris Schlenker,Kendrick Nicholson,Julien Fournier,Jonny Murray,1,1,0,NaN,3,5,4,NaN,away
+202,1,NJD,2023020703,2024-01-19,Nationwide Arena,4,33,6,0.0,0/4,0/4,0.641509,19,2,1,11,Jon McIsaac,Cody Beach,Jesse Marquis,Tyson Baker,0,4,0,NaN,11,13,9,NaN,away
+203,30,MIN,2023020704,2024-01-19,Amerant Bank Arena,6,26,22,0.833333,5/6,5/6,0.525424,26,2,4,20,Jake Brenk,Eric Furlatt,Shandor Alphonso,Ryan Daisy,1,3,2,NaN,5,10,11,NaN,away
+204,2,NYI,2023020705,2024-01-19,United Center,3,30,6,0.0,0/2,0/2,0.540984,18,4,5,31,Kelly Sutherland,Mitch Dunning,Justin Johnson,Devin Berg,1,0,2,0,8,10,12,0,away
+205,14,TBL,2023020706,2024-01-20,KeyBank Center,3,16,4,0.0,0/3,0/3,0.530612,13,9,2,16,Kevin Pollock,Morgan MacPhee,Scott Cherrey,Mark Shewchyk,2,0,1,NaN,5,9,2,NaN,away
+206,21,COL,2023020707,2024-01-20,Wells Fargo Center,7,25,6,0.5,1/2,1/2,0.355932,28,7,6,25,Francois St-Laurent,Ghislain Hebert,Mitch Hunt,Brad Kovachik,2,3,2,NaN,5,10,10,NaN,away
+207,18,NSH,2023020708,2024-01-20,Mullett Arena,2,32,4,0.166667,1/6,1/6,0.473684,12,5,6,26,Jean Hebert,Brandon Schrader,Michel Cormier,Bryan Pancich,0,1,1,NaN,12,13,7,NaN,away
+208,52,WPG,2023020709,2024-01-20,Canadian Tire Centre,2,29,13,0.0,0/4,0/4,0.5,13,6,9,22,Furman South,Pierre Lambert,James Tobias,Dan Kelly,0,1,0,1,4,9,12,4,away
+209,8,MTL,2023020710,2024-01-20,TD Garden,4,21,11,0.666667,2/3,2/3,0.490909,7,9,7,44,Chris Rooney,Carter Sandlak,Matt MacPherson,Ryan Jackson,2,2,0,NaN,8,6,7,NaN,away
+210,25,DAL,2023020711,2024-01-20,Prudential Center,6,36,6,0.166667,1/6,1/6,0.484375,17,4,1,12,Jon McIsaac,Beau Halkidis,Andrew Smith,Libor Suchanek,1,3,2,NaN,14,16,6,NaN,away
+211,10,TOR,2023020712,2024-01-20,Rogers Arena,4,46,14,0.0,0/5,0/5,0.618182,14,4,7,40,Tom Chmielewski,Graham Skilliter,Trent Knorr,Caleb Apperson,0,3,1,NaN,9,18,19,NaN,away
+212,15,WSH,2023020713,2024-01-20,Enterprise Center,0,18,20,0.0,0/3,0/3,0.591837,15,10,4,15,Wes McCauley,Mitch Dunning,Justin Johnson,Devin Berg,0,0,0,NaN,5,9,4,NaN,away
+213,22,EDM,2023020714,2024-01-20,Scotiabank Saddledome,3,32,6,0.0,0/2,0/2,0.464286,13,7,5,25,Trevor Hanson,Brandon Blandina,Kiel Murchison,Ben O'Quinn,1,0,2,NaN,13,8,11,NaN,away
+214,24,ANA,2023020715,2024-01-20,SAP Center at San Jose,3,34,8,0.333333,1/3,1/3,0.509434,21,7,4,13,Michael Markovic,Peter MacDougall,Joe Mahon,Travis Toomey,0,2,1,NaN,12,8,14,NaN,away
+215,5,PIT,2023020716,2024-01-20,T-Mobile Arena,2,25,8,0.0,0/1,0/1,0.559322,14,8,6,22,Thomas John Luxmore,Jordan Samuels-Thomas,Ryan Gibbons,Ryan Galloway,0,2,0,NaN,6,14,5,NaN,away
+216,3,NYR,2023020717,2024-01-20,Crypto.com Arena,1,23,2,0.0,0/3,0/3,0.44,20,3,3,32,Kyle Rehman,Corey Syvret,Travis Gawryletz,Kilian McNamara,0,1,0,NaN,2,9,12,NaN,away
+217,9,OTT,2023020718,2024-01-21,Wells Fargo Center,5,34,8,0.0,0/3,0/3,0.625,18,6,4,21,Francois St-Laurent,Kendrick Nicholson,Julien Fournier,CJ Murray,0,2,3,NaN,8,12,14,NaN,away
+218,30,MIN,2023020719,2024-01-21,PNC Arena,5,19,8,0.0,0/2,0/2,0.393443,22,8,3,21,Jon McIsaac,Kelly Sutherland,Kyle Flemington,Jonny Murray,1,1,3,NaN,3,7,9,NaN,away
+219,14,TBL,2023020720,2024-01-21,Little Caesars Arena,1,28,4,0.0,0/3,0/3,0.492063,16,4,6,12,Chris Rooney,Kevin Pollock,Brandon Gawryletz,Tyson Baker,1,0,0,NaN,5,5,18,NaN,away
+220,25,DAL,2023020721,2024-01-21,UBS Arena,2,43,0,0.0,0/3,0/3,0.603448,11,3,10,16,Brian Pochmara,Frederick L'Ecuyer,Tommy Hughes,Brad Kovachik,0,2,0,0,16,14,13,0,away
+221,3,NYR,2023020722,2024-01-21,Honda Center,5,33,6,0.5,2/4,2/4,0.47541,13,3,5,21,Michael Markovic,Peter MacDougall,Travis Toomey,Bryan Pancich,0,1,4,NaN,7,11,15,NaN,away
+222,10,TOR,2023020723,2024-01-21,Climate Pledge Arena,3,26,11,0.0,0/2,0/2,0.716981,18,19,2,17,Kyle Rehman,Tom Chmielewski,Travis Gawryletz,Caleb Apperson,1,1,1,NaN,8,9,9,NaN,away
+223,52,WPG,2023020724,2024-01-22,TD Garden,1,21,6,0.0,0/3,0/3,0.5,11,10,6,43,Furman South,Ghislain Hebert,Julien Fournier,James Tobias,1,0,0,NaN,6,4,11,NaN,away
+224,54,VGK,2023020725,2024-01-22,Prudential Center,5,32,6,0.0,0/0,0/0,0.538462,17,5,4,16,Brian Pochmara,Frederick L'Ecuyer,CJ Murray,Dan Kelly,1,4,0,0,14,11,6,1,away
+225,13,FLA,2023020726,2024-01-22,Bridgestone Arena,4,38,15,0.25,1/4,1/4,0.457627,18,22,6,35,Dan O'Rourke,Mitch Dunning,Justin Johnson,Devin Berg,0,1,3,NaN,14,14,10,NaN,away
+226,5,PIT,2023020727,2024-01-22,Mullett Arena,2,27,6,0.0,0/3,0/3,0.621212,18,7,7,23,Michael Markovic,Peter MacDougall,Michel Cormier,Kilian McNamara,0,2,0,NaN,9,9,9,NaN,away
+227,16,CHI,2023020728,2024-01-22,Rogers Arena,0,31,6,0.0,0/5,0/5,0.552632,9,4,5,26,Francis Charron,Corey Syvret,Kiel Murchison,Ben O'Quinn,0,0,0,NaN,9,10,12,NaN,away
+228,28,SJS,2023020729,2024-01-22,Crypto.com Arena,4,27,6,0.0,0/1,0/1,0.54717,20,4,4,26,Jean Hebert,Brandon Blandina,Travis Toomey,Bryan Pancich,0,2,1,0,6,11,8,2,away
+229,25,DAL,2023020730,2024-01-23,Little Caesars Arena,5,38,8,0.5,1/2,1/2,0.6,25,4,7,10,Garrett Rank,Ghislain Hebert,Andrew Smith,Matt MacPherson,1,4,0,NaN,7,25,6,NaN,away
+230,9,OTT,2023020731,2024-01-23,Centre Bell,4,28,10,0.0,0/5,0/5,0.48,15,7,18,18,Francois St-Laurent,Jake Brenk,Tommy Hughes,Ryan Daisy,2,1,1,NaN,11,8,9,NaN,away
+231,14,TBL,2023020732,2024-01-23,Wells Fargo Center,6,21,6,0.666667,2/3,2/3,0.442308,17,7,3,13,Kelly Sutherland,Eric Furlatt,Brandon Gawryletz,CJ Murray,2,2,2,NaN,5,8,8,NaN,away
+232,54,VGK,2023020733,2024-01-23,UBS Arena,3,27,6,0.333333,1/3,1/3,0.471698,14,10,5,14,Furman South,Brian Pochmara,Kyle Flemington,Brad Kovachik,1,2,0,NaN,7,9,11,NaN,away
+233,15,WSH,2023020734,2024-01-23,Xcel Energy Center,3,33,4,0.25,1/4,1/4,0.5,13,2,4,16,Chris Rooney,Morgan MacPhee,Brandon Grillo,Ryan Galloway,0,1,2,NaN,9,12,12,NaN,away
+234,19,STL,2023020735,2024-01-23,Scotiabank Saddledome,4,26,6,0.0,0/1,0/1,0.473684,17,11,12,27,Chris Schlenker,Corey Syvret,Scott Cherrey,Derek Nansen,0,2,2,NaN,10,9,7,NaN,away
+235,29,CBJ,2023020736,2024-01-23,Rogers Place,1,27,6,0.0,0/4,0/4,0.489796,15,13,13,25,Francis Charron,Pierre Lambert,Travis Gawryletz,Jonathan Deschamps,1,0,0,NaN,13,9,5,NaN,away
+236,7,BUF,2023020737,2024-01-23,Honda Center,2,30,30,0.333333,1/3,1/3,0.490196,10,8,10,27,Trevor Hanson,Chris Lee,Michel Cormier,Jesse Marquis,0,0,2,NaN,9,6,15,NaN,away
+237,3,NYR,2023020738,2024-01-23,SAP Center at San Jose,2,31,6,0.0,0/3,0/3,0.603448,15,12,8,20,Jean Hebert,Tom Chmielewski,Caleb Apperson,Kilian McNamara,1,1,0,0,7,12,10,2,away
+238,53,ARI,2023020739,2024-01-24,Amerant Bank Arena,2,33,30,0.142857,1/7,1/7,0.458333,9,6,12,18,Wes McCauley,Carter Sandlak,Bevan Mills,James Tobias,0,0,2,NaN,5,20,8,NaN,away
+239,52,WPG,2023020740,2024-01-24,Scotiabank Arena,0,32,10,0.0,0/2,0/2,0.351852,10,14,5,25,Jon McIsaac,Brandon Schrader,Shandor Alphonso,Steve Barton,0,0,0,0,16,5,7,4,away
+240,12,CAR,2023020741,2024-01-24,TD Garden,3,33,8,0.666667,2/3,2/3,0.48,7,6,9,32,Eric Furlatt,Beau Halkidis,Brandon Gawryletz,Brad Kovachik,1,1,1,NaN,10,13,10,NaN,away
+241,15,WSH,2023020742,2024-01-24,Ball Arena,2,25,8,0.0,0/5,0/5,0.453125,15,5,2,19,Kevin Pollock,Peter MacDougall,Trent Knorr,Bryan Pancich,0,0,2,NaN,10,9,6,NaN,away
+242,16,CHI,2023020743,2024-01-24,Climate Pledge Arena,2,34,6,0.333333,1/3,1/3,0.492537,19,11,4,16,Trevor Hanson,Brandon Blandina,Mitch Hunt,Ben O'Quinn,1,0,1,NaN,15,6,13,NaN,away
+243,19,STL,2023020744,2024-01-24,Rogers Arena,4,18,6,0.333333,1/3,1/3,0.479167,23,5,3,26,Francis Charron,Steve Kozari,Derek Nansen,Travis Toomey,2,0,1,1,7,5,5,1,away
+244,7,BUF,2023020745,2024-01-24,Crypto.com Arena,5,37,6,0.0,0/4,0/4,0.45614,13,7,7,16,Chris Lee,Michael Markovic,Jesse Marquis,Mark Shewchyk,1,2,2,NaN,13,11,13,NaN,away
+245,1,NJD,2023020746,2024-01-25,PNC Arena,2,25,8,0.0,0/3,0/3,0.431373,7,11,13,19,Carter Sandlak,Kendrick Nicholson,David Brisebois,Dan Kelly,0,0,2,NaN,10,5,10,NaN,away
+246,4,PHI,2023020747,2024-01-25,Little Caesars Arena,0,30,19,0.0,0/3,0/3,0.381818,18,6,8,15,Chris Rooney,Dan O'Rourke,Libor Suchanek,Joe Mahon,0,0,0,NaN,9,10,11,NaN,away
+247,2,NYI,2023020748,2024-01-25,Centre Bell,3,46,10,0.375,3/8,3/8,0.52,10,4,14,15,Jon McIsaac,Francois St-Laurent,Steve Barton,Tommy Hughes,0,1,2,NaN,12,18,16,NaN,away
+248,6,BOS,2023020749,2024-01-25,Canadian Tire Centre,3,23,18,1.0,1/1,1/1,0.490909,19,5,7,24,Jake Brenk,Brandon Schrader,Shandor Alphonso,Devin Berg,1,1,0,1,3,9,8,3,away
+249,53,ARI,2023020750,2024-01-25,Amalie Arena,3,20,26,0.0,0/1,0/1,0.55814,16,13,4,38,Wes McCauley,Thomas John Luxmore,Bevan Mills,James Tobias,1,1,1,NaN,7,9,4,NaN,away
+250,24,ANA,2023020751,2024-01-25,American Airlines Center,3,21,6,0.0,0/0,0/0,0.408163,17,6,5,24,Jean Hebert,Jordan Samuels-Thomas,Trent Knorr,Ryan Galloway,1,1,1,0,9,4,7,1,away
+251,18,NSH,2023020752,2024-01-25,Xcel Energy Center,3,29,20,0.0,0/2,0/2,0.483333,15,3,3,34,Garrett Rank,Ghislain Hebert,Michel Cormier,Matt MacPherson,0,0,3,NaN,11,4,14,NaN,away
+252,29,CBJ,2023020753,2024-01-25,Scotiabank Saddledome,5,32,4,0.25,1/4,1/4,0.433333,10,6,13,18,Corey Syvret,Steve Kozari,Travis Gawryletz,Jonathan Deschamps,2,1,2,NaN,9,11,12,NaN,away
+253,16,CHI,2023020754,2024-01-25,Rogers Place,0,27,4,0.0,0/0,0/0,0.415094,13,8,7,31,Graham Skilliter,Pierre Lambert,Scott Cherrey,Derek Nansen,0,0,0,NaN,7,12,8,NaN,away
+254,54,VGK,2023020755,2024-01-26,Madison Square Garden,5,20,4,0.0,0/2,0/2,0.508197,24,7,6,13,Kelly Sutherland,Eric Furlatt,Ryan Daisy,Jonny Murray,1,2,2,NaN,6,8,6,NaN,away
+255,13,FLA,2023020756,2024-01-26,PPG Paints Arena,3,31,16,0.666667,2/3,2/3,0.444444,22,5,6,28,Chris Rooney,Morgan MacPhee,Brandon Gawryletz,CJ Murray,1,1,0,0,8,10,11,2,away
+256,26,LAK,2023020757,2024-01-26,Ball Arena,1,27,12,0.2,1/5,1/5,0.519231,14,7,7,13,Chris Lee,Brandon Blandina,Ryan Galloway,Jesse Marquis,0,1,0,NaN,7,10,10,NaN,away
+257,19,STL,2023020758,2024-01-26,Climate Pledge Arena,4,18,4,1.0,2/2,2/2,0.54,19,9,1,15,Michael Markovic,Kevin Pollock,Kiel Murchison,Mark Shewchyk,1,1,1,1,5,6,5,2,away
+258,6,BOS,2023020759,2024-01-27,Wells Fargo Center,6,28,6,0.0,0/3,0/3,0.415094,20,4,6,19,Jon McIsaac,Jake Brenk,Tommy Hughes,David Brisebois,4,1,1,NaN,14,5,9,NaN,away
+259,15,WSH,2023020760,2024-01-27,American Airlines Center,4,28,4,0.5,1/2,1/2,0.377049,20,8,3,25,Dan O'Rourke,Thomas John Luxmore,Trent Knorr,Ben O'Quinn,1,1,2,0,7,6,15,0,away
+260,18,NSH,2023020761,2024-01-27,Rogers Place,1,29,6,0.0,0/3,0/3,0.576923,13,9,4,31,Chris Schlenker,Graham Skilliter,Scott Cherrey,Derek Nansen,0,0,1,NaN,7,9,13,NaN,away
+261,7,BUF,2023020762,2024-01-27,SAP Center at San Jose,5,36,10,0.0,0/2,0/2,0.449275,17,6,6,14,Kyle Rehman,Trevor Hanson,Ryan Gibbons,Mitch Hunt,2,1,2,NaN,10,13,13,NaN,away
+262,53,ARI,2023020763,2024-01-27,PNC Arena,1,11,6,0.0,0/1,0/1,0.363636,24,10,7,19,Frederick L'Ecuyer,Carter Sandlak,Julien Fournier,Dan Kelly,1,0,0,NaN,8,3,0,NaN,away
+263,54,VGK,2023020764,2024-01-27,Little Caesars Arena,2,30,4,0.0,0/2,0/2,0.5625,12,6,4,14,Ghislain Hebert,Justin Kea,Kyle Flemington,Devin Berg,2,0,0,NaN,10,11,9,NaN,away
+264,3,NYR,2023020765,2024-01-27,Canadian Tire Centre,7,29,14,0.0,0/3,0/3,0.534483,14,8,8,29,Mitch Dunning,Peter MacDougall,Andrew Smith,Steve Barton,0,5,2,NaN,12,9,8,NaN,away
+265,8,MTL,2023020766,2024-01-27,PPG Paints Arena,2,27,4,1.0,1/1,1/1,0.389831,26,12,4,23,Chris Rooney,Furman South,Brandon Gawryletz,Joe Mahon,1,1,0,0,10,11,5,1,away
+266,1,NJD,2023020767,2024-01-27,Amalie Arena,3,24,6,0.0,0/1,0/1,0.491228,16,6,5,41,Wes McCauley,Kendrick Nicholson,Bevan Mills,James Tobias,0,0,3,NaN,6,4,14,NaN,away
+267,10,TOR,2023020768,2024-01-27,Canada Life Centre,4,30,14,0.666667,2/3,2/3,0.622222,12,8,8,18,Pierre Lambert,Cody Beach,Michel Cormier,Jonathan Deschamps,1,0,3,NaN,8,14,8,NaN,away
+268,13,FLA,2023020769,2024-01-27,UBS Arena,3,37,2,0.5,2/4,2/4,0.537313,8,0,9,20,Eric Furlatt,Beau Halkidis,Ryan Daisy,Jonny Murray,0,1,1,1,4,17,13,3,away
+269,24,ANA,2023020770,2024-01-27,Xcel Energy Center,3,25,8,0.0,0/2,0/2,0.508772,18,4,5,18,Garrett Rank,Chris Lee,Libor Suchanek,Matt MacPherson,1,0,2,NaN,13,4,8,NaN,away
+270,16,CHI,2023020771,2024-01-27,Scotiabank Saddledome,0,32,4,0.0,0/2,0/2,0.527273,19,9,11,23,Brandon Schrader,Steve Kozari,Caleb Apperson,Travis Toomey,0,0,0,NaN,11,9,12,NaN,away
+271,29,CBJ,2023020772,2024-01-27,Rogers Arena,4,29,8,0.333333,1/3,1/3,0.357143,13,6,5,25,Corey Syvret,Michael Markovic,Kiel Murchison,Mark Shewchyk,0,4,0,0,4,14,9,2,away
+272,26,LAK,2023020773,2024-01-28,Enterprise Center,3,33,12,0.0,0/1,0/1,0.490566,13,10,3,20,Dan O'Rourke,Thomas John Luxmore,Ryan Galloway,Bryan Pancich,1,2,0,0,12,12,9,0,away
+273,29,CBJ,2023020774,2024-01-28,Climate Pledge Arena,2,32,6,0.0,0/2,0/2,0.409836,20,10,4,20,Kyle Rehman,Kevin Pollock,Ryan Gibbons,Mark Shewchyk,0,0,2,NaN,8,6,18,NaN,away
+274,18,NSH,2023020775,2024-01-29,Canadian Tire Centre,3,28,8,0.0,0/3,0/3,0.5,15,7,10,23,Ghislain Hebert,Pierre Lambert,Andrew Smith,Jonny Murray,3,0,0,0,11,11,6,0,away
+275,29,CBJ,2023020776,2024-01-30,Enterprise Center,1,22,11,0.0,0/2,0/2,0.489362,17,5,8,18,Graham Skilliter,Peter MacDougall,Julien Fournier,Devin Berg,0,0,1,NaN,7,5,10,NaN,away
+276,55,SEA,2023020777,2024-01-30,SAP Center at San Jose,0,32,7,0.0,0/1,0/1,0.509091,14,9,6,13,Chris Schlenker,Tom Chmielewski,Travis Gawryletz,Kiel Murchison,0,0,0,NaN,13,5,14,NaN,away
+277,9,OTT,2023020778,2024-01-31,Little Caesars Arena,3,25,2,0.0,0/3,0/3,0.480769,15,4,5,18,Mitch Dunning,Graham Skilliter,CJ Murray,Ryan Jackson,0,2,0,1,8,9,6,2,away
+278,26,LAK,2023020779,2024-01-31,Bridgestone Arena,4,24,8,0.0,0/1,0/1,0.395833,12,1,11,28,Furman South,Peter MacDougall,Julien Fournier,Devin Berg,1,1,2,NaN,11,10,3,NaN,away
+279,28,SJS,2023020780,2024-01-31,Honda Center,2,28,10,0.333333,1/3,1/3,0.454545,27,5,7,27,Chris Schlenker,Tom Chmielewski,Travis Gawryletz,Kiel Murchison,1,1,0,0,13,6,7,2,away
+280,21,COL,2023020781,2024-02-05,Madison Square Garden,1,33,4,0.0,0/3,0/3,0.444444,10,7,5,21,Chris Rooney,Brian Pochmara,Shandor Alphonso,Kilian McNamara,1,0,0,0,14,10,7,2,away
+281,2,NYI,2023020782,2024-02-05,Scotiabank Arena,3,29,11,0.0,0/2,0/2,0.5,19,8,6,42,Garrett Rank,Brandon Blandina,Tyson Baker,Mark Shewchyk,1,1,1,NaN,13,9,7,NaN,away
+282,20,CGY,2023020783,2024-02-06,TD Garden,4,29,25,0.5,2/4,2/4,0.446809,17,10,7,32,Wes McCauley,Brian Pochmara,Kyle Flemington,Matt MacPherson,2,0,2,NaN,12,9,8,NaN,away
+283,25,DAL,2023020784,2024-02-06,KeyBank Center,2,30,8,0.2,1/5,1/5,0.597561,23,5,1,17,Eric Furlatt,Brandon Blandina,Brad Kovachik,Tyson Baker,1,1,0,NaN,8,4,18,NaN,away
+284,23,VAN,2023020785,2024-02-06,PNC Arena,3,19,4,0.666667,2/3,2/3,0.509434,20,6,3,27,Ghislain Hebert,Michael Markovic,James Tobias,Ryan Daisy,1,1,1,NaN,12,4,3,NaN,away
+285,4,PHI,2023020786,2024-02-06,Amerant Bank Arena,2,25,6,0.0,0/1,0/1,0.577778,22,2,9,31,Jon McIsaac,Thomas John Luxmore,Scott Cherrey,Michel Cormier,0,1,1,NaN,5,12,8,NaN,away
+286,21,COL,2023020787,2024-02-06,Prudential Center,3,38,8,0.0,0/3,0/3,0.370968,20,6,7,10,Trevor Hanson,Steve Kozari,Steve Barton,Tommy Hughes,1,0,2,NaN,12,9,17,NaN,away
+287,52,WPG,2023020788,2024-02-06,PPG Paints Arena,0,23,5,0.0,0/2,0/2,0.382979,13,7,7,21,Francis Charron,Jake Brenk,Jesse Marquis,David Brisebois,0,0,0,NaN,8,8,7,NaN,away
+288,8,MTL,2023020789,2024-02-06,Capital One Arena,5,26,8,0.5,1/2,1/2,0.508475,20,6,8,15,Chris Rooney,Jean Hebert,Shandor Alphonso,Kilian McNamara,3,0,2,NaN,13,5,8,NaN,away
+289,22,EDM,2023020790,2024-02-06,T-Mobile Arena,1,31,4,0.0,0/1,0/1,0.528302,17,2,4,19,Kyle Rehman,Kelly Sutherland,Ryan Gibbons,Kiel Murchison,1,0,0,NaN,8,12,11,NaN,away
+290,14,TBL,2023020791,2024-02-07,Madison Square Garden,1,18,4,0.0,0/1,0/1,0.5,9,2,4,18,Trevor Hanson,Steve Kozari,Ryan Galloway,Dan Kelly,0,0,1,NaN,5,4,9,NaN,away
+291,25,DAL,2023020792,2024-02-07,Scotiabank Arena,4,31,6,0.25,1/4,1/4,0.546875,10,5,9,34,Mitch Dunning,Eric Furlatt,Jonathan Deschamps,Devin Berg,2,0,2,NaN,10,12,9,NaN,away
+292,30,MIN,2023020793,2024-02-07,United Center,2,25,9,0.0,0/2,0/2,0.438596,16,5,6,18,Francois St-Laurent,Frederick L'Ecuyer,Derek Nansen,Bryan Pancich,1,0,1,NaN,11,8,6,NaN,away
+293,23,VAN,2023020794,2024-02-08,TD Garden,0,17,10,0.0,0/3,0/3,0.574074,7,8,6,31,Ghislain Hebert,Kendrick Nicholson,Kilian McNamara,Dan Kelly,0,0,0,NaN,4,9,4,NaN,away
+294,15,WSH,2023020795,2024-02-08,Amerant Bank Arena,2,23,12,0.333333,1/3,1/3,0.518519,27,1,6,22,Francis Charron,Michael Markovic,Scott Cherrey,Michel Cormier,1,1,0,NaN,13,4,6,NaN,away
+295,20,CGY,2023020796,2024-02-08,Prudential Center,5,30,4,0.0,0/3,0/3,0.47541,14,6,6,10,Jean Hebert,Brandon Schrader,Ryan Galloway,Mark Shewchyk,1,1,3,NaN,10,10,10,NaN,away
+296,52,WPG,2023020797,2024-02-08,Wells Fargo Center,1,29,13,0.0,0/3,0/3,0.423077,19,3,3,23,Wes McCauley,Trevor Hanson,Steve Barton,Jesse Marquis,0,0,1,NaN,4,15,10,NaN,away
+297,14,TBL,2023020798,2024-02-08,UBS Arena,2,20,8,0.5,1/2,1/2,0.583333,13,6,10,29,Jake Brenk,Steve Kozari,Kyle Flemington,David Brisebois,1,1,0,NaN,3,7,10,NaN,away
+298,21,COL,2023020799,2024-02-08,PNC Arena,2,27,12,0.0,0/6,0/6,0.444444,18,7,3,14,Jon McIsaac,Furman South,James Tobias,Ryan Daisy,2,0,0,NaN,8,9,10,NaN,away
+299,54,VGK,2023020800,2024-02-08,Mullett Arena,3,34,2,0.0,0/1,0/1,0.395833,20,12,9,28,Corey Syvret,Kevin Pollock,Libor Suchanek,Kiel Murchison,3,0,0,NaN,12,14,8,NaN,away
+300,5,PIT,2023020801,2024-02-09,Xcel Energy Center,2,36,14,0.166667,1/6,1/6,0.540984,17,8,2,16,Francois St-Laurent,Tom Chmielewski,Derek Nansen,Bryan Pancich,0,1,1,NaN,8,13,15,NaN,away
+301,3,NYR,2023020802,2024-02-09,United Center,4,35,6,0.0,0/3,0/3,0.392857,15,5,9,19,Frederick L'Ecuyer,Morgan MacPhee,Trent Knorr,Jonathan Deschamps,2,1,0,1,12,17,3,3,away
+302,22,EDM,2023020803,2024-02-09,Honda Center,5,32,4,0.5,1/2,1/2,0.529412,12,6,11,18,Thomas John Luxmore,Corey Syvret,Libor Suchanek,Brandon Gawryletz,0,2,3,NaN,9,12,11,NaN,away
+303,19,STL,2023020804,2024-02-10,KeyBank Center,3,26,8,0.5,1/2,1/2,0.440678,16,6,3,26,Kelly Sutherland,Jake Brenk,Shandor Alphonso,James Tobias,1,1,1,NaN,11,4,11,NaN,away
+304,23,VAN,2023020805,2024-02-10,Little Caesars Arena,3,31,24,0.0,0/3,0/3,0.592593,16,6,4,25,Carter Sandlak,Brandon Blandina,Kyle Flemington,Tommy Hughes,0,3,0,0,8,12,11,0,away
+305,25,DAL,2023020806,2024-02-10,Centre Bell,3,38,8,0.0,0/6,0/6,0.568627,16,4,11,5,Kyle Rehman,Pierre Lambert,Travis Gawryletz,Tyson Baker,0,3,0,NaN,6,21,11,NaN,away
+306,20,CGY,2023020807,2024-02-10,UBS Arena,5,24,6,1.0,1/1,1/1,0.5,19,11,13,12,Wes McCauley,Kendrick Nicholson,Matt MacPherson,Mark Shewchyk,1,2,2,NaN,8,13,3,NaN,away
+307,15,WSH,2023020808,2024-02-10,TD Garden,3,29,8,0.333333,1/3,1/3,0.55814,11,8,8,31,Trevor Hanson,Steve Kozari,Julien Fournier,David Brisebois,0,1,2,NaN,16,8,5,NaN,away
+308,21,COL,2023020809,2024-02-10,Amerant Bank Arena,0,34,4,0.0,0/1,0/1,0.381818,21,3,12,23,Furman South,Brian Pochmara,Ben O'Quinn,Jonny Murray,0,0,0,NaN,14,10,10,NaN,away
+309,1,NJD,2023020810,2024-02-10,PNC Arena,0,34,6,0.0,0/4,0/4,0.454545,24,10,13,26,Dan O'Rourke,Michael Markovic,Michel Cormier,Devin Berg,0,0,0,0,10,13,9,2,away
+310,14,TBL,2023020811,2024-02-10,Nationwide Arena,4,37,15,0.666667,2/3,2/3,0.54717,17,4,1,8,Mitch Dunning,Peter MacDougall,CJ Murray,Jesse Marquis,1,1,2,NaN,13,11,13,NaN,away
+311,10,TOR,2023020812,2024-02-10,Canadian Tire Centre,3,35,19,0.0,0/0,0/0,0.456522,15,5,12,20,Eric Furlatt,Beau Halkidis,Bevan Mills,Steve Barton,1,1,1,NaN,8,12,15,NaN,away
+312,55,SEA,2023020813,2024-02-10,Wells Fargo Center,2,19,8,0.0,0/3,0/3,0.508197,22,2,7,25,Jean Hebert,Brandon Schrader,Ryan Galloway,Dan Kelly,1,0,1,NaN,10,7,2,NaN,away
+313,5,PIT,2023020814,2024-02-10,Canada Life Centre,1,36,2,0.0,0/3,0/3,0.604651,15,6,11,19,Chris Schlenker,Chris Lee,Justin Johnson,Caleb Apperson,0,1,0,NaN,8,16,12,NaN,away
+314,53,ARI,2023020815,2024-02-10,Bridgestone Arena,4,31,12,0.5,2/4,2/4,0.466667,27,3,5,26,Francis Charron,Frederick L'Ecuyer,Scott Cherrey,Trent Knorr,1,1,2,0,12,12,6,1,away
+315,22,EDM,2023020816,2024-02-10,Crypto.com Arena,0,26,8,0.0,0/4,0/4,0.516667,5,5,3,23,Thomas John Luxmore,Kevin Pollock,Libor Suchanek,Brandon Gawryletz,0,0,0,NaN,5,11,10,NaN,away
+316,19,STL,2023020817,2024-02-11,Centre Bell,7,36,38,0.6,3/5,3/5,0.46,17,8,15,11,Garrett Rank,Kyle Rehman,Travis Gawryletz,Tyson Baker,3,1,3,NaN,15,10,11,NaN,away
+317,23,VAN,2023020818,2024-02-11,Capital One Arena,3,29,4,0.0,0/3,0/3,0.588235,19,6,4,30,Tom Chmielewski,Kendrick Nicholson,Julien Fournier,Brad Kovachik,1,1,0,1,10,9,7,3,away
+318,55,SEA,2023020819,2024-02-12,Prudential Center,1,28,10,0.0,0/3,0/3,0.4,13,8,2,30,Kelly Sutherland,Steve Kozari,Brad Kovachik,Ryan Galloway,0,0,1,NaN,7,8,13,NaN,away
+319,20,CGY,2023020820,2024-02-12,Madison Square Garden,0,29,12,0.0,0/2,0/2,0.409091,19,0,6,26,Trevor Hanson,Tom Chmielewski,Bevan Mills,Devin Berg,0,0,0,NaN,6,13,10,NaN,away
+320,53,ARI,2023020821,2024-02-12,Wells Fargo Center,3,23,14,0.0,0/4,0/4,0.414286,15,3,4,20,Pierre Lambert,Peter MacDougall,Ben O'Quinn,Mark Shewchyk,1,2,0,NaN,7,10,6,NaN,away
+321,30,MIN,2023020822,2024-02-12,T-Mobile Arena,5,29,10,0.333333,1/3,1/3,0.576271,11,9,4,22,Thomas John Luxmore,Kevin Pollock,Libor Suchanek,Trent Knorr,2,0,3,NaN,14,4,11,NaN,away
+322,14,TBL,2023020823,2024-02-13,TD Garden,3,25,12,0.333333,1/3,1/3,0.490909,19,11,11,35,Kelly Sutherland,Tom Chmielewski,Devin Berg,Dan Kelly,1,1,0,0,6,9,9,1,away
+323,26,LAK,2023020824,2024-02-13,KeyBank Center,0,33,4,0.0,0/3,0/3,0.612245,10,4,4,24,Francois St-Laurent,Graham Skilliter,Andrew Smith,Brad Kovachik,0,0,0,NaN,5,13,15,NaN,away
+324,24,ANA,2023020825,2024-02-13,Centre Bell,0,13,29,0.0,0/3,0/3,0.490196,16,1,12,27,Dan O'Rourke,Kendrick Nicholson,Michel Cormier,Jonathan Deschamps,0,0,0,NaN,6,3,4,NaN,away
+325,29,CBJ,2023020826,2024-02-13,Canadian Tire Centre,3,40,14,0.0,0/4,0/4,0.557377,11,8,9,31,Kyle Rehman,Carter Sandlak,Steve Barton,Derek Nansen,1,2,0,NaN,6,17,17,NaN,away
+326,19,STL,2023020827,2024-02-13,Scotiabank Arena,1,15,4,0.0,0/2,0/2,0.408163,10,6,8,38,Ghislain Hebert,Michael Markovic,Scott Cherrey,Travis Gawryletz,0,1,0,NaN,3,8,4,NaN,away
+327,21,COL,2023020828,2024-02-13,Capital One Arena,6,37,6,0.333333,1/3,1/3,0.485294,17,7,2,17,Garrett Rank,Pierre Lambert,Tommy Hughes,Mark Shewchyk,2,2,2,NaN,10,12,15,NaN,away
+328,55,SEA,2023020829,2024-02-13,UBS Arena,2,30,8,0.0,0/2,0/2,0.333333,17,7,11,24,Trevor Hanson,Peter MacDougall,Bevan Mills,Ben O'Quinn,1,0,0,0,7,10,11,2,away
+329,12,CAR,2023020830,2024-02-13,American Airlines Center,2,34,2,0.0,0/1,0/1,0.526316,12,6,9,26,Chris Rooney,Chris Lee,CJ Murray,Kilian McNamara,0,2,0,NaN,12,13,9,NaN,away
+330,1,NJD,2023020831,2024-02-13,Bridgestone Arena,4,47,6,0.0,0/2,0/2,0.509434,17,9,8,22,Wes McCauley,Corey Syvret,Julien Fournier,Ryan Daisy,0,1,3,NaN,22,12,13,NaN,away
+331,23,VAN,2023020832,2024-02-13,United Center,4,38,13,0.0,0/4,0/4,0.5,10,9,6,20,Mitch Dunning,Steve Kozari,Ryan Gibbons,Matt MacPherson,1,2,1,NaN,12,13,13,NaN,away
+332,17,DET,2023020833,2024-02-13,Rogers Place,4,38,0,0.666667,2/3,2/3,0.393443,13,6,9,23,Chris Schlenker,Eric Furlatt,Caleb Apperson,Kiel Murchison,1,2,1,NaN,12,16,10,NaN,away
+333,13,FLA,2023020834,2024-02-14,PPG Paints Arena,5,23,10,0.5,1/2,1/2,0.480769,15,2,1,20,Frederick L'Ecuyer,Graham Skilliter,Kyle Flemington,David Brisebois,0,4,1,NaN,4,12,7,NaN,away
+334,28,SJS,2023020835,2024-02-14,Canada Life Centre,0,17,4,0.0,0/1,0/1,0.384615,24,5,6,15,Jon McIsaac,Brian Pochmara,Shandor Alphonso,Brandon Gawryletz,0,0,0,NaN,4,8,5,NaN,away
+335,30,MIN,2023020836,2024-02-14,Mullett Arena,3,43,6,0.2,1/5,1/5,0.5,24,2,10,28,Kevin Pollock,Brandon Blandina,CJ Murray,Trent Knorr,1,1,1,NaN,20,10,13,NaN,away
+336,55,SEA,2023020837,2024-02-15,TD Garden,4,26,4,0.5,1/2,1/2,0.521739,17,13,4,36,Francois St-Laurent,Mitch Dunning,Michel Cormier,Jonathan Deschamps,1,1,2,NaN,8,10,8,NaN,away
+337,13,FLA,2023020838,2024-02-15,KeyBank Center,4,30,14,0.333333,1/3,1/3,0.438596,8,10,3,47,Frederick L'Ecuyer,Graham Skilliter,Kyle Flemington,David Brisebois,1,1,2,NaN,12,6,12,NaN,away
+338,26,LAK,2023020839,2024-02-15,Prudential Center,2,29,12,0.25,1/4,1/4,0.568182,13,4,3,22,Garrett Rank,Peter MacDougall,Libor Suchanek,Dan Kelly,0,1,1,NaN,13,8,8,NaN,away
+339,8,MTL,2023020840,2024-02-15,Madison Square Garden,4,36,8,0.2,1/5,1/5,0.382353,10,8,6,18,Tom Chmielewski,Jake Brenk,Bevan Mills,Ben O'Quinn,1,1,2,NaN,10,10,16,NaN,away
+340,24,ANA,2023020841,2024-02-15,Canadian Tire Centre,5,20,12,1.0,2/2,2/2,0.542373,15,2,9,29,Dan O'Rourke,Carter Sandlak,Derek Nansen,Devin Berg,1,2,2,NaN,7,4,9,NaN,away
+341,21,COL,2023020842,2024-02-15,Amalie Arena,3,31,4,0.333333,1/3,1/3,0.430556,15,9,5,26,Jean Hebert,Thomas John Luxmore,Steve Barton,Jonny Murray,1,1,1,NaN,11,11,9,NaN,away
+342,4,PHI,2023020843,2024-02-15,Scotiabank Arena,3,32,25,0.333333,1/3,1/3,0.438596,20,9,9,50,Kyle Rehman,Kendrick Nicholson,Andrew Smith,Travis Gawryletz,1,0,2,0,10,11,11,0,away
+343,22,EDM,2023020844,2024-02-15,Enterprise Center,3,38,21,0.333333,1/3,1/3,0.419355,14,14,0,12,Chris Rooney,Jordan Samuels-Thomas,Tyson Baker,Kilian McNamara,2,0,1,NaN,14,14,10,NaN,away
+344,5,PIT,2023020845,2024-02-15,United Center,4,27,4,0.0,0/1,0/1,0.638298,8,6,7,11,Ghislain Hebert,Pierre Lambert,Ryan Gibbons,Matt MacPherson,2,0,2,NaN,12,7,8,NaN,away
+345,28,SJS,2023020846,2024-02-15,Scotiabank Saddledome,6,31,12,0.333333,1/3,1/3,0.467742,18,8,5,14,Jon McIsaac,Brian Pochmara,Shandor Alphonso,Brandon Gawryletz,0,3,3,NaN,8,10,13,NaN,away
+346,25,DAL,2023020847,2024-02-15,Bridgestone Arena,9,41,4,0.666667,2/3,2/3,0.442623,18,5,7,15,Corey Syvret,Chris Lee,James Tobias,Ryan Daisy,4,3,2,NaN,18,15,8,NaN,away
+347,17,DET,2023020848,2024-02-15,Rogers Arena,1,28,6,0.0,0/5,0/5,0.444444,17,4,4,17,Eric Furlatt,Brandon Schrader,Caleb Apperson,Bryan Pancich,0,1,0,NaN,3,10,15,NaN,away
+348,12,CAR,2023020849,2024-02-16,Mullett Arena,5,30,8,0.5,1/2,1/2,0.745763,10,3,9,14,Chris Schlenker,Brandon Blandina,CJ Murray,Jesse Marquis,2,2,1,NaN,15,9,6,NaN,away
+349,22,EDM,2023020850,2024-02-17,American Airlines Center,4,24,6,0.25,1/4,1/4,0.507463,18,9,5,32,Wes McCauley,Garrett Rank,James Tobias,Ryan Daisy,0,3,0,1,7,10,6,1,away
+350,9,OTT,2023020851,2024-02-17,United Center,2,42,2,0.5,1/2,1/2,0.466667,17,5,8,23,Furman South,Michael Markovic,Travis Gawryletz,Kiel Murchison,1,1,0,NaN,7,22,13,NaN,away
+351,17,DET,2023020852,2024-02-17,Scotiabank Saddledome,5,21,16,0.4,2/5,2/5,0.597222,24,11,7,17,Jon McIsaac,Beau Halkidis,Shandor Alphonso,Caleb Apperson,2,2,1,NaN,8,8,5,NaN,away
+352,26,LAK,2023020853,2024-02-17,TD Garden,5,35,15,0.5,1/2,1/2,0.357143,19,6,10,41,Dan O'Rourke,Mitch Dunning,Michel Cormier,Matt MacPherson,1,1,2,1,16,6,12,1,away
+353,7,BUF,2023020854,2024-02-17,Xcel Energy Center,3,28,8,0.0,0/3,0/3,0.5,10,6,3,18,Frederick L'Ecuyer,Ghislain Hebert,Tyson Baker,Jonny Murray,0,0,2,1,12,3,12,1,away
+354,18,NSH,2023020855,2024-02-17,Enterprise Center,5,33,8,0.25,1/4,1/4,0.603774,17,6,4,28,Chris Lee,Pierre Lambert,Ryan Gibbons,Kilian McNamara,1,1,3,NaN,8,12,13,NaN,away
+355,13,FLA,2023020856,2024-02-17,Amalie Arena,9,30,90,0.75,3/4,3/4,0.517857,14,6,2,35,Chris Rooney,Corey Syvret,Steve Barton,Ben O'Quinn,4,2,3,NaN,14,8,8,NaN,away
+356,15,WSH,2023020857,2024-02-17,Centre Bell,4,34,6,1.0,1/1,1/1,0.423729,16,11,9,13,Francis Charron,Carter Sandlak,Bevan Mills,Derek Nansen,2,0,2,NaN,16,9,9,NaN,away
+357,24,ANA,2023020858,2024-02-17,Scotiabank Arena,2,21,29,0.333333,1/3,1/3,0.444444,13,5,7,51,Graham Skilliter,Peter MacDougall,Andrew Smith,Kyle Flemington,1,0,1,NaN,3,10,8,NaN,away
+358,4,PHI,2023020859,2024-02-17,MetLife Stadium,3,48,12,0.333333,1/3,1/3,0.4,26,7,7,41,Kelly Sutherland,Jake Brenk,Scott Cherrey,Libor Suchanek,0,2,1,NaN,9,27,12,NaN,away
+359,52,WPG,2023020860,2024-02-17,Rogers Arena,4,28,15,0.5,2/4,2/4,0.517857,18,3,5,26,Brian Pochmara,Eric Furlatt,Ryan Galloway,Bryan Pancich,0,2,2,NaN,7,13,8,NaN,away
+360,29,CBJ,2023020861,2024-02-17,SAP Center at San Jose,4,41,8,0.0,0/3,0/3,0.47619,14,6,6,16,Brandon Schrader,Steve Kozari,Julien Fournier,CJ Murray,2,1,1,NaN,16,12,13,NaN,away
+361,12,CAR,2023020862,2024-02-17,T-Mobile Arena,3,28,4,0.0,0/0,0/0,0.474576,15,5,2,20,Chris Schlenker,Trevor Hanson,Jesse Marquis,Joe Mahon,0,1,2,NaN,8,12,8,NaN,away
+362,3,NYR,2023020863,2024-02-18,MetLife Stadium,6,38,11,0.6,3/5,3/5,0.318182,9,6,4,45,Kelly Sutherland,Jake Brenk,Scott Cherrey,Libor Suchanek,1,2,2,1,7,13,16,2,away
+363,53,ARI,2023020864,2024-02-18,Ball Arena,3,30,10,0.166667,1/6,1/6,0.430769,13,5,3,8,Wes McCauley,Tom Chmielewski,Brandon Gawryletz,Mark Shewchyk,2,1,0,NaN,15,5,10,NaN,away
+364,26,LAK,2023020865,2024-02-18,PPG Paints Arena,2,34,10,0.0,0/3,0/3,0.389831,17,13,7,21,Jean Hebert,Michael Markovic,Brad Kovachik,Ryan Jackson,0,0,2,NaN,11,13,10,NaN,away
+365,24,ANA,2023020866,2024-02-19,KeyBank Center,4,14,6,0.0,0/1,0/1,0.586957,16,7,3,26,Kevin Pollock,Brandon Blandina,Andrew Smith,Dan Kelly,1,3,0,NaN,4,8,2,NaN,away
+366,25,DAL,2023020867,2024-02-19,TD Garden,3,46,9,0.0,0/2,0/2,0.522388,13,11,11,30,Francis Charron,Carter Sandlak,Derek Nansen,David Brisebois,1,1,1,0,13,22,9,2,away
+367,10,TOR,2023020868,2024-02-19,Enterprise Center,4,29,4,0.5,1/2,1/2,0.52459,26,14,5,23,Frederick L'Ecuyer,Thomas John Luxmore,James Tobias,Kiel Murchison,0,1,3,NaN,6,14,9,NaN,away
+368,23,VAN,2023020869,2024-02-19,Xcel Energy Center,7,24,14,0.333333,1/3,1/3,0.518519,17,3,3,22,Jon McIsaac,Pierre Lambert,Tyson Baker,Jonny Murray,2,3,2,NaN,4,12,8,NaN,away
+369,17,DET,2023020870,2024-02-19,Climate Pledge Arena,4,32,4,0.0,0/1,0/1,0.553571,17,9,4,9,Brian Pochmara,Steve Kozari,CJ Murray,Trent Knorr,1,2,0,1,6,15,10,1,away
+370,22,EDM,2023020871,2024-02-19,Mullett Arena,6,26,6,0.5,1/2,1/2,0.58,17,5,11,18,Kyle Rehman,Furman South,Jesse Marquis,Mark Shewchyk,2,0,4,NaN,7,7,12,NaN,away
+371,52,WPG,2023020872,2024-02-19,Scotiabank Saddledome,3,31,4,0.666667,2/3,2/3,0.596154,17,11,9,27,Graham Skilliter,Eric Furlatt,Ryan Galloway,Bryan Pancich,3,0,0,NaN,13,8,10,NaN,away
+372,54,VGK,2023020873,2024-02-19,SAP Center at San Jose,4,26,2,0.2,1/5,1/5,0.533333,25,9,8,20,Trevor Hanson,Brandon Schrader,Julien Fournier,Mitch Hunt,3,1,0,NaN,16,7,3,NaN,away
+373,16,CHI,2023020874,2024-02-19,PNC Arena,3,17,8,0.5,2/4,2/4,0.45283,16,4,12,24,Chris Rooney,Francois St-Laurent,Steve Barton,Jonathan Deschamps,0,1,2,NaN,5,4,8,NaN,away
+374,9,OTT,2023020875,2024-02-19,Amalie Arena,4,28,7,0.0,0/1,0/1,0.484848,26,13,2,32,Corey Syvret,Chris Lee,Ryan Gibbons,Ben O'Quinn,2,1,1,NaN,11,9,8,NaN,away
+375,9,OTT,2023020876,2024-02-20,Amerant Bank Arena,2,30,6,0.0,0/2,0/2,0.557377,29,4,11,26,Corey Syvret,Chris Lee,Ryan Gibbons,Caleb Apperson,0,0,2,0,10,10,9,1,away
+376,25,DAL,2023020877,2024-02-20,Madison Square Garden,1,42,8,0.25,1/4,1/4,0.45,16,5,4,13,Francis Charron,Michael Markovic,Steve Barton,David Brisebois,0,1,0,NaN,10,15,17,NaN,away
+377,2,NYI,2023020878,2024-02-20,PPG Paints Arena,5,33,6,0.0,0/2,0/2,0.421875,12,10,5,28,Jean Hebert,Carter Sandlak,Brad Kovachik,Dan Kelly,0,3,1,1,13,12,7,1,away
+378,1,NJD,2023020879,2024-02-20,Capital One Arena,2,39,2,0.0,0/2,0/2,0.62069,16,7,6,17,Chris Rooney,Francois St-Laurent,Libor Suchanek,Jonathan Deschamps,1,0,1,NaN,10,17,12,NaN,away
+379,30,MIN,2023020880,2024-02-20,Canada Life Centre,3,39,18,0.5,2/4,2/4,0.532258,17,2,6,27,Graham Skilliter,Pierre Lambert,Devin Berg,Tyson Baker,0,1,2,NaN,11,17,11,NaN,away
+380,23,VAN,2023020881,2024-02-20,Ball Arena,1,25,6,0.0,0/2,0/2,0.625,14,5,4,15,Kyle Rehman,Brandon Schrader,James Tobias,Jesse Marquis,1,0,0,NaN,7,10,8,NaN,away
+381,18,NSH,2023020882,2024-02-20,T-Mobile Arena,5,40,8,0.0,0/4,0/4,0.551724,8,8,3,40,Kendrick Nicholson,Steve Kozari,Brandon Gawryletz,Travis Gawryletz,2,2,1,NaN,11,15,14,NaN,away
+382,29,CBJ,2023020883,2024-02-20,Crypto.com Arena,1,33,4,0.0,0/3,0/3,0.473684,8,3,3,27,Wes McCauley,Furman South,Trent Knorr,Matt MacPherson,0,1,0,NaN,6,8,19,NaN,away
+383,7,BUF,2023020884,2024-02-21,Centre Bell,3,23,10,0.333333,1/3,1/3,0.346939,15,9,9,21,Kelly Sutherland,Ghislain Hebert,Michel Cormier,Kilian McNamara,0,3,0,NaN,8,11,4,NaN,away
+384,4,PHI,2023020885,2024-02-21,United Center,3,33,9,0.0,0/0,0/0,0.5,21,10,3,21,Jean Hebert,Thomas John Luxmore,Kyle Flemington,Kiel Murchison,1,2,0,NaN,16,14,3,NaN,away
+385,29,CBJ,2023020886,2024-02-21,Honda Center,7,27,17,0.0,0/2,0/2,0.468085,10,10,5,22,Wes McCauley,Kendrick Nicholson,Julien Fournier,Mark Shewchyk,3,1,3,NaN,7,13,7,NaN,away
+386,10,TOR,2023020887,2024-02-21,Mullett Arena,6,36,10,0.4,2/5,2/5,0.516667,17,2,2,21,Jake Brenk,Brandon Schrader,Brandon Gawryletz,Matt MacPherson,3,1,2,NaN,16,12,8,NaN,away
+387,6,BOS,2023020888,2024-02-21,Rogers Place,6,36,11,0.5,1/2,1/2,0.521127,24,10,14,32,Tom Chmielewski,Eric Furlatt,Bevan Mills,Ryan Galloway,1,3,1,1,14,9,10,3,away
+388,13,FLA,2023020889,2024-02-22,PNC Arena,0,45,6,0.0,0/3,0/3,0.608696,19,1,2,38,Jon McIsaac,Mitch Dunning,Libor Suchanek,Jonathan Deschamps,0,0,0,NaN,16,12,17,NaN,away
+389,21,COL,2023020890,2024-02-22,Little Caesars Arena,1,31,8,0.0,0/3,0/3,0.469388,11,7,6,15,Chris Schlenker,Francis Charron,Brad Kovachik,Dan Kelly,0,1,0,0,11,9,9,2,away
+390,3,NYR,2023020891,2024-02-22,Prudential Center,5,18,20,0.2,1/5,1/5,0.423729,30,9,3,33,Francois St-Laurent,Michael Markovic,Ryan Jackson,David Brisebois,2,2,1,NaN,8,6,4,NaN,away
+391,25,DAL,2023020892,2024-02-22,Canadian Tire Centre,1,15,10,0.0,0/1,0/1,0.388889,9,10,13,25,Kelly Sutherland,Justin Kea,Michel Cormier,Kilian McNamara,1,0,0,NaN,6,4,5,NaN,away
+392,8,MTL,2023020893,2024-02-22,PPG Paints Arena,1,31,6,0.0,0/3,0/3,0.481481,9,4,8,10,Thomas John Luxmore,Carter Sandlak,Shandor Alphonso,CJ Murray,1,0,0,NaN,14,8,9,NaN,away
+393,15,WSH,2023020894,2024-02-22,Amalie Arena,5,24,6,0.0,0/4,0/4,0.561404,11,3,3,21,Brian Pochmara,Peter MacDougall,Caleb Apperson,Jonny Murray,2,1,2,NaN,8,11,5,NaN,away
+394,2,NYI,2023020895,2024-02-22,Enterprise Center,0,38,12,0.0,0/5,0/5,0.576923,11,10,3,25,Garrett Rank,Brandon Blandina,Ryan Daisy,Bryan Pancich,0,0,0,NaN,6,20,12,NaN,away
+395,6,BOS,2023020896,2024-02-22,Scotiabank Saddledome,2,34,2,0.0,0/3,0/3,0.527273,11,5,10,25,Dan O'Rourke,Tom Chmielewski,Bevan Mills,Devin Berg,1,0,1,0,10,11,9,4,away
+396,23,VAN,2023020897,2024-02-22,Climate Pledge Arena,2,21,11,0.0,0/4,0/4,0.516667,12,6,2,12,Kendrick Nicholson,Beau Halkidis,Travis Gawryletz,Trent Knorr,1,1,0,NaN,5,7,9,NaN,away
+397,10,TOR,2023020898,2024-02-22,T-Mobile Arena,7,42,2,0.0,0/2,0/2,0.45098,22,9,3,30,Wes McCauley,Furman South,Julien Fournier,Matt MacPherson,4,2,1,NaN,23,10,9,NaN,away
+398,18,NSH,2023020899,2024-02-22,Crypto.com Arena,4,21,8,0.0,0/3,0/3,0.436364,18,1,6,23,Trevor Hanson,Jake Brenk,Brandon Gawryletz,Mark Shewchyk,1,1,2,NaN,5,11,5,NaN,away
+399,7,BUF,2023020900,2024-02-23,Nationwide Arena,2,37,6,0.0,0/4,0/4,0.530612,15,4,1,11,Chris Schlenker,Francis Charron,Shandor Alphonso,Jesse Marquis,1,0,1,NaN,16,13,8,NaN,away
+400,52,WPG,2023020901,2024-02-23,United Center,3,31,6,0.0,0/2,0/2,0.5,18,11,3,17,Garrett Rank,Carter Sandlak,Ryan Daisy,Ryan Jackson,1,1,0,1,8,15,7,1,away
+401,30,MIN,2023020902,2024-02-23,Rogers Place,4,20,4,0.0,0/4,0/4,0.321429,16,4,5,28,Dan O'Rourke,Ghislain Hebert,Bevan Mills,Devin Berg,1,0,3,NaN,7,6,7,NaN,away
+402,8,MTL,2023020903,2024-02-24,Prudential Center,3,26,4,0.0,0/0,0/0,0.396226,18,5,7,21,Thomas John Luxmore,Morgan MacPhee,James Tobias,David Brisebois,0,2,1,NaN,10,10,6,NaN,away
+403,14,TBL,2023020904,2024-02-24,UBS Arena,4,21,10,0.333333,1/3,1/3,0.509434,12,2,4,19,Jon McIsaac,Justin Kea,Jonathan Deschamps,Dan Kelly,2,1,1,NaN,9,7,5,NaN,away
+404,3,NYR,2023020905,2024-02-24,Wells Fargo Center,2,24,13,0.0,0/5,0/5,0.366667,18,1,9,35,Chris Rooney,Francois St-Laurent,CJ Murray,Brad Kovachik,0,1,1,NaN,9,10,5,NaN,away
+405,15,WSH,2023020906,2024-02-24,Amerant Bank Arena,2,24,13,0.5,2/4,2/4,0.421053,24,8,8,34,Jean Hebert,Brian Pochmara,Caleb Apperson,Jonny Murray,0,1,1,0,8,8,5,3,away
+406,25,DAL,2023020907,2024-02-24,PNC Arena,2,16,4,0.0,0/4,0/4,0.611111,25,4,8,19,Mitch Dunning,Peter MacDougall,Andrew Smith,Libor Suchanek,1,1,0,NaN,6,7,3,NaN,away
+407,10,TOR,2023020908,2024-02-24,Ball Arena,4,30,2,1.0,2/2,2/2,0.521739,24,3,3,22,Corey Syvret,Steve Kozari,Julien Fournier,Brandon Gawryletz,1,2,1,NaN,12,14,4,NaN,away
+408,19,STL,2023020909,2024-02-24,Little Caesars Arena,1,23,6,0.0,0/2,0/2,0.490566,13,2,5,21,Kelly Sutherland,Chris Lee,Tyson Baker,Bryan Pancich,0,1,0,NaN,8,5,10,NaN,away
+409,54,VGK,2023020910,2024-02-24,Canadian Tire Centre,3,29,8,0.5,1/2,1/2,0.387755,19,8,9,32,Eric Furlatt,Pierre Lambert,Scott Cherrey,Kilian McNamara,1,1,1,0,6,12,9,2,away
+410,6,BOS,2023020911,2024-02-24,Rogers Arena,2,25,4,0.0,0/4,0/4,0.405797,18,2,3,24,Frederick L'Ecuyer,Graham Skilliter,Trent Knorr,Kiel Murchison,0,2,0,0,13,7,5,0,away
+411,20,CGY,2023020912,2024-02-24,Rogers Place,6,31,34,0.25,1/4,1/4,0.5,25,4,7,32,Dan O'Rourke,Kendrick Nicholson,Steve Barton,Derek Nansen,3,2,1,NaN,12,10,9,NaN,away
+412,30,MIN,2023020913,2024-02-24,Climate Pledge Arena,5,31,19,0.333333,2/6,2/6,0.515625,22,6,2,9,Jake Brenk,Brandon Blandina,Travis Gawryletz,Matt MacPherson,2,3,0,NaN,10,9,12,NaN,away
+413,18,NSH,2023020914,2024-02-24,SAP Center at San Jose,4,35,4,0.333333,1/3,1/3,0.534483,12,6,4,14,Furman South,Tom Chmielewski,Tommy Hughes,Ben O'Quinn,1,1,2,NaN,8,15,12,NaN,away
+414,24,ANA,2023020915,2024-02-24,Crypto.com Arena,2,24,10,0.5,1/2,1/2,0.321429,13,4,2,23,Wes McCauley,Beau Halkidis,Ryan Gibbons,Mark Shewchyk,1,1,0,0,11,8,5,0,away
+415,14,TBL,2023020916,2024-02-25,Prudential Center,4,27,8,0.0,0/3,0/3,0.428571,25,13,4,15,Jon McIsaac,Francis Charron,James Tobias,Brad Kovachik,0,2,2,NaN,9,10,8,NaN,away
+416,4,PHI,2023020917,2024-02-25,PPG Paints Arena,6,21,8,0.2,1/5,1/5,0.52381,24,4,3,24,Garrett Rank,Kelly Sutherland,Shandor Alphonso,Bryan Pancich,1,3,2,NaN,7,9,5,NaN,away
+417,12,CAR,2023020918,2024-02-25,KeyBank Center,2,32,4,0.5,1/2,1/2,0.62963,25,6,6,14,Kyle Rehman,Jordan Samuels-Thomas,Jonathan Deschamps,David Brisebois,1,0,1,0,10,7,13,2,away
+418,3,NYR,2023020919,2024-02-25,Nationwide Arena,2,40,11,0.0,0/2,0/2,0.558824,16,5,0,11,Chris Schlenker,Chris Lee,Ryan Daisy,Tyson Baker,1,1,0,NaN,14,8,18,NaN,away
+419,17,DET,2023020920,2024-02-25,United Center,3,31,2,0.0,0/0,0/0,0.571429,12,8,10,11,Chris Rooney,Thomas John Luxmore,CJ Murray,Jesse Marquis,1,0,1,1,12,6,11,2,away
+420,53,ARI,2023020921,2024-02-25,Canada Life Centre,3,32,11,0.5,1/2,1/2,0.462963,17,6,10,30,Ghislain Hebert,Cody Beach,Bevan Mills,Devin Berg,1,1,1,0,10,11,10,1,away
+421,18,NSH,2023020922,2024-02-25,Honda Center,4,29,11,0.0,0/4,0/4,0.537037,21,5,7,27,Trevor Hanson,Steve Kozari,Tommy Hughes,Ben O'Quinn,0,1,3,NaN,7,13,9,NaN,away
+422,9,OTT,2023020923,2024-02-26,Capital One Arena,3,21,6,0.0,0/1,0/1,0.509434,7,10,2,29,Jon McIsaac,Mitch Dunning,Andrew Smith,James Tobias,2,1,0,NaN,9,6,6,NaN,away
+423,2,NYI,2023020924,2024-02-26,American Airlines Center,3,28,2,0.0,0/3,0/3,0.482759,26,8,3,36,Brian Pochmara,Brandon Schrader,Ryan Galloway,Joe Mahon,1,1,0,1,10,13,4,1,away
+424,26,LAK,2023020925,2024-02-26,Rogers Place,2,40,6,0.0,0/2,0/2,0.482759,15,8,7,39,Graham Skilliter,Kendrick Nicholson,Steve Barton,Derek Nansen,1,1,0,NaN,11,15,14,NaN,away
+425,6,BOS,2023020926,2024-02-26,Climate Pledge Arena,3,32,10,1.0,1/1,1/1,0.603448,21,8,6,9,Frederick L'Ecuyer,Brandon Blandina,Ryan Gibbons,Ben O'Quinn,1,1,1,0,11,10,9,2,away
+426,15,WSH,2023020927,2024-02-27,Little Caesars Arena,3,21,6,0.5,1/2,1/2,0.354167,14,4,11,14,Kyle Rehman,Jordan Samuels-Thomas,Shandor Alphonso,Tyson Baker,0,2,1,NaN,5,6,10,NaN,away
+427,7,BUF,2023020928,2024-02-27,Amerant Bank Arena,2,30,14,0.25,1/4,1/4,0.394366,14,8,9,21,Thomas John Luxmore,Michael Markovic,Brandon Gawryletz,Kilian McNamara,1,0,1,NaN,9,8,13,NaN,away
+428,53,ARI,2023020929,2024-02-27,Centre Bell,2,38,0,0.0,0/3,0/3,0.425532,12,1,17,18,Eric Furlatt,Pierre Lambert,Jonathan Deschamps,Dan Kelly,0,1,1,NaN,11,16,11,NaN,away
+429,14,TBL,2023020930,2024-02-27,Wells Fargo Center,2,22,6,0.0,0/2,0/2,0.537313,11,3,11,27,Francis Charron,Mitch Dunning,Trent Knorr,Bryan Pancich,0,1,1,NaN,5,11,6,NaN,away
+430,54,VGK,2023020931,2024-02-27,Scotiabank Arena,6,32,2,0.0,0/4,0/4,0.464286,23,5,5,39,Garrett Rank,Peter MacDougall,Brad Kovachik,Mark Shewchyk,0,3,3,NaN,9,11,12,NaN,away
+431,12,CAR,2023020932,2024-02-27,Xcel Energy Center,3,28,8,0.0,0/2,0/2,0.644068,8,2,4,19,Corey Syvret,Chris Lee,Libor Suchanek,Ryan Daisy,1,1,1,NaN,13,6,9,NaN,away
+432,9,OTT,2023020933,2024-02-27,Bridgestone Arena,1,25,11,0.5,1/2,1/2,0.4375,25,7,18,16,Chris Rooney,Brandon Schrader,Ryan Galloway,Jonny Murray,1,0,0,NaN,14,11,0,NaN,away
+433,19,STL,2023020934,2024-02-27,Canada Life Centre,2,38,11,0.0,0/3,0/3,0.633333,15,6,4,15,Jean Hebert,Ghislain Hebert,Scott Cherrey,Michel Cormier,1,1,0,NaN,12,15,11,NaN,away
+434,26,LAK,2023020935,2024-02-27,Scotiabank Saddledome,2,23,6,0.0,0/3,0/3,0.490566,22,12,17,20,Trevor Hanson,Carter Sandlak,Derek Nansen,Caleb Apperson,0,2,0,NaN,3,7,13,NaN,away
+435,25,DAL,2023020936,2024-02-27,Ball Arena,1,34,4,0.0,0/2,0/2,0.509804,12,6,1,12,Chris Schlenker,Tom Chmielewski,Travis Gawryletz,Jesse Marquis,1,0,0,NaN,11,15,8,NaN,away
+436,5,PIT,2023020937,2024-02-27,Rogers Arena,4,40,8,0.2,1/5,1/5,0.5,17,5,9,23,Kendrick Nicholson,Cody Beach,Bevan Mills,Tommy Hughes,0,2,1,1,9,12,12,7,away
+437,1,NJD,2023020938,2024-02-27,SAP Center at San Jose,7,44,2,0.0,0/2,0/2,0.54717,12,10,7,11,Frederick L'Ecuyer,Brandon Blandina,Ryan Gibbons,Kiel Murchison,0,3,4,NaN,13,18,13,NaN,away
+438,29,CBJ,2023020939,2024-02-28,Madison Square Garden,1,31,11,0.0,0/2,0/2,0.454545,19,3,5,13,Francis Charron,Furman South,Trent Knorr,Bryan Pancich,0,0,1,NaN,9,10,12,NaN,away
+439,19,STL,2023020940,2024-02-28,Rogers Place,2,34,4,0.333333,1/3,1/3,0.474576,24,12,12,28,Trevor Hanson,Carter Sandlak,Tommy Hughes,Caleb Apperson,2,0,0,0,8,12,10,4,away
+440,54,VGK,2023020941,2024-02-29,TD Garden,4,36,4,0.0,0/2,0/2,0.545455,21,14,10,31,Chris Rooney,Jake Brenk,Brad Kovachik,Bryan Pancich,0,3,1,NaN,8,15,13,NaN,away
+441,12,CAR,2023020942,2024-02-29,Nationwide Arena,4,33,6,0.0,0/1,0/1,0.607143,11,2,2,5,Pierre Lambert,Brandon Blandina,James Tobias,Ryan Galloway,0,3,1,NaN,7,13,13,NaN,away
+442,2,NYI,2023020943,2024-02-29,Little Caesars Arena,5,27,4,0.333333,1/3,1/3,0.555556,21,5,5,19,Kyle Rehman,Corey Syvret,Devin Berg,David Brisebois,2,0,3,NaN,9,7,11,NaN,away
+443,8,MTL,2023020944,2024-02-29,Amerant Bank Arena,3,31,12,0.25,1/4,1/4,0.4375,19,5,8,25,Tom Chmielewski,Michael Markovic,Brandon Gawryletz,Kilian McNamara,1,1,1,0,11,9,9,2,away
+444,7,BUF,2023020945,2024-02-29,Amalie Arena,3,23,6,0.666667,2/3,2/3,0.425532,11,10,3,31,Francois St-Laurent,Thomas John Luxmore,Julien Fournier,Matt MacPherson,1,0,1,1,5,7,9,2,away
+445,53,ARI,2023020946,2024-02-29,Scotiabank Arena,2,32,17,0.0,0/0,0/0,0.5,16,6,14,44,Kendrick Nicholson,Morgan MacPhee,Steve Barton,Dan Kelly,0,1,1,NaN,9,10,13,NaN,away
+446,52,WPG,2023020947,2024-02-29,American Airlines Center,1,26,4,1.0,1/1,1/1,0.412698,15,6,3,36,Dan O'Rourke,Brandon Schrader,Jesse Marquis,Jonny Murray,0,1,0,NaN,12,8,6,NaN,away
+447,30,MIN,2023020948,2024-02-29,Bridgestone Arena,1,34,13,0.0,0/3,0/3,0.526316,9,5,4,20,Kelly Sutherland,Furman South,Andrew Smith,Travis Gawryletz,1,0,0,NaN,7,10,17,NaN,away
+448,21,COL,2023020949,2024-02-29,United Center,5,33,7,1.0,1/1,1/1,0.425532,10,2,4,20,Eric Furlatt,Chris Lee,Libor Suchanek,CJ Murray,1,3,1,NaN,10,11,12,NaN,away
+449,5,PIT,2023020950,2024-02-29,Climate Pledge Arena,0,33,8,0.0,0/3,0/3,0.490566,11,13,4,16,Chris Schlenker,Graham Skilliter,Bevan Mills,Tyson Baker,0,0,0,NaN,18,10,5,NaN,away
+450,26,LAK,2023020951,2024-02-29,Rogers Arena,5,20,8,0.5,1/2,1/2,0.528302,23,3,3,24,Jean Hebert,Carter Sandlak,Scott Cherrey,Michel Cormier,1,1,3,NaN,7,7,6,NaN,away
+451,24,ANA,2023020952,2024-02-29,SAP Center at San Jose,6,30,14,0.4,2/5,2/5,0.464789,15,10,5,8,Frederick L'Ecuyer,Steve Kozari,Ryan Gibbons,Kiel Murchison,2,3,1,NaN,7,10,13,NaN,away
+452,53,ARI,2023020953,2024-03-01,Canadian Tire Centre,5,30,10,0.5,2/4,2/4,0.476923,14,5,10,36,Mitch Dunning,Ghislain Hebert,Steve Barton,Derek Nansen,3,0,2,NaN,18,4,8,NaN,away
+453,4,PHI,2023020954,2024-03-01,Capital One Arena,2,23,10,0.333333,1/3,1/3,0.52459,12,6,9,30,Jon McIsaac,Pierre Lambert,Trent Knorr,Mark Shewchyk,2,0,0,NaN,11,5,7,NaN,away
+454,1,NJD,2023020955,2024-03-01,Honda Center,3,55,19,0.5,2/4,2/4,0.535211,10,4,8,11,Frederick L'Ecuyer,Graham Skilliter,Caleb Apperson,Kiel Murchison,1,1,1,NaN,19,14,22,NaN,away
+455,52,WPG,2023020956,2024-03-02,PNC Arena,5,32,8,0.2,1/5,1/5,0.409091,11,9,5,20,Tom Chmielewski,Jake Brenk,Brandon Gawryletz,Travis Gawryletz,0,0,5,NaN,11,9,12,NaN,away
+456,6,BOS,2023020957,2024-03-02,UBS Arena,1,23,8,0.0,0/2,0/2,0.384615,11,0,9,37,Francois St-Laurent,Pierre Lambert,Mark Shewchyk,Dan Kelly,0,1,0,NaN,8,6,9,NaN,away
+457,22,EDM,2023020958,2024-03-02,Climate Pledge Arena,2,24,6,0.0,0/2,0/2,0.44,21,8,3,8,Jean Hebert,Carter Sandlak,Tyson Baker,David Brisebois,0,1,1,NaN,9,8,7,NaN,away
+458,21,COL,2023020959,2024-03-02,Bridgestone Arena,1,26,8,0.0,0/1,0/1,0.468085,21,15,27,19,Jon McIsaac,Brandon Schrader,CJ Murray,Kilian McNamara,1,0,0,NaN,10,9,7,NaN,away
+459,54,VGK,2023020960,2024-03-02,KeyBank Center,2,24,7,0.5,1/2,1/2,0.540984,27,7,2,37,Chris Lee,Brandon Blandina,Ryan Daisy,Devin Berg,0,2,0,NaN,9,8,7,NaN,away
+460,13,FLA,2023020961,2024-03-02,Little Caesars Arena,4,37,30,0.4,2/5,2/5,0.519231,14,5,1,40,Garrett Rank,Kendrick Nicholson,Ryan Galloway,Ben O'Quinn,0,2,2,NaN,9,12,16,NaN,away
+461,9,OTT,2023020962,2024-03-02,Wells Fargo Center,2,26,10,0.0,0/5,0/5,0.574074,13,3,7,25,Brian Pochmara,Peter MacDougall,Tommy Hughes,Brad Kovachik,0,1,1,NaN,4,14,8,NaN,away
+462,8,MTL,2023020963,2024-03-02,Amalie Arena,3,31,9,0.0,0/2,0/2,0.491228,13,6,1,24,Dan O'Rourke,Michael Markovic,Julien Fournier,Matt MacPherson,2,0,1,0,11,6,13,1,away
+463,3,NYR,2023020964,2024-03-02,Scotiabank Arena,3,35,13,0.0,0/3,0/3,0.418919,13,8,10,45,Mitch Dunning,Ghislain Hebert,Shandor Alphonso,James Tobias,1,1,1,0,10,6,14,5,away
+464,29,CBJ,2023020965,2024-03-02,United Center,5,31,6,0.0,0/2,0/2,0.469388,14,6,3,13,Kelly Sutherland,Corey Syvret,Andrew Smith,Jonathan Deschamps,2,2,1,NaN,13,13,5,NaN,away
+465,28,SJS,2023020966,2024-03-02,American Airlines Center,2,23,10,0.0,0/2,0/2,0.328125,22,8,5,37,Wes McCauley,Furman South,Jesse Marquis,Jonny Murray,1,1,0,0,6,5,9,3,away
+466,30,MIN,2023020967,2024-03-02,Enterprise Center,1,22,14,0.0,0/2,0/2,0.571429,13,12,2,24,Kyle Rehman,Eric Furlatt,Libor Suchanek,Bryan Pancich,0,1,0,NaN,7,5,10,NaN,away
+467,5,PIT,2023020968,2024-03-02,Scotiabank Saddledome,3,30,10,0.2,1/5,1/5,0.614035,21,13,11,18,Francis Charron,Steve Kozari,Scott Cherrey,Michel Cormier,2,0,1,NaN,14,10,6,NaN,away
+468,53,ARI,2023020969,2024-03-03,Capital One Arena,5,28,14,0.333333,2/6,2/6,0.542373,11,10,11,18,Tom Chmielewski,Jake Brenk,Travis Gawryletz,Derek Nansen,1,3,1,NaN,10,13,5,NaN,away
+469,1,NJD,2023020970,2024-03-03,Crypto.com Arena,1,31,6,0.0,0/2,0/2,0.47619,13,4,0,25,Trevor Hanson,Graham Skilliter,Ryan Gibbons,Caleb Apperson,1,0,0,NaN,11,6,14,NaN,away
+470,52,WPG,2023020971,2024-03-03,KeyBank Center,5,35,4,0.0,0/2,0/2,0.508197,19,5,1,23,Mitch Dunning,Chris Lee,James Tobias,Ryan Daisy,1,0,4,NaN,13,8,14,NaN,away
+471,28,SJS,2023020972,2024-03-03,Xcel Energy Center,3,15,8,0.5,1/2,1/2,0.442308,13,3,2,31,Garrett Rank,Kelly Sutherland,Andrew Smith,Jonathan Deschamps,0,2,1,NaN,3,7,5,NaN,away
+472,23,VAN,2023020973,2024-03-03,Honda Center,2,31,2,0.0,0/2,0/2,0.627907,15,2,6,17,Chris Rooney,Jean Hebert,Tyson Baker,David Brisebois,1,1,0,NaN,14,8,9,NaN,away
+473,5,PIT,2023020974,2024-03-03,Rogers Place,1,23,6,0.0,0/2,0/2,0.425926,17,14,11,29,Francis Charron,Steve Kozari,Scott Cherrey,Michel Cormier,0,0,1,NaN,8,6,9,NaN,away
+474,54,VGK,2023020975,2024-03-04,Nationwide Arena,3,39,4,0.0,0/1,0/1,0.548387,16,4,3,14,Francois St-Laurent,Furman South,Ben O'Quinn,Kilian McNamara,2,0,1,NaN,11,13,15,NaN,away
+475,13,FLA,2023020976,2024-03-04,Madison Square Garden,4,30,8,0.333333,1/3,1/3,0.542373,16,5,2,22,Wes McCauley,Peter MacDougall,Derek Nansen,Mark Shewchyk,0,2,2,NaN,7,11,12,NaN,away
+476,19,STL,2023020977,2024-03-04,Wells Fargo Center,2,25,4,0.0,0/3,0/3,0.490909,14,6,8,16,Brian Pochmara,Pierre Lambert,Brandon Gawryletz,Matt MacPherson,0,1,0,0,6,13,5,1,away
+477,6,BOS,2023020978,2024-03-04,Scotiabank Arena,4,27,8,0.5,1/2,1/2,0.469388,10,7,13,43,Jon McIsaac,Eric Furlatt,Ryan Daisy,Devin Berg,2,1,1,NaN,13,7,7,NaN,away
+478,16,CHI,2023020979,2024-03-04,Ball Arena,0,37,4,0.0,0/4,0/4,0.477612,11,4,2,21,Graham Skilliter,Carter Sandlak,Bevan Mills,Libor Suchanek,0,0,0,NaN,15,8,14,NaN,away
+479,55,SEA,2023020980,2024-03-04,Scotiabank Saddledome,4,30,23,0.0,0/4,0/4,0.472222,24,12,6,22,Chris Schlenker,Steve Kozari,Scott Cherrey,Michel Cormier,1,1,2,NaN,11,9,10,NaN,away
+480,22,EDM,2023020981,2024-03-05,TD Garden,2,26,4,0.0,0/2,0/2,0.574468,11,5,6,29,Kelly Sutherland,Brandon Blandina,Brandon Gawryletz,Matt MacPherson,0,0,1,1,9,8,8,1,away
+481,13,FLA,2023020982,2024-03-05,Prudential Center,5,31,6,0.5,1/2,1/2,0.478261,19,7,4,14,Tom Chmielewski,Pierre Lambert,Julien Fournier,Dan Kelly,2,1,2,NaN,11,9,11,NaN,away
+482,29,CBJ,2023020983,2024-03-05,PPG Paints Arena,3,35,6,0.0,0/1,0/1,0.432836,25,7,6,18,Mitch Dunning,Ghislain Hebert,Steve Barton,Ben O'Quinn,0,2,1,NaN,6,16,13,NaN,away
+483,19,STL,2023020984,2024-03-05,UBS Arena,2,21,0,0.0,0/1,0/1,0.317073,17,8,9,16,Wes McCauley,Peter MacDougall,Tommy Hughes,Derek Nansen,0,2,0,NaN,8,5,8,NaN,away
+484,8,MTL,2023020985,2024-03-05,Bridgestone Arena,4,30,9,0.0,0/2,0/2,0.461538,15,2,6,21,Trevor Hanson,Brian Pochmara,Ryan Gibbons,James Tobias,0,2,1,1,11,11,7,1,away
+485,55,SEA,2023020986,2024-03-05,Canada Life Centre,4,24,4,1.0,1/1,1/1,0.446809,20,3,8,33,Francis Charron,Garrett Rank,Andrew Smith,Jonathan Deschamps,1,1,2,NaN,7,10,7,NaN,away
+486,16,CHI,2023020987,2024-03-05,Mullett Arena,5,32,4,0.8,4/5,4/5,0.508197,14,5,9,26,Graham Skilliter,Brandon Schrader,Shandor Alphonso,Caleb Apperson,1,3,1,NaN,12,13,7,NaN,away
+487,23,VAN,2023020988,2024-03-05,Crypto.com Arena,2,31,2,0.0,0/2,0/2,0.644068,12,2,3,31,Chris Rooney,Dan O'Rourke,Bevan Mills,David Brisebois,0,1,0,1,5,16,9,1,away
+488,25,DAL,2023020989,2024-03-05,SAP Center at San Jose,7,40,8,0.666667,2/3,2/3,0.513514,14,8,12,11,Jean Hebert,Thomas John Luxmore,Kyle Flemington,Tyson Baker,2,1,3,1,20,5,13,2,away
+489,7,BUF,2023020990,2024-03-06,Scotiabank Arena,1,25,2,0.0,0/2,0/2,0.392157,8,7,16,34,Jon McIsaac,Michael Markovic,Scott Cherrey,Mark Shewchyk,0,1,0,0,10,9,3,3,away
+490,17,DET,2023020991,2024-03-06,Ball Arena,2,29,18,0.5,1/2,1/2,0.471429,22,6,3,27,Dan O'Rourke,Steve Kozari,Ryan Galloway,David Brisebois,2,0,0,NaN,15,6,8,NaN,away
+491,9,OTT,2023020992,2024-03-06,Honda Center,1,30,10,0.0,0/3,0/3,0.6,14,6,11,15,Chris Schlenker,Chris Rooney,Shandor Alphonso,Kyle Flemington,1,0,0,NaN,8,4,18,NaN,away
+492,10,TOR,2023020993,2024-03-07,TD Garden,1,29,26,0.25,1/4,1/4,0.603448,12,4,10,43,Francis Charron,Jake Brenk,Derek Nansen,Brad Kovachik,0,1,0,NaN,7,12,10,NaN,away
+493,8,MTL,2023020994,2024-03-07,PNC Arena,1,25,10,0.0,0/5,0/5,0.4,24,8,13,15,Francois St-Laurent,Frederick L'Ecuyer,Ryan Jackson,Jonny Murray,1,0,0,NaN,7,11,7,NaN,away
+494,22,EDM,2023020995,2024-03-07,Nationwide Arena,2,31,9,0.333333,1/3,1/3,0.54717,15,2,4,19,Tom Chmielewski,Mitch Dunning,Ryan Gibbons,Tommy Hughes,0,1,1,NaN,11,10,10,NaN,away
+495,4,PHI,2023020996,2024-03-07,Amerant Bank Arena,2,26,4,0.0,0/1,0/1,0.45283,29,6,4,38,Ghislain Hebert,Brandon Schrader,James Tobias,Dan Kelly,0,1,1,NaN,6,8,12,NaN,away
+496,19,STL,2023020997,2024-03-07,Prudential Center,1,24,4,0.0,0/3,0/3,0.52459,15,7,6,9,Kendrick Nicholson,Brandon Blandina,Ryan Daisy,Joe Mahon,0,1,0,NaN,5,11,8,NaN,away
+497,15,WSH,2023020998,2024-03-07,PPG Paints Arena,6,29,13,0.2,1/5,1/5,0.516129,20,2,8,13,Trevor Hanson,Peter MacDougall,Julien Fournier,Steve Barton,1,4,1,NaN,15,9,5,NaN,away
+498,20,CGY,2023020999,2024-03-07,Amalie Arena,6,24,10,0.0,0/3,0/3,0.301887,21,8,7,29,Wes McCauley,Jordan Samuels-Thomas,Jesse Marquis,Devin Berg,1,3,2,NaN,7,8,9,NaN,away
+499,7,BUF,2023021000,2024-03-07,Bridgestone Arena,2,28,6,0.0,0/3,0/3,0.457627,8,9,16,16,Brian Pochmara,Justin Kea,CJ Murray,Ben O'Quinn,1,0,1,NaN,9,7,12,NaN,away
