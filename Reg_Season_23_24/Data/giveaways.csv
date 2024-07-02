@@ -1,4 +1,4 @@
-,game_id,period,event_id,time_in_period,time_remaining,situation_code,home_def_code,type_code,event_name,event_owner_team_i,zone_code,x_coord,y_coord,give_player_id
+,game_id,period,event_id,time_in_period,time_remaining,situation_code,home_def_code,type_code,event_name,event_owner_team_id,zone_code,x_coord,y_coord,give_player_id
 0,2023020001,1,104,00:58,19:02,1551,left,504,giveaway,18,D,57,30,8482062
 1,2023020001,1,108,05:21,14:39,1551,left,504,giveaway,14,N,-22,-14,8480246
 2,2023020001,1,123,11:57,08:03,1551,left,504,giveaway,14,O,30,22,8475167

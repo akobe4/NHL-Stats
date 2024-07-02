@@ -1,4 +1,4 @@
-,game_id,period,event_id,time_in_period,time_remaining,situation_code,home_def_code,type_code,event_name,event_owner_team_i,zone_code,x_coord,y_coord,take_player_id
+,game_id,period,event_id,time_in_period,time_remaining,situation_code,home_def_code,type_code,event_name,event_owner_team_id,zone_code,x_coord,y_coord,take_player_id
 0,2023020001,1,106,02:25,17:35,1551,left,525,takeaway,18,D,79,-27,8474151
 1,2023020001,1,110,05:35,14:25,1551,left,525,takeaway,14,O,31,30,8477426
 2,2023020001,1,111,07:25,12:35,1551,left,525,takeaway,18,D,30,6,8482062
