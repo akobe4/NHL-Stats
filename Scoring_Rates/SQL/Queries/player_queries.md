@@ -55,4 +55,14 @@ included limit 12 to get all players with 9 multi-goal games
 ![Alt text](image-4.png)
 
 
-
+**Goalies with most Shut-outs**
+```SQL 
+SELECT player_name
+	  ,team_code
+,CASE 
+	WHEN shots = saves THEN 'YES'
+ELSE
+	'NO'
+END AS "shutout"
+FROM goalies
+```
