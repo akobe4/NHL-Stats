@@ -11,6 +11,9 @@ Please see each folder for a more detailed README
 
 **Folders**
 - Graphing Shot Locations
+- Player Info 2023-2024
+- Regular Season 2023-2024
+- Scoring Rates
 
 
 
