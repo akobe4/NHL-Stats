@@ -9,3 +9,4 @@ Game 2023010071 - preseason game MTL @ TOR
 - when graphing shots there was one blocked shot (event_id 242) that seemed to have been taken from the defensive zone – video was reviewed and it was determined that the play-by-play was incorrectly recorded as a MTL shot blocked by TOR, when it should have been a TOR shot blocked by MTL. Team id was updated.
 - teams switch ends after each period and shoot at both nets, coordinate data was transformed so all shots were on the same net 
 - rink image link: https://www.istockphoto.com/vector/hockey-rink-hockey-field-ice-arena-for-nhl-and-winter-sport-game-ice-pitch-in-top-gm1353575675-428636223?clarity=false 
+- the following link is mentioned in the Notebook, but is where the code came from for graphing on the rink: https://towardsdatascience.com/nhl-analytics-with-python-6390c5d3206d
