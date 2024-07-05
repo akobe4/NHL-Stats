@@ -270,3 +270,18 @@ FROM 'C:\Users\akobe\OneDrive\Desktop\Lighthouse\After\NHL-Stats\Reg_Season_23_2
 DELIMITER ','
 CSV Header;
 ```
+
+**Teams Data Table**
+```SQL 
+CREATE TABLE teams(
+		team_id int
+	   ,team char(3)
+);
+```
+
+```SQL
+COPY teams
+FROM 'C:\Users\akobe\OneDrive\Desktop\Lighthouse\After\NHL-Stats\Reg_Season_23_24\Data\teams.csv'
+DELIMITER ','
+CSV Header;
+```
