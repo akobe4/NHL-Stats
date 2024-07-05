@@ -214,3 +214,59 @@ FROM 'C:\Users\akobe\OneDrive\Desktop\Lighthouse\After\NHL-Stats\Reg_Season_23_2
 DELIMITER ','
 CSV Header;
 ```
+
+**Standings Data Table**
+```SQL 
+CREATE TABLE standings (
+	  season_id int
+	 ,game_type_id int
+	 ,team char(3)
+	 ,conference varchar(20)
+	 ,division varchar(20)
+	 ,league_standing int
+	 ,conf_standing int
+	 ,div_standing int
+	 ,games_played int
+	 ,goal_diff int
+	 ,goal_diff_pctg decimal(4,3)
+	 ,goals_against int
+	 ,goals_for int
+	 ,goals_for_pctg decimal(4,3)
+	 ,losses int
+	 ,ot_losses int
+	 ,points_pctg decimal(4,3)
+	 ,points int
+	 ,reg_wins int 
+	 ,reg_ot_wins int
+	 ,reg_win_pctg decimal(4,3)
+	 ,so_losses int
+	 ,so_wins int
+	 ,win_pctg decimal(4,3)
+	 ,wins int
+	 ,home_goal_diff int 
+	 ,home_goals_against int 
+	 ,home_goals_for int 
+	 ,home_losses int
+	 ,home_ot_losses int
+	 ,home_points int
+	 ,home_reg_wins int
+	 ,home_reg_ot_wins int
+	 ,home_wins int
+	 ,road_goal_diff int
+	 ,road_goals_against int
+	 ,road_goals_for int
+	 ,road_losses int
+	 ,road_ot_losses int
+	 ,road_points int
+	 ,road_reg_wins int
+	 ,road_reg_ot_wins int
+	 ,road_wins int
+);
+```
+
+```SQL
+COPY standings
+FROM 'C:\Users\akobe\OneDrive\Desktop\Lighthouse\After\NHL-Stats\Reg_Season_23_24\Data\standings_data.csv'
+DELIMITER ','
+CSV Header;
+```
