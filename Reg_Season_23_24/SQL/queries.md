@@ -17,3 +17,22 @@ Output
 
 
 
+**Empty Net Goals on the Season**
+total number of empty net goals scored by player
+
+```SQL 
+SELECT r.first_name || ' ' || r.last_name AS player_name
+	,COUNT(g.score_player_id) AS no_of_goals
+FROM goals g 
+LEFT JOIN roster r ON g.score_player_id = r.player_id
+WHERE goalie_in_id IS NULL 
+GROUP BY player_name
+ORDER BY no_of_goals DESC
+;
+```
+
+Output 
+
+![alt text](image-1.png)
+
+
