@@ -1,10 +1,14 @@
 # NHL-Stats
 
 This repository will be an interest project looking at different NHL stats, and will be a continued work in progress. 
-All data pulled from the NHL API (https://statsapi.web.nhl.com).
+
+2022-2023 season data pulled from the NHL API (https://statsapi.web.nhl.com).
+- Scoring_rates
+- Graphing_Shot_Locations
 
 New NHL API - data pulled in 2024 from https://api-web.nhle.com. 
-
+- Player_Info_23_24
+- Reg_Season_23_24
 
 Please see each folder for a more detailed README
 
