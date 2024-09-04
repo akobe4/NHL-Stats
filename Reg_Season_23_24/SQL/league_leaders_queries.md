@@ -48,7 +48,7 @@ Matthew Tkachuk lead the league in penalties drawn, with 50.
 
 
 **4. Who lead the league in hits? How many?**
-```
+```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
 	,COUNT(h.hitter_id) AS total_hits
 FROM hits h
@@ -64,30 +64,64 @@ Jeremy Lauzon lead the league in hits with 383.
 ![alt text](image-5.png)
 
 **5. Who lead the league in blocked shots? How many?**
+```SQL
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,COUNT(s.event_name) AS blocked_shots
+FROM shots s 
+LEFT JOIN roster r ON s.block_player_id = r.player_id
+WHERE s.event_name LIKE 'blocked_shot' 
+GROUP BY player_name
+ORDER BY blocked_shots DESC;
+```
 
+Colton Parayko leads the league in blocked shots with 218.
+
+**Results**
+
+![alt text](image-6.png)
 
 **6. Who lead the league in faceoff wins? How many?**
+```SQL
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,COUNT(f.w_player_id) AS faceoff_wins
+FROM faceoffs f 
+LEFT JOIN roster r ON f.w_player_id = r.player_id
+GROUP BY player_name
+ORDER BY faceoff_wins DESC;
+```
 
+Sidney Crosby lead the league in faceoff wins with 1090. 
+
+**Results**
+
+![alt text](image-7.png)
 
 **7. Who had the most game winning goals? How many?**
+```SQL
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,SUM(s.game_winning_goals) AS total_game_winners
+FROM skater_game_data s
+LEFT JOIN roster r ON s.player_id=r.player_id
+GROUP BY player_name
+ORDER BY total_game_winners DESC;
+```
 
+Brayden Point lead the league in game winning goals with 12. 
+
+**Results**
+
+![alt text](image-8.png)
 
 **8. Who lead the league with average time on ice?**
 
 
-**9. Who was on the ice for the most goals against?**
+**9. Who lead the league in shooting percentage?**
 
 
-**10. Who was on the ice for most goals for?**
+**10. Who lead the league in takeaways? How many?**
 
 
-**11. Who lead the league in shooting percentage?**
+**11. Who had the most giveaways? How many?**
 
 
-**12. Who lead the league in takeaways? How many?**
-
-
-**13. Who had the most giveaways? How many?**
-
-
-**14. Who lead the league in penalty minutes? How many?**
+**12. Who lead the league in penalty minutes? How many?**
