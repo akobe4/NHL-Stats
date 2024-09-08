@@ -119,9 +119,37 @@ Brayden Point lead the league in game winning goals with 12.
 
 
 **10. Who lead the league in takeaways? How many?**
+```SQL
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,COUNT(t.take_player_id) AS number_takeaways
+FROM takeaways t 
+LEFT JOIN roster r ON t.take_player_id = r.player_id
+GROUP BY player_name 
+ORDER BY number_takeaways DESC;
+```
 
+Evgeni Malkin lead the league in takeaways with 90. 
+
+**Results**
+
+![alt text](image-9.png)
 
 **11. Who had the most giveaways? How many?**
 
+```SQL
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,COUNT(g.give_player_id) AS total_giveaways
+FROM giveaways g
+LEFT JOIN roster r ON g.give_player_id = r.player_id
+GROUP BY player_name
+ORDER BY total_giveaways DESC;
+```
+
+David Patrnak lead the league in giveaways with 98. 
+
+**Results**
+
+![alt text](image-10.png)
 
 **12. Who lead the league in penalty minutes? How many?**
+
