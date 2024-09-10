@@ -4,7 +4,7 @@ All answers are for the 2023-2024 regular season
 **1. Who lead the league in save percentage?**
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,SUM(g.shots_against)/(SUM(shots_against)+SUM(goals_against))  AS save_percentage --this line not working
+	,SUM(g.shots_against)/(SUM(g.shots_against)+SUM(g.goals_against))  AS save_percentage --this line not working, work with CAST function
 FROM goalie_game_data g
 LEFT JOIN roster r ON g.player_id = r.player_id
 GROUP BY player_name
@@ -156,5 +156,20 @@ David Patrnak lead the league in giveaways with 98.
 ![alt text](image-9.png)
 
 
-**12. Who lead the league in penalty minutes? How many?**
+**12. Who drew the most penalties? How many?**
+```SQL 
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,COUNT(p.drawn_by_player_id) AS total_penl_drawn
+FROM penalties p 
+RIGHT JOIN roster r ON p.drawn_by_player_id = r.player_id
+GROUP BY player_name
+ORDER BY total_penl_drawn DESC;
+```
+
+Matthew Tkachuk drew the most penalties with 50. 
+
+
+**Results**
+
+![alt text](image-10.png)
 
