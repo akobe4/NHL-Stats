@@ -33,24 +33,24 @@ Travis Konecny lead the league with 6 short-handed goals
 **3. Who lead the league in penalties drawn? How many?**
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,COUNT(p.drawn_by_player_id) AS penalties_drawn
+	,COUNT(r.player_id) AS penalties_drawn
 FROM penalties p 
 LEFT JOIN roster r ON p.drawn_by_player_id = r.player_id
 GROUP BY player_name
-ORDER BY penalties_drawn DESC;
+ORDER BY penalties_drawn DESC;;
 ```
 
 Matthew Tkachuk lead the league in penalties drawn, with 50. 
 
 **Results**
 
-![alt text](image-4.png)
+![alt text](image-11.png)
 
 
 **4. Who lead the league in hits? How many?**
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,COUNT(h.hitter_id) AS total_hits
+	,COUNT(r.player_id) AS total_hits
 FROM hits h
 LEFT JOIN roster r ON h.hitter_id = r.player_id
 GROUP BY player_name
@@ -61,12 +61,13 @@ Jeremy Lauzon lead the league in hits with 383.
 
 **Results**
 
-![alt text](image-5.png)
+![alt text](image-4.png)
+
 
 **5. Who lead the league in blocked shots? How many?**
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,COUNT(s.event_name) AS blocked_shots
+	,COUNT(r.player_id) AS blocked_shots
 FROM shots s 
 LEFT JOIN roster r ON s.block_player_id = r.player_id
 WHERE s.event_name LIKE 'blocked_shot' 
@@ -78,12 +79,13 @@ Colton Parayko leads the league in blocked shots with 218.
 
 **Results**
 
-![alt text](image-6.png)
+![alt text](image-5.png)
+
 
 **6. Who lead the league in faceoff wins? How many?**
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,COUNT(f.w_player_id) AS faceoff_wins
+	,COUNT(r.player_id) AS faceoff_wins
 FROM faceoffs f 
 LEFT JOIN roster r ON f.w_player_id = r.player_id
 GROUP BY player_name
@@ -94,7 +96,8 @@ Sidney Crosby lead the league in faceoff wins with 1090.
 
 **Results**
 
-![alt text](image-7.png)
+![alt text](image-6.png)
+
 
 **7. Who had the most game winning goals? How many?**
 ```SQL
@@ -121,7 +124,7 @@ Brayden Point lead the league in game winning goals with 12.
 **10. Who lead the league in takeaways? How many?**
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,COUNT(t.take_player_id) AS number_takeaways
+	,COUNT(r.player_id) AS number_takeaways
 FROM takeaways t 
 LEFT JOIN roster r ON t.take_player_id = r.player_id
 GROUP BY player_name 
@@ -132,13 +135,14 @@ Evgeni Malkin lead the league in takeaways with 90.
 
 **Results**
 
-![alt text](image-9.png)
+![alt text](image-7.png)
+
 
 **11. Who had the most giveaways? How many?**
 
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
-	,COUNT(g.give_player_id) AS total_giveaways
+	,COUNT(r.player_id) AS total_giveaways
 FROM giveaways g
 LEFT JOIN roster r ON g.give_player_id = r.player_id
 GROUP BY player_name
@@ -149,7 +153,8 @@ David Patrnak lead the league in giveaways with 98.
 
 **Results**
 
-![alt text](image-10.png)
+![alt text](image-9.png)
+
 
 **12. Who lead the league in penalty minutes? How many?**
 
