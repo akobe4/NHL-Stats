@@ -2,6 +2,7 @@
 All answers are for the 2023-2024 regular season
 
 **1. Who lead the league in save percentage?**
+<!-- 
 ```SQL
 SELECT r.first_name ||' '|| r.last_name AS player_name
 	,SUM(g.shots_against)/(SUM(g.shots_against)+SUM(g.goals_against))  AS save_percentage --this line not working, work with CAST function
@@ -10,7 +11,7 @@ LEFT JOIN roster r ON g.player_id = r.player_id
 GROUP BY player_name
 ORDER BY save_percentage DESC;
 ```
-
+-->
 
 
 **2. Who lead the league in short-handed goals? How many?**
