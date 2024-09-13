@@ -52,3 +52,27 @@ LIMIT 10;
 **Results**
 
 ![alt text](image-12.png)
+
+
+<!-- 
+**4. League Leaders in faceoff win percentage, playing at least 50 faceoffs taken**
+```SQL
+SELECT r.player_id
+	,COUNT(f.w_player_id) AS faceoff_wins
+FROM faceoffs f 
+RIGHT JOIN roster r ON f.w_player_id = r.player_id
+GROUP BY r.player_id
+HAVING COUNT(f.w_player_id) >=50 
+ORDER BY faceoff_wins DESC;
+
+
+SELECT r.player_id
+	,COUNT(f.l_player_id) AS faceoff_losses
+FROM faceoffs f 
+RIGHT JOIN roster r ON f.l_player_id = r.player_id
+GROUP BY r.player_id
+HAVING COUNT(f.l_player_id) >=50
+ORDER BY faceoff_losses DESC;
+```
+-->
+

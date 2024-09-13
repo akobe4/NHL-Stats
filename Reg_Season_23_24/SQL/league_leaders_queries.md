@@ -174,3 +174,21 @@ Matthew Tkachuk drew the most penalties with 50.
 
 ![alt text](image-10.png)
 
+
+**13. Who had the most shots blocked? How many?**
+
+```SQL
+SELECT r.first_name ||' '|| r.last_name AS player_name
+	,COUNT(r.player_id) AS total_shots_blocked
+FROM shots s 
+LEFT JOIN roster r ON s.shoot_player_id = r.player_id
+WHERE s.event_name LIKE 'blocked-shot'
+GROUP BY player_name
+ORDER BY total_shots_blocked DESC;
+```
+
+Quinn Hughes had 242 of his shots blocked. 
+
+**Results**
+
+![alt text](image-13.png)
