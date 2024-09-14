@@ -76,3 +76,7 @@ ORDER BY faceoff_losses DESC;
 ```
 -->
 
+**5. How Auston Matthews scored his goals (shot types)**
+```SQL
+
+```
