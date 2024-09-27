@@ -80,3 +80,18 @@ ORDER BY faceoff_losses DESC;
 ```SQL
 
 ```
+
+**6. Number of hits per period in each game**
+```SQL
+SELECT game_id
+	,game_period 
+	,COUNT(game_id) AS no_hits
+FROM hits 
+GROUP BY game_id, game_period
+ORDER BY game_id, game_period;
+```
+
+**Results**
+
+![alt text](image-14.png)
+
