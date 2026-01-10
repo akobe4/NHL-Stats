@@ -1,0 +1,534 @@
+**Table Creation NHL Stats 2024-2025**
+
+**All Shots Data Table**
+```SQL
+CREATE TABLE all_shots (
+    game_id int
+    ,game_period int
+    ,event_id int
+    ,time_in_period varchar(20)
+    ,time_remaining varchar(20)
+    ,situation_code int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name varchar(50)
+    ,event_owner_team_id int
+    ,zone_code char(1)
+    ,x_coord int
+    ,y_coord int
+    ,shot_type varchar(50)
+    ,shoot_player_id int
+    ,goalie_in_id int
+    ,away_sog int
+    ,home_sog int
+    ,miss_reason varchar(50)
+    ,block_player_id int
+    ,block_reason varchar(50)
+    
+);
+```
+
+```SQL
+COPY all_shots
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\csv_files\all_shots.csv'
+DELIMETER ','
+CSV Header; 
+```
+
+**Blocked Shots Data Table**
+```SQL
+CREATE TABLE blocked_shots (
+    game_id	int
+    ,game_period	int
+    ,event_id	int
+    ,time_in_period	varchar(20)
+    ,time_remaining	varchar(20)
+    ,situation_code	int
+    ,home_def_code	varchar(5)
+    ,type_code	int
+    ,event_name	varchar(50)
+    ,event_owner_team_id	int
+    ,zone_code	char(1)
+    ,x_coord	int
+    ,y_coord	int
+    ,shoot_player_id	int
+    ,block_player_id	int
+    ,block_reason	varchar(50)
+    
+)
+```
+
+```SQL 
+copy blocked_shots
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\blocked_shots_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Faceoffs Data Table**
+```SQL
+CREATE TABLE faceoffs (
+    game_id int
+    ,game_period int
+    ,event_id int
+    ,time_in_period	varchar(20)
+    ,time_remaining	varchar(20)
+    ,situation_code	int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name	varchar(50)
+    ,event_owner_team_id int
+    ,zone_code char(1)
+    ,x_coord int
+    ,y_coord int
+    ,l_player_id int
+    ,w_player_id int
+)
+```
+
+```SQL 
+COPY faceoffs
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\faceoffs_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Game Story Data Table**
+```SQL 
+CREATE TABLE game_story(
+    game_num int
+    ,game_date date
+    ,venue varchar
+    ,venue_location varchar(50)
+    ,a_team_id int
+    ,h_team_id int
+    ,a_team_code	char(3)
+    ,h_team_code	char(3)
+    ,a_goals	int
+    ,h_goals	int
+    ,a_sog int
+    ,h_sog int
+    ,a_fo_win_perc decimal(4,3)
+    ,h_fo_win_perc decimal(4,3)
+    ,a_ppg int
+    ,h_ppg int
+    ,a_pp_perc decimal(4,3)
+    ,h_pp_perc decimal(4,3)
+    ,a_pim int
+    ,h_pim int
+    ,a_hits int
+    ,h_hits int
+    ,a_blocked_shots	int
+    ,h_blocked_shots	int
+    ,a_giveaways	int
+    ,h_giveaways	int
+    ,a_takeaways	int
+    ,h_takeaways	int
+);    
+```
+
+```SQL
+COPY game_story
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\game_story_data_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Giveaways Data Table**
+```SQL
+CREATE TABLE giveaways (
+    game_id	int
+    ,game_period int
+    ,event_id int
+    ,time_in_period varchar(20)
+    ,time_remaining varchar(20)
+    ,situation_code int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name varchar(50)
+    ,event_owner_team_id	int
+    ,zone_code char(1)
+    ,x_coord	int
+    ,y_coord	int
+    ,give_player_id int    
+)
+```
+
+```SQL
+COPY giveaways
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\giveaways_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Glossary Data Table**
+```SQL
+CREATE TABLE glossary (
+    def_id	int
+    ,abbrev	varchar
+    ,var_name	varchar
+    ,var_definition	varchar
+    ,first_season_for_stat	varchar
+    ,last_updated	varchar  
+);
+```
+
+```SQL
+COPY glossary
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\glossary_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+***Goalie Career Regular Season Stats Data Table**
+```SQL
+CREATE TABLE goalie_career_reg_stats (
+    player_id int
+    ,games_played int
+    ,games_started int
+    ,wins int
+    ,losses int
+    ,ot_losses int
+    ,goals int
+    ,assist int
+    ,goals_against int
+    ,gaa decimal(5,3)
+    ,pim int
+    ,save_pctg decimal(4,3)
+    ,shots_against int
+    ,shutouts int
+);
+```
+
+```SQL
+COPY goalie_career_reg_stats
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\goalie_career_reg_stats_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Goalie Regular Season Stats Data Table**
+```SQL
+CREATE TABLE goalie_reg_stats (
+    player_id int
+    ,games_played int
+    ,wins int
+    ,losses int
+    ,ot_losses int
+    ,gaa	decimal(5,3)
+    ,save_pctg decimal(4,3)
+    ,shut_outs int
+);
+```
+
+```SQL
+COPY goalie_reg_stats
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\goalie_reg_stats_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Goals Data Table**
+```SQL
+CREATE TABLE goals (
+    game_id int
+    ,game_period int
+    ,event_id int
+    ,time_in_period varchar(20)
+    ,time_remaining varchar(20)
+    ,situation_code int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name varchar(20)
+    ,event_owner_team_id	int
+    ,zone_code char(1)
+    ,x_coord	int
+    ,y_coord	int
+    ,shot_type varchar(20)
+    ,goalie_in_id int
+    ,score_player_id int
+    ,score_player_total int
+    ,assist_1_player_id int
+    ,assist_1_player_total int
+    ,assist_2_player_id int
+    ,assist_2_player_total int
+    ,away_score int
+    ,home_score int
+    ,video_link varchar    
+);
+```
+
+```SQL
+COPY goals
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\goals_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Hits Data Table**
+```SQL
+CREATE TABLE hits (
+    game_id	int
+    ,game_period int
+    ,event_id int
+    ,time_in_period	varchar(20)
+    ,time_remaining	varchar(20)
+    ,situation_code int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name	varchar(5)
+    ,event_owner_team_id int
+    ,zone_code char(1)
+    ,x_coord int
+    ,y_coord int
+    ,hitter_id int
+    ,hittee_id int
+);
+```
+
+```SQL
+COPY hits 
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\hits_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Missed Shots Data table**
+```SQL
+CREATE TABLE missed_shots (
+     game_id	int
+    ,game_period int
+    ,event_id int
+    ,time_in_period varchar(20)
+    ,time_remaining varchar(20)
+    ,situation_code int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name varchar(20)
+    ,event_owner_team_id int
+    ,zone_code char(1)
+    ,x_coord int
+    ,y_coord int
+    ,shot_type varchar(20)
+    ,shoot_player_id int
+    ,miss_reason	varchar(50)    
+);
+```
+
+```SQL
+COPY missed_shots
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\missed_shots_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Penalties Data Table**
+```SQL
+CREATE TABLE penalties (
+    game_id	int
+    ,game_period	int
+    ,event_id	int
+    ,time_in_period	varchar(20)
+    ,time_remaining	varchar(20)
+    ,situation_code	int
+    ,home_def_code	varchar(5)
+    ,type_code	int
+    ,event_name	varchar(20)
+    ,event_owner_team_id	int
+    ,zone_code	char(1)
+    ,x_coord	int
+    ,y_coord	int
+    ,penl_code	char(3)
+    ,penl_type	varchar(50)
+    ,penl_len	int
+    ,drawn_by_player_id	int
+    ,commit_player_id	int   
+);
+```
+
+```SQL
+COPY penalties
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\penalties_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Player ID and Position Data Table**
+```SQL 
+CREATE TABLE player_id_position (
+    player_id	int
+    ,position	char(1)
+);
+```
+
+```SQL 
+COPY player_id_position
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\player_id_position_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Player Info Data Table**
+```SQL
+CREATE TABLE player_info (
+     player_id int
+    ,first_name varchar(30)
+    ,last_name varchar(30)
+    ,birth_date date
+    ,is_active boolean
+    ,player_position char(1)
+    ,shoots_catches char(1)
+    ,height_inches int
+    ,height_cm int
+    ,weight_lbs int
+    ,weight_kg int
+    ,birth_city varchar(50)
+    ,birth_country char(3)
+    ,draft_year int
+    ,draft_team char(3)
+    ,draft_round int
+    ,draft_pick_in_round int
+    ,draft_overall_pick int
+    ,head_shot varchar
+    ,hero_image varchar     
+);
+```
+
+```SQL
+COPY player_info
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\player_info_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Shots on Goal Data Table**
+```SQL
+CREATE TABLE shots_on_goal (
+    game_id	int
+    ,game_period int
+    ,event_id int
+    ,time_in_period varchar(20)
+    ,time_remaining	varchar(20)
+    ,situation_code	int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name varchar(20)
+    ,event_owner_team_id int
+    ,zone_code char(1)
+    ,x_coord int
+    ,y_coord int
+    ,shot_type varchar(20)
+    ,shoot_player_id int
+    ,goalie_in_id int
+    ,away_sog int
+    ,home_sog int
+);
+```
+
+```SQL
+COPY shots_on_goal
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\shots_on_goal_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Skater Career Regular Season Stats Data Table**
+```SQL
+CREATE TABLE skater_career_reg_stats (
+    player_id int
+    ,games_played int
+    ,avg_toi varchar(20)
+    ,goals int
+    ,assists int
+    ,points	int
+    ,game_winning_goals int
+    ,ot_goals int
+    ,shots int
+    ,fo_win_pctg decimal(4,3)
+    ,pim int
+    ,plus_minus int
+    ,shooting_pctg decimal(4,3)
+    ,pp_goals int
+    ,pp_points int
+    ,sh_goals int
+    ,sh_points int
+);
+```
+
+```SQL
+COPY skater_career_reg_stats
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\skater_career_reg_stats_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Skater Regular Season Stats**
+```SQL
+CREATE TABLE skater_reg_stats (
+    player_id int
+    ,games_played int
+    ,goals int
+    ,assists int
+    ,points int
+    ,game_win_goals	int
+    ,ot_goals int
+    ,shots int
+    ,shooting_pctg decimal(4,3)
+    ,pim int
+    ,plus_minus int
+    ,pp_goals int
+    ,pp_points int
+    ,sh_goals int
+    ,sh_points int
+);
+```
+
+```SQL
+COPY skater_reg_stats
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\skater_reg_stats_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Takeaways Data table**
+```SQL 
+CREATE TABLE takeaways (
+    game_id	int
+    ,game_period int
+    ,event_id int
+    ,time_in_period varchar(20)
+    ,time_remaining varchar(20)
+    ,situation_code int
+    ,home_def_code varchar(5)
+    ,type_code int
+    ,event_name varchar(20)
+    ,event_owner_team_id	int
+    ,zone_code char(1)
+    ,x_coord	int
+    ,y_coord	int
+    ,take_player_id int
+);
+```
+
+```SQL
+COPY takeaways
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\takeaways_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Teams Data Table**
+```SQL
+CREATE TABLE teams (
+    team_id	int
+    ,team char(3)
+);
+```
+
+```SQL
+COPY teams
+FROM 'C:\Users\Alex\Documents\NHL-Stats\2024-2025\Data\clean_csv_files\teams_clean.csv'
+DELIMITER ','
+CSV Header;
+```
