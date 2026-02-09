@@ -41,3 +41,84 @@ FROM goals g
 LEFT JOIN game_story gs ON g.game_id = gs.game_num
 WHERE g.score_player_id IN (8477934, 8477939, 8471214, 8479420, 8477956);
 ```
+
+**4. Most goals allowed**
+```SQL 
+SELECT p.first_name
+	,p.last_name
+	,gr.games_played
+	,COUNT(g.goalie_in_id) AS goals_allowed
+FROM goals g
+LEFT JOIN player_info p ON g.goalie_in_id = p.player_id
+LEFT JOIN goalie_reg_stats gr ON g.goalie_in_id = gr.player_id
+GROUP BY goalie_in_id
+		,p.last_name
+		,p.first_name
+		,games_played
+ORDER BY goals_allowed DESC;
+```
+
+**5.William Nylander's goals**
+
+Query to pull all of William Nylander's goals
+```SQL
+SELECT game_id
+	,game_period
+	,time_remaining
+	,situation_code
+	,home_def_code
+	,event_owner_team_id
+	,zone_code
+	,x_coord
+	,y_coord
+	,shot_type
+	,assist_1_player_id
+	,assist_2_player_id
+	,goalie_in_id
+FROM goals
+WHERE score_player_id = 8477939 AND game_period <> 5;
+```
+
+number of goals scored by period
+```SQL
+SELECT game_period
+	,COUNT(game_period) AS goals_per_period
+FROM goals
+WHERE score_player_id = 8477939 AND game_period <> 5
+GROUP BY game_period
+ORDER BY game_period;
+```
+
+![alt text](image.png)
+
+Number of goals scored by shot type
+```SQL
+SELECT shot_type
+	,COUNT(shot_type) AS total_goals
+FROM goals
+WHERE score_player_id = 8477939 AND game_period <> 5
+GROUP BY shot_type
+ORDER BY total_goals DESC;
+```
+
+![alt text](image-1.png)
+
+
+Number of goals scored on specific goalies 
+```SQL
+SELECT CONCAT(p.first_name, ' ', p.last_name) AS full_name
+	,COUNT(g.goalie_in_id) AS total_goals
+FROM goals g
+LEFT JOIN player_info p ON g.goalie_in_id = p.player_id
+WHERE g.score_player_id = 8477939 
+	AND g.game_period <> 5
+	AND g.goalie_in_id IS NOT NULL
+GROUP BY full_name
+ORDER BY total_goals DESC;
+```
+
+![alt text](image-3.png)
+
+Query shows Nylander scored 3 goals on Joseph Woll - this isn't possible so that information is incorrect in the data. Under further investigation these goals were scored in games 2024020807 and 2024021216. 1 goal was scored on Filip Gustavsson and the other 2 were scored on Elvis Merzlikins.
+
+
