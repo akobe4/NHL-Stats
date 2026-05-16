@@ -344,3 +344,120 @@ FROM
 DELIMITER ','
 CSV Header;
 ```
+
+**Player ID and Position Data Table**
+```SQL
+CREATE TABLE player_id_position (
+	player_id int
+	,player_position char(1)
+);
+```
+
+```SQL
+COPY player_id_position
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\player_id_position_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+
+**Player Info Data Table**
+```SQL
+CREATE TABLE player_info(
+	player_id int
+	,first_name	varchar(40)
+	,last_name varchar(40)
+	,birth_date date
+	,is_active boolean
+	,current_team_id int
+	,player_position char(1)
+	,shoots_catches char(1)
+	,height_inches int
+	,height_cm int
+	,weight_lbs int
+	,weight_kg int 
+	,birth_city varchar(50)
+	,birth_state_prov varchar(30)
+	,birth_country char(3)
+	,draft_year int
+	,draft_team char(3)
+	,draft_round int
+	,draft_pick_in_round int
+	,draft_overall_pick int 
+	,head_shot varchar
+	,hero_image varchar
+);
+```
+
+```SQL 
+COPY player_info
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\player_info_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Shots on Goal Data Table**
+```SQL
+CREATE TABLE shots_on_goal (
+	game_id int
+	,game_period int
+	,event_id int
+	,time_in_period varchar(20)
+	,time_remaining varchar(20)
+	,situation_code int
+	,home_def_code varchar(5)
+	,type_code int
+	,event_name varchar(20)
+	,event_owner_team_id int
+	,zone_code char(1)
+	,x_coord int
+	,y_coord int
+	,shot_type varchar(20)
+	,shoot_player_id int 
+	,goalie_in_id int
+	,away_sog int
+	,home_sog int
+);
+```
+
+```SQL
+COPY shots_on_goal
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\shots_on_goal_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Skater Career Regular Season Stats Data Table**
+```SQL
+CREATE TABLE skater_career_reg_stats (
+	player_id int
+	,games_played int
+	,avg_toi varchar(20)
+	,goals int
+	,assists int 
+	,points int 
+	,gwg int 
+	,ot_goals int 
+	,shots int 
+	,fo_win_pctg decimal(4,3)
+	,pim int
+	,plus_minus int 
+	,shooting_pctg decimal(4,3)
+	,pp_goals int
+	,pp_points int
+	,sh_goals int
+	,sh_points int
+);
+```
+
+```SQL
+COPY skater_career_reg_stats
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\skater_career_reg_stats_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
