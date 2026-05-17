@@ -461,3 +461,76 @@ DELIMITER ','
 CSV Header;
 ```
 
+**Skater Regular Season Stats Data Table**
+```SQL
+CREATE TABLE skater_reg_stats (
+	player_id int
+	,games_played int
+	,goals int
+	,assists int
+	,points int
+	,gwg int
+	,ot_goals int
+	,shots int
+	,shooting_pctg decimal(4,3)
+	,pim int
+	,plus_minus int
+	,pp_goals int
+	,pp_points int
+	,sh_goals int
+	,sh_points int
+);
+```
+
+```SQL
+COPY skater_reg_stats
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\skater_reg_stats_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Takeaways Data Table**
+```SQL 
+CREATE TABLE takeaways(
+	 game_id int
+	,game_period int
+	,event_id int
+	,time_in_period varchar(20)
+	,time_remaining varchar(20)
+	,situation_code int
+	,home_def_code varchar(5)
+	,type_code int
+	,event_name varchar(20)
+	,event_owner_team_id int
+	,zone_code char(1)
+	,x_coord int
+	,y_coord int
+	,take_player_id int
+);
+```
+
+```SQL
+COPY takeaways
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\takeaways_clean.csv'
+DELIMITER ','
+CSV Header;
+```
+
+**Teams Data Table**
+
+```SQL
+CREATE TABLE teams (
+	team_id int
+	,team char(3)
+);
+```
+
+```SQL 
+COPY teams
+FROM
+'C:\Users\Alex\Documents\NHL-Stats\2025-2026\Data\csv\teams.csv'
+DELIMITER ','
+CSV Header;
+```
