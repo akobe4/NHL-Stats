@@ -11,6 +11,7 @@ ORDER BY Total DESC;
 
 * does not account for different variations or spellings of names (Alex and Alexander for example show up as different names)
 
-![alt text](image.png)
+![alt text](most_popular_names.png)
+
 
 
