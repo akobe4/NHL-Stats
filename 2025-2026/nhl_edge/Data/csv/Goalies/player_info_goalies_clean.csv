@@ -1,0 +1,99 @@
+player_id,first_name,last_name,birth_date,is_active,current_team_id,position,shoots_catches,height_inches,height_cm,weight_lbs,weight_kg,birth_city,birth_state_prov,birth_country,draft_year,draft_team,draft_round,draft_pick_in_round,draft_overall_pick,hero_image
+8475683,Sergei,Bobrovsky,1988-09-20,TRUE,13,G,L,74,188,180,82,Novokuznetsk,,RUS,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8475683.jpg
+8480193,Daniil,Tarasov,1999-03-27,TRUE,13,G,L,77,196,203,92,Novokuznetsk,,RUS,2017,CBJ,3,24,86,https://assets.nhle.com/mugs/actionshots/1296x729/8480193.jpg
+8481519,Spencer,Knight,2001-04-19,TRUE,16,G,L,75,191,191,87,Darien,Connecticut,USA,2019,FLA,1,13,13,https://assets.nhle.com/mugs/actionshots/1296x729/8481519.jpg
+8482821,Arvid,Soderblom,1999-08-19,TRUE,16,G,L,75,191,180,82,Goteborg,,SWE,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8482821.jpg
+8471734,Jonathan,Quick,1986-01-21,TRUE,3,G,L,73,185,219,99,Milford,Connecticut,USA,2005,LAK,3,11,72,https://assets.nhle.com/mugs/actionshots/1296x729/8471734.jpg
+8477465,Tristan,Jarry,1995-04-29,TRUE,22,G,L,76,193,201,91,Surrey,British Columbia,CAN,2013,PIT,2,14,44,https://assets.nhle.com/mugs/actionshots/1296x729/8477465.jpg
+8478048,Igor,Shesterkin,1995-12-30,TRUE,3,G,L,73,185,199,90,Moscow,,RUS,2014,NYR,4,28,118,https://assets.nhle.com/mugs/actionshots/1296x729/8478048.jpg
+8481668,Arturs,Silovs,2001-03-22,TRUE,5,G,L,76,193,208,94,Riga,,LVA,2019,VAN,6,1,156,https://assets.nhle.com/mugs/actionshots/1296x729/8481668.jpg
+8475311,Darcy,Kuemper,1990-05-05,TRUE,26,G,L,77,196,215,98,Saskatoon,Saskatchewan,CAN,2009,MIN,6,11,161,https://assets.nhle.com/mugs/actionshots/1296x729/8475311.jpg
+8475809,Scott,Wedgewood,1992-08-14,TRUE,21,G,L,74,188,201,91,Brampton,Ontario,CAN,2010,NJD,3,24,84,https://assets.nhle.com/mugs/actionshots/1296x729/8475809.jpg
+8476341,Anton,Forsberg,1992-11-27,TRUE,26,G,L,75,191,200,91,Harnosand,,SWE,2011,CBJ,7,7,188,https://assets.nhle.com/mugs/actionshots/1296x729/8476341.jpg
+8481529,Trent,Miner,2001-02-05,TRUE,21,G,L,73,185,185,84,Brandon,Manitoba,CAN,2019,COL,7,16,202,https://assets.nhle.com/mugs/actionshots/1296x729/8481529.jpg
+8476932,Anthony,Stolarz,1994-01-20,TRUE,10,G,L,78,198,248,112,Edison,New Jersey,USA,2012,PHI,2,15,45,https://assets.nhle.com/mugs/actionshots/1296x729/8476932.jpg
+8478470,Samuel,Montembeault,1996-10-30,TRUE,8,G,L,75,191,218,99,Becancour,Quebec,CAN,2015,FLA,3,16,77,https://assets.nhle.com/mugs/actionshots/1296x729/8478470.jpg
+8480051,Cayden,Primeau,1999-08-11,TRUE,12,G,L,75,191,205,93,Farmington Hills,Michigan,USA,2017,MTL,7,13,199,https://assets.nhle.com/mugs/actionshots/1296x729/8480051.jpg
+8482487,Jakub,Dobes,2001-05-27,TRUE,8,G,L,76,193,215,98,Ostrava,,CZE,2020,MTL,5,12,136,https://assets.nhle.com/mugs/actionshots/1296x729/8482487.jpg
+8476914,Joonas,Korpisalo,1994-04-28,TRUE,6,G,L,76,193,200,91,Pori,,FIN,2012,CBJ,3,1,62,https://assets.nhle.com/mugs/actionshots/1296x729/8476914.jpg
+8479292,Charlie,Lindgren,1993-12-18,TRUE,15,G,R,74,188,190,86,Lakeville,Minnesota,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8479292.jpg
+8480280,Jeremy,Swayman,1998-11-24,TRUE,6,G,L,75,191,195,88,Anchorage,Alaska,USA,2017,BOS,4,18,111,https://assets.nhle.com/mugs/actionshots/1296x729/8480280.jpg
+8480313,Logan,Thompson,1997-02-25,TRUE,15,G,R,76,193,207,94,Calgary,Alberta,CAN,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8480313.jpg
+8475717,Calvin,Pickard,1992-04-15,TRUE,22,G,L,73,185,206,93,Moncton,New Brunswick,CAN,2010,COL,2,19,49,https://assets.nhle.com/mugs/actionshots/1296x729/8475717.jpg
+8479973,Stuart,Skinner,1998-11-01,TRUE,5,G,L,76,193,215,98,Edmonton,Alberta,CAN,2017,EDM,3,16,78,https://assets.nhle.com/mugs/actionshots/1296x729/8479973.jpg
+8481692,Dustin,Wolf,2001-04-16,TRUE,20,G,L,72,183,166,75,Gilroy,California,USA,2019,CGY,7,28,214,https://assets.nhle.com/mugs/actionshots/1296x729/8481692.jpg
+8482445,Devin,Cooley,1997-05-25,TRUE,20,G,L,77,196,192,87,Los Gatos,California,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8482445.jpg
+8478499,Adin,Hill,1996-05-11,TRUE,54,G,L,76,193,222,101,Comox,British Columbia,CAN,2015,ARI,3,15,76,https://assets.nhle.com/mugs/actionshots/1296x729/8478499.jpg
+8481033,Akira,Schmid,2000-05-12,TRUE,54,G,L,77,196,190,86,Bern,,CHE,2018,NJD,5,12,136,https://assets.nhle.com/mugs/actionshots/1296x729/8481033.jpg
+8479312,Alex,Lyon,1992-12-09,TRUE,7,G,L,73,185,199,90,Baudette,Minnesota,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8479312.jpg
+8481551,Colten,Ellis,2000-10-05,TRUE,7,G,L,73,185,191,87,Whycocomagh,Nova Scotia,CAN,2019,STL,3,31,93,https://assets.nhle.com/mugs/actionshots/1296x729/8481551.jpg
+8475660,Cam,Talbot,1987-07-05,TRUE,17,G,L,75,191,202,92,Caledonia,Ontario,CAN,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8475660.jpg
+8476434,John,Gibson,1993-07-14,TRUE,17,G,L,75,191,209,95,Pittsburgh,Pennsylvania,USA,2011,ANA,2,9,39,https://assets.nhle.com/mugs/actionshots/1296x729/8476434.jpg
+8476883,Andrei,Vasilevskiy,1994-07-25,TRUE,14,G,L,76,193,223,101,Tyumen,,RUS,2012,TBL,1,19,19,https://assets.nhle.com/mugs/actionshots/1296x729/8476883.jpg
+8476999,Linus,Ullmark,1993-07-31,TRUE,9,G,L,76,193,223,101,Lugnvik,,SWE,2012,BUF,6,12,163,https://assets.nhle.com/mugs/actionshots/1296x729/8476999.jpg
+8477992,Jonas,Johansson,1995-09-19,TRUE,14,G,L,77,196,220,100,Gavle,,SWE,2014,BUF,3,1,61,https://assets.nhle.com/mugs/actionshots/1296x729/8477992.jpg
+8482447,Leevi,Merilainen,2002-08-13,TRUE,9,G,L,74,188,196,89,Oulu,,FIN,2020,OTT,3,9,71,https://assets.nhle.com/mugs/actionshots/1296x729/8482447.jpg
+8478435,Dan,Vladar,1997-08-20,TRUE,4,G,L,77,196,209,95,Prague,,CZE,2015,BOS,3,14,75,https://assets.nhle.com/mugs/actionshots/1296x729/8478435.jpg
+8481035,Samuel,Ersson,1999-10-20,TRUE,4,G,L,75,191,194,88,Falun,,SWE,2018,PHI,5,19,143,https://assets.nhle.com/mugs/actionshots/1296x729/8481035.jpg
+8478009,Ilya,Sorokin,1995-08-04,TRUE,2,G,L,75,191,189,86,Mezhdurechensk,,RUS,2014,NYI,3,18,78,https://assets.nhle.com/mugs/actionshots/1296x729/8478009.jpg
+8479496,David,Rittich,1992-08-19,TRUE,2,G,L,75,191,200,91,Jihlava,,CZE,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8479496.jpg
+8474593,Jacob,Markstrom,1990-01-31,TRUE,1,G,L,78,198,207,94,Gavle,,SWE,2008,FLA,2,1,31,https://assets.nhle.com/mugs/actionshots/1296x729/8474593.jpg
+8474596,Jake,Allen,1990-08-07,TRUE,1,G,L,74,188,197,89,Fredericton,New Brunswick,CAN,2008,STL,2,4,34,https://assets.nhle.com/mugs/actionshots/1296x729/8474596.jpg
+8475883,Frederik,Andersen,1989-10-02,TRUE,12,G,L,76,193,229,104,Herning,,DNK,2012,ANA,3,26,87,https://assets.nhle.com/mugs/actionshots/1296x729/8475883.jpg
+8483548,Brandon,Bussi,1998-06-25,TRUE,12,G,R,76,193,218,99,Sound Beach,New York,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8483548.jpg
+8476412,Jordan,Binnington,1993-07-11,TRUE,19,G,L,74,188,172,78,Richmond Hill,Ontario,CAN,2011,STL,3,27,88,https://assets.nhle.com/mugs/actionshots/1296x729/8476412.jpg
+8479406,Filip,Gustavsson,1998-06-07,TRUE,30,G,L,74,188,184,83,Skelleftea,,SWE,2016,PIT,2,25,55,https://assets.nhle.com/mugs/actionshots/1296x729/8479406.jpg
+8480981,Joel,Hofer,2000-07-30,TRUE,19,G,L,77,196,193,88,Winnipeg,Manitoba,CAN,2018,STL,4,14,107,https://assets.nhle.com/mugs/actionshots/1296x729/8480981.jpg
+8482661,Jesper,Wallstedt,2002-11-14,TRUE,30,G,L,75,191,214,97,Vasteras,,SWE,2021,MIN,1,20,20,https://assets.nhle.com/mugs/actionshots/1296x729/8482661.jpg
+8477424,Juuse,Saros,1995-04-19,TRUE,18,G,L,71,180,180,82,Forssa,,FIN,2013,NSH,4,8,99,https://assets.nhle.com/mugs/actionshots/1296x729/8477424.jpg
+8478007,Elvis,Merzlikins,1994-04-13,TRUE,29,G,L,75,191,190,86,Riga,,LVA,2014,CBJ,3,16,76,https://assets.nhle.com/mugs/actionshots/1296x729/8478007.jpg
+8481020,Justus,Annunen,2000-03-11,TRUE,18,G,L,76,193,210,95,Kempele,,FIN,2018,COL,3,2,64,https://assets.nhle.com/mugs/actionshots/1296x729/8481020.jpg
+8482982,Jet,Greaves,2001-03-30,TRUE,29,G,L,72,183,188,85,Cambridge,Ontario,CAN,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8482982.jpg
+8476945,Connor,Hellebuyck,1993-05-19,TRUE,52,G,L,76,193,207,94,Commerce,Michigan,USA,2012,WPG,5,9,130,https://assets.nhle.com/mugs/actionshots/1296x729/8476945.jpg
+8477480,Eric,Comrie,1995-07-06,TRUE,52,G,L,73,185,190,86,Edmonton,Alberta,CAN,2013,WPG,2,29,59,https://assets.nhle.com/mugs/actionshots/1296x729/8477480.jpg
+8479193,Casey,DeSmith,1991-08-13,TRUE,25,G,L,72,183,188,85,Rochester,New Hampshire,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8479193.jpg
+8479979,Jake,Oettinger,1998-12-18,TRUE,25,G,L,78,198,225,102,Lakeville,Minnesota,USA,2017,DAL,1,26,26,https://assets.nhle.com/mugs/actionshots/1296x729/8479979.jpg
+8477970,Vitek,Vanecek,1996-01-09,TRUE,68,G,L,74,188,184,83,Havlickuv Brod,,CZE,2014,WSH,2,9,39,https://assets.nhle.com/mugs/actionshots/1296x729/8477970.jpg
+8478872,Karel,Vejmelka,1996-05-25,TRUE,68,G,R,76,193,221,100,Trebic,,CZE,2015,NSH,5,24,145,https://assets.nhle.com/mugs/actionshots/1296x729/8478872.jpg
+8477967,Thatcher,Demko,1995-12-08,TRUE,23,G,L,76,193,192,87,San Diego,California,USA,2014,VAN,2,6,36,https://assets.nhle.com/mugs/actionshots/1296x729/8477967.jpg
+8480947,Kevin,Lankinen,1995-04-28,TRUE,23,G,L,74,188,190,86,Helsinki,,FIN,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8480947.jpg
+8477968,Alex,Nedeljkovic,1996-01-07,TRUE,28,G,L,72,183,205,93,Parma,Ohio,USA,2014,CAR,2,7,37,https://assets.nhle.com/mugs/actionshots/1296x729/8477968.jpg
+8482137,Yaroslav,Askarov,2002-06-16,TRUE,28,G,R,75,191,180,82,Omsk,,RUS,2020,NSH,1,11,11,https://assets.nhle.com/mugs/actionshots/1296x729/8482137.jpg
+8475831,Philipp,Grubauer,1991-11-25,TRUE,55,G,L,73,185,188,85,Rosenheim,,DEU,2010,WSH,4,22,112,https://assets.nhle.com/mugs/actionshots/1296x729/8475831.jpg
+8475852,Petr,Mrazek,1992-02-14,TRUE,24,G,L,74,188,192,87,Ostrava,,CZE,2010,DET,5,21,141,https://assets.nhle.com/mugs/actionshots/1296x729/8475852.jpg
+8478916,Joey,Daccord,1996-08-19,TRUE,55,G,L,74,188,201,91,Boston,Massachusetts,USA,2015,OTT,7,18,199,https://assets.nhle.com/mugs/actionshots/1296x729/8478916.jpg
+8480843,Lukas,Dostal,2000-06-22,TRUE,24,G,L,74,188,190,86,Brno,,CZE,2018,ANA,3,23,85,https://assets.nhle.com/mugs/actionshots/1296x729/8480843.jpg
+8476899,Matt,Murray,1994-05-25,TRUE,55,G,L,77,196,220,100,Thunder Bay,Ontario,CAN,2012,PIT,3,22,83,https://assets.nhle.com/mugs/actionshots/1296x729/8476899.jpg
+8482076,Nico,Daws,2000-12-22,TRUE,1,G,L,76,193,205,93,Munich,,DEU,2020,NJD,3,22,84,https://assets.nhle.com/mugs/actionshots/1296x729/8482076.jpg
+8477831,Pheonix,Copley,1992-01-18,TRUE,26,G,L,76,193,205,93,North Pole,Alaska,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8477831.jpg
+8481544,Mads,Sogaard,2000-12-13,TRUE,9,G,L,79,201,231,105,Aalborg,,DNK,2019,OTT,2,6,37,https://assets.nhle.com/mugs/actionshots/1296x729/8481544.jpg
+8480045,Ukko-Pekka,Luukkonen,1999-03-09,TRUE,7,G,L,77,196,223,101,Espoo,,FIN,2017,BUF,2,23,54,https://assets.nhle.com/mugs/actionshots/1296x729/8480045.jpg
+8482761,Carl,Lindbom,2003-05-20,TRUE,54,G,L,73,185,186,84,Stockholm,,SWE,2021,VGK,7,30,222,https://assets.nhle.com/mugs/actionshots/1296x729/8482761.jpg
+8483710,Dennis,Hildeby,2001-08-19,TRUE,10,G,L,79,201,231,105,Jarfalla,,SWE,2022,TOR,4,25,122,https://assets.nhle.com/mugs/actionshots/1296x729/8483710.jpg
+8482411,Hunter,Shepard,1995-11-07,TRUE,8,G,L,71,180,225,102,Cohasset,Minnesota,USA,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8482411.jpg
+8478406,Mackenzie,Blackwood,1996-12-09,TRUE,21,G,L,76,193,225,102,Thunder Bay,Ontario,CAN,2015,NJD,2,12,42,https://assets.nhle.com/mugs/actionshots/1296x729/8478406.jpg
+8482783,Aleksei,Kolosov,2002-01-04,TRUE,4,G,L,73,185,185,84,Minsk,,BLR,2021,PHI,3,14,78,https://assets.nhle.com/mugs/actionshots/1296x729/8482783.jpg
+8481611,Pyotr,Kochetkov,1999-06-25,TRUE,12,G,L,75,191,196,89,Penza,,RUS,2019,CAR,2,5,36,https://assets.nhle.com/mugs/actionshots/1296x729/8481611.jpg
+8483703,Sergei,Murashov,2004-04-01,TRUE,5,G,R,74,188,185,84,Yaroslavl,,RUS,2022,PIT,4,21,118,https://assets.nhle.com/mugs/actionshots/1296x729/8483703.jpg
+8480238,Jiri,Patera,1999-02-24,TRUE,23,G,L,75,191,212,96,Praha,,CZE,2017,VGK,6,6,161,https://assets.nhle.com/mugs/actionshots/1296x729/8480238.jpg
+8482515,Artur,Akhtyamov,2001-10-31,TRUE,10,G,L,74,188,176,80,Kazan,,RUS,2020,TOR,4,13,106,https://assets.nhle.com/mugs/actionshots/1296x729/8482515.jpg
+8479361,Joseph,Woll,1998-07-12,TRUE,10,G,L,75,191,212,96,Dardenne Prairie,Missouri,USA,2016,TOR,3,1,62,https://assets.nhle.com/mugs/actionshots/1296x729/8479361.jpg
+8483114,Thomas,Milic,2003-04-14,TRUE,52,G,L,72,183,175,79,New Westminster,British Columbia,CAN,2023,WPG,5,23,151,https://assets.nhle.com/mugs/actionshots/1296x729/8483114.jpg
+8482193,Dylan,Garand,2002-06-07,TRUE,3,G,L,73,185,185,84,Victoria,British Columbia,CAN,2020,NYR,4,10,103,https://assets.nhle.com/mugs/actionshots/1296x729/8482193.jpg
+8478024,Ville,Husso,1995-02-06,TRUE,24,G,L,75,191,205,93,Helsinki,,FIN,2014,STL,4,4,94,https://assets.nhle.com/mugs/actionshots/1296x729/8478024.jpg
+8484268,Nikita,Tolopilo,2000-04-06,TRUE,23,G,L,78,198,229,104,Minsk,,BLR,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8484268.jpg
+8483746,Vyacheslav,Buteyets,2002-05-29,TRUE,24,G,L,76,193,220,100,Moscow,,RUS,2022,ANA,6,17,178,https://assets.nhle.com/mugs/actionshots/1296x729/8483746.jpg
+8477484,Spencer,Martin,1995-06-08,TRUE,3,G,L,75,191,191,87,Oakville,Ontario,CAN,2013,COL,3,2,63,https://assets.nhle.com/mugs/actionshots/1296x729/8477484.jpg
+8479394,Carter,Hart,1998-08-13,TRUE,54,G,L,74,188,196,89,Sherwood Park,Alberta,CAN,2016,PHI,2,18,48,https://assets.nhle.com/mugs/actionshots/1296x729/8479394.jpg
+8477990,Brandon,Halverson,1996-03-29,TRUE,14,G,L,77,196,235,107,Traverse City,Michigan,USA,2014,NYR,2,29,59,https://assets.nhle.com/mugs/actionshots/1296x729/8477990.jpg
+8483532,Clay,Stevenson,1999-03-03,TRUE,15,G,L,76,193,195,88,Drayton Valley,Alberta,CAN,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8483532.jpg
+8484170,Jacob,Fowler,2004-11-24,TRUE,8,G,L,73,185,223,101,Melbourne,Florida,USA,2023,MTL,3,5,69,https://assets.nhle.com/mugs/actionshots/1296x729/8484170.jpg
+8478971,Connor,Ingram,1997-03-31,TRUE,22,G,L,73,185,218,99,Saskatoon,Saskatchewan,CAN,2016,TBL,3,27,88,https://assets.nhle.com/mugs/actionshots/1296x729/8478971.jpg
+8477405,Marcus,Hogberg,1994-11-25,TRUE,2,G,L,77,196,232,105,Orebro,,SWE,2013,OTT,3,17,78,https://assets.nhle.com/mugs/actionshots/1296x729/8477405.jpg
+8482123,Drew,Commesso,2002-07-19,TRUE,16,G,L,74,188,180,82,Norwell,Massachusetts,USA,2020,CHI,2,15,46,https://assets.nhle.com/mugs/actionshots/1296x729/8482123.jpg
+8473503,James,Reimer,1988-03-15,TRUE,9,G,L,74,188,200,91,Morweena,Manitoba,CAN,2006,TOR,4,6,99,https://assets.nhle.com/mugs/actionshots/1296x729/8473503.jpg
+8480022,Michael,DiPietro,1999-06-09,TRUE,6,G,L,73,185,205,93,Windsor,Ontario,CAN,2017,VAN,3,2,64,https://assets.nhle.com/mugs/actionshots/1296x729/8480022.jpg
+8476316,Laurent,Brossoit,1993-03-23,TRUE,28,G,L,75,191,203,92,Port Alberni,British Columbia,CAN,2011,CGY,6,13,164,https://assets.nhle.com/mugs/actionshots/1296x729/8476316.jpg
+8483668,Nikke,Kokko,2004-03-14,TRUE,55,G,L,75,191,184,83,Oulu,,FIN,2022,SEA,2,26,58,https://assets.nhle.com/mugs/actionshots/1296x729/8483668.jpg
+8484910,Victor,Ostman,2000-10-03,TRUE,55,G,L,76,193,205,93,Danderyd,,SWE,,,,,,https://assets.nhle.com/mugs/actionshots/1296x729/8484910.jpg
+8482949,Arsenii,Sergeev,2002-12-16,TRUE,20,G,L,75,191,192,87,Yaroslavl,,RUS,2021,CGY,7,13,205,https://assets.nhle.com/mugs/actionshots/1296x729/8482949.jpg
