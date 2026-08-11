@@ -1,4 +1,4 @@
-**Table Creation NHL Edge Stats 2024-2025**
+**Table Creation NHL Edge Skater Stats 2024-2025**
 
 **Max Shot Speed Data Table**
 ```SQL
