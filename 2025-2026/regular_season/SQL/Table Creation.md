@@ -1,4 +1,4 @@
-**Table Creation NHL Stats 2024-2025**
+**Table Creation Regular Season NHL Stats 2024-2025**
 
 **All Shots Data Table**
 ```SQL
